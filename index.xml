@@ -1,4 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🪴 Quartz 3.2 on</title><link>https://quartz.jzhao.xyz/</link><description>Recent content in 🪴 Quartz 3.2 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://quartz.jzhao.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>CJK + Latex Support (测试)</title><link>https://quartz.jzhao.xyz/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95/</guid><description>Chinese, Japanese, Korean Support 几乎在我们意识到之前，我们已经离开了地面。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🪴 Quartz 3.2 on</title><link>https://quartz.jzhao.xyz/</link><description>Recent content in 🪴 Quartz 3.2 on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://quartz.jzhao.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://quartz.jzhao.xyz/notes/Additions/Additions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Additions/Additions/</guid><description>[[named_reactions]]
+Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl References:
+[0] Just a moment&amp;hellip;
+Condition to enforce:
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Additions/Electrophilic-Addition/Alkene-Addition/Alkene-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Additions/Electrophilic-Addition/Alkene-Addition/Alkene-Addition/</guid><description>[[Electrophilic-Addition]]
+Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Chlorine References:
+[0] Alkene Reactivity
+Condition to enforce:
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Additions/Electrophilic-Addition/Alkyne-Addition/Alkyne-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Additions/Electrophilic-Addition/Alkyne-Addition/Alkyne-Addition/</guid><description>[[Other]]
+Alkyne-Addition-El-Chlorine-and-Nu-Chlorine References:
+[0] Synthesis (5) - Reactions of Alkynes – Master Organic Chemistry
+Condition to enforce:
+R1 = H, A-Aliphatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</guid><description>[[Additions]]
+Halogenation-Allylic-Succinimides-X-Bromine References:
+[0] N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry
+Condition to enforce:
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Additions/Michael-Addition/Michael-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Additions/Michael-Addition/Michael-Addition/</guid><description>[[Additions]]
+Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester References:
+[0] Michael Addition
+[1] JSCT_v11-6.pdf
+Condition to enforce:
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</guid><description>[[Nucleophilic-Addition]]
+Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate References:
+[0] Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry
+[1] 19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Additions/Nucleophilic-Addition/Nucleophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Additions/Nucleophilic-Addition/Nucleophilic-Addition/</guid><description>[[Additions]]
+Riemschneider-Thiocarbamate-Synthesis-Water References:
+[0] Riemschneider thiocarbamate synthesis - Wikipedia
+Condition to enforce:
+R1 = L-A
+![[Riemschneider-Thiocarbamate-Synthesis-Water.png]]
+Amide-Carbonyl-Addition References:</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Eliminations/Eliminations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Eliminations/Eliminations/</guid><description>[[named_reactions]]
+Krapcho-Decarboxylation-GWE-Carboxyl References:
+[0] Krapcho Decarboxylation
+Condition to enforce:
+R1 = L-A
+R2 = L-A
+R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/named_reactions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/named_reactions/</guid><description>Title: [[named_reactions]] [[Libraries]]
+Definition: A Chemical transformation of one (or more) compounds into one (or more) different compounds that represents a reaction that can be distilled from at least one, but in general more than one elementary steps.</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</guid><description>[[Other]]
+Madelung-Indole-Synthesis References:
+[0] Madelung Indole Synthesis
+[1] Madelung synthesis - Wikipedia
+Condition to enforce:
+R5 = H, A-Aliphatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Other/Other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Other/Other/</guid><description>[[named_reactions]]
+Formylation-Alpha-Bromo References:
+[0] Haloform Reaction
+Condition to enforce:
+R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A
+R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Other/ozonolysis/ozonolysis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Other/ozonolysis/ozonolysis/</guid><description>[[Other]]
+ozonolysis-alkyne References:
+[0] Ozonolysis - Criegee Mechanism
+[1] Alkene Reactions: Ozonolysis – Master Organic Chemistry
+[2] Alkene Reactions: Ozonolysis – Master Organic Chemistry</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</guid><description>[[Other]]
+Baeyer-Villiger-Oxidation-(Peracid) References:
+[0] Baeyer-Villiger Oxidation
+[1] Baeyer–Villiger oxidation - Wikipedia
+Condition to enforce:
+R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon
+R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Rearrangements/Pericyclic/Pericyclic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Rearrangements/Pericyclic/Pericyclic/</guid><description>[[Rearrangements]]
+Oxy-Cope-Rearrangement References:
+[0] Cope rearrangement - Wikipedia
+Special Conditions : SIDE REACTION Condition to enforce:
+R1 = L-A</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Rearrangements/Rearrangements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Rearrangements/Rearrangements/</guid><description>[[named_reactions]]
+Benzilic-Acid-Rearrangement References:
+[0] Benzilic Acid Rearrangement
+Special Conditions : SIDE REACTION Condition to enforce:
+R1 = A-Aromatic-Carbon
+R2 = A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>[[Substitutions]]
+Reimer-Tiemann-Formylation References:
+[0] Reimer-Tiemann Formylation
+![[Reimer-Tiemann-Formylation.png]]
+Benzene-Nitration References:
+[0] Nitration of Benzene and Methylbenzene - Chemistry LibreTexts
+[1] Nitration - Wikipedia</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</guid><description>[[Nucleophilic-Substitutions]]
+Nucleophilic Acyl Substitution is a reaction that carboxylic acid derivatives undergo. It is a 2-step mechanism that involves nucleophilic addition and leaving group removal.</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</guid><description>[[Nucleophilic-Substitutions]]
+Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine References:
+[0] Acetoacetic-Ester Synthesis
+[1] Substituted carbonyl compound synthesis by alkylation or condensation
+[2] Malonic Ester Synthesis
+[3] Carbonyl alpha-substitution reactions - Wikipedia</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</guid><description>[[Nucleophilic-Substitutions]]
+A nucleophile (Nu-) attack an electron poor aromatic molecule, resulting in the substitution of a leaving group Works well with electron withdrawing groups (EWG), such as NO2, since it activates the ring The EWGs work well in the ortho or para positions since the Nu- puts a negative charge on the ring and the EWG can help stabilize it !</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</guid><description>[[Substitutions]]
+Aziridine-Ring-Opening-Nu-Chlorine-acid References:
+[0] Aziridines - Wikipedia
+Condition to enforce:
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Substitutions/</guid><description>[[named_reactions]]
+Horner-Wadsworth-Emmons-Reaction-EWG-Carboxyl References:
+[0] Horner–Wadsworth–Emmons reaction - Wikipedia
+Condition to enforce:
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
+R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title>CJK + Latex Support (测试)</title><link>https://quartz.jzhao.xyz/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95/</guid><description>Chinese, Japanese, Korean Support 几乎在我们意识到之前，我们已经离开了地面。
 우리가 그것을 알기도 전에 우리는 땅을 떠났습니다.
 私たちがそれを知るほぼ前に、私たちは地面を離れていました。
 Latex Block math works with two dollar signs $$.</description></item><item><title>Configuration</title><link>https://quartz.jzhao.xyz/notes/config/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/config/</guid><description>Configuration Quartz is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you&amp;rsquo;d like to get.</description></item><item><title>Custom Domain</title><link>https://quartz.jzhao.xyz/notes/custom-Domain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/custom-Domain/</guid><description>Registrar This step is only applicable if you are using a custom domain! If you are using a &amp;lt;YOUR-USERNAME&amp;gt;.github.io domain, you can skip this step.</description></item><item><title>Deploying Quartz to the Web</title><link>https://quartz.jzhao.xyz/notes/hosting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/hosting/</guid><description>GitHub Pages Quartz is designed to be effortless to deploy. If you forked and cloned Quartz directly from the repository, everything should already be good to go!</description></item><item><title>Editing Content in Quartz</title><link>https://quartz.jzhao.xyz/notes/editing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/editing/</guid><description>Editing Quartz runs on top of Hugo so all notes are written in Markdown.
