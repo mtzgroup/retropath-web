@@ -18,7 +18,7 @@ References:
 
 
 
-![/content/notes/images/Riemschneider-Thiocarbamate-Synthesis-Water.png]
+![image](/content/notes/images/Riemschneider-Thiocarbamate-Synthesis-Water.png)
 
 #### Amide-Carbonyl-Addition
 
@@ -38,7 +38,7 @@ References:
 
 
 
-![/content/notes/images/Amide-Carbonyl-Addition.png]
+![image](/content/notes/images/Amide-Carbonyl-Addition.png)
 
 #### Cannizzaro-Reaction
 
@@ -56,7 +56,7 @@ References:
 
 
 
-![/content/notes/images/Cannizzaro-Reaction.png]
+![image](/content/notes/images/Cannizzaro-Reaction.png)
 
 #### Nitrile-to-Amide-Acidic
 
@@ -73,7 +73,7 @@ References:
 
 
 
-![/content/notes/images/Nitrile-to-Amide-Acidic.png]
+![image](/content/notes/images/Nitrile-to-Amide-Acidic.png)
 
 #### Pinner-Reaction-Sulfur
 
@@ -91,7 +91,7 @@ References:
 
 
 
-![/content/notes/images/Pinner-Reaction-Sulfur.png]
+![image](/content/notes/images/Pinner-Reaction-Sulfur.png)
 
 #### Pinner-Reaction
 
@@ -109,7 +109,7 @@ References:
 
 
 
-![/content/notes/images/Pinner-Reaction.png]
+![image](/content/notes/images/Pinner-Reaction.png)
 
 #### Nitrile-to-Amide-Basic
 
@@ -126,5 +126,5 @@ References:
 
 
 
-![/content/notes/images/Nitrile-to-Amide-Basic.png]
+![image](/content/notes/images/Nitrile-to-Amide-Basic.png)
 

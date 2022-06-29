@@ -13,7 +13,7 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![/content/notes/images/Buchner-Ring-Expansion-(O).png]
+![image](/content/notes/images/Buchner-Ring-Expansion-(O).png)
 
 #### Oxy-Cope-Rearrangement
 
@@ -36,7 +36,7 @@ References:
 
 
 
-![/content/notes/images/Oxy-Cope-Rearrangement.png]
+![image](/content/notes/images/Oxy-Cope-Rearrangement.png)
 
 #### Petasis-Ferrier-Rearrangement
 
@@ -60,7 +60,7 @@ References:
 
 
 
-![/content/notes/images/Petasis-Ferrier-Rearrangement.png]
+![image](/content/notes/images/Petasis-Ferrier-Rearrangement.png)
 
 #### Neber-Rearrangement
 
@@ -80,7 +80,7 @@ References:
 
 
 
-![/content/notes/images/Neber-Rearrangement.png]
+![image](/content/notes/images/Neber-Rearrangement.png)
 
 #### Oxa-Vinylcyclopropane-Rearrangement
 
@@ -97,7 +97,7 @@ References:
 
 
 
-![/content/notes/images/Oxa-Vinylcyclopropane-Rearrangement.png]
+![image](/content/notes/images/Oxa-Vinylcyclopropane-Rearrangement.png)
 
 #### Claisen-Rearrangement
 
@@ -109,7 +109,7 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![/content/notes/images/Claisen-Rearrangement.png]
+![image](/content/notes/images/Claisen-Rearrangement.png)
 
 #### Claisen-Rearrangement-Aromatic
 
@@ -121,7 +121,7 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![/content/notes/images/Claisen-Rearrangement-Aromatic.png]
+![image](/content/notes/images/Claisen-Rearrangement-Aromatic.png)
 
 #### 1,3-Dipolar-Cycloaddition-Type-I
 
@@ -132,7 +132,7 @@ References:
 
  
  
-![/content/notes/images/1,3-Dipolar-Cycloaddition-Type-I.png]
+![image](/content/notes/images/1,3-Dipolar-Cycloaddition-Type-I.png)
 
 #### Diels Alder 4+2-Nitrogen
 
@@ -158,7 +158,7 @@ References:
 
 
 
-![/content/notes/images/Diels Alder 4+2-Nitrogen.png]
+![image](/content/notes/images/Diels Alder 4+2-Nitrogen.png)
 
 #### Sommelet-Hauser-Rearrangement
 
@@ -178,7 +178,7 @@ References:
 
 
 
-![/content/notes/images/Sommelet-Hauser-Rearrangement.png]
+![image](/content/notes/images/Sommelet-Hauser-Rearrangement.png)
 
 #### Ene-Reaction-C=C
 
@@ -204,7 +204,7 @@ References:
 
 
 
-![/content/notes/images/Ene-Reaction-C=C.png]
+![image](/content/notes/images/Ene-Reaction-C=C.png)
 
 #### Irreversable-Azo-Cope-Rearrangement
 
@@ -229,7 +229,7 @@ References:
 
 
 
-![/content/notes/images/Irreversable-Azo-Cope-Rearrangement.png]
+![image](/content/notes/images/Irreversable-Azo-Cope-Rearrangement.png)
 
 #### Nazarov-Cyclization
 
@@ -250,7 +250,7 @@ References:
 
 
 
-![/content/notes/images/Nazarov-Cyclization.png]
+![image](/content/notes/images/Nazarov-Cyclization.png)
 
 #### Vinylcyclopropane-Rearrangement
 
@@ -268,7 +268,7 @@ References:
 
 
 
-![/content/notes/images/Vinylcyclopropane-Rearrangement.png]
+![image](/content/notes/images/Vinylcyclopropane-Rearrangement.png)
 
 #### Ene-Reaction-C=O
 
@@ -292,7 +292,7 @@ References:
 
 
 
-![/content/notes/images/Ene-Reaction-C=O.png]
+![image](/content/notes/images/Ene-Reaction-C=O.png)
 
 #### Newman-Kwart-Rearrangement
 
@@ -311,7 +311,7 @@ References:
 
 
 
-![/content/notes/images/Newman-Kwart-Rearrangement.png]
+![image](/content/notes/images/Newman-Kwart-Rearrangement.png)
 
 #### Overman-Rearrangement-Pt1
 
@@ -331,7 +331,7 @@ References:
 
 
 
-![/content/notes/images/Overman-Rearrangement-Pt1.png]
+![image](/content/notes/images/Overman-Rearrangement-Pt1.png)
 
 #### Aza-Vinylcyclopropane-Rearrangement
 
@@ -349,7 +349,7 @@ References:
 
 
 
-![/content/notes/images/Aza-Vinylcyclopropane-Rearrangement.png]
+![image](/content/notes/images/Aza-Vinylcyclopropane-Rearrangement.png)
 
 #### Diels Alder 4+2
 
@@ -376,7 +376,7 @@ References:
 
 
 
-![/content/notes/images/Diels Alder 4+2.png]
+![image](/content/notes/images/Diels Alder 4+2.png)
 
 #### Ene-Reaction-C=S
 
@@ -400,7 +400,7 @@ References:
 
 
 
-![/content/notes/images/Ene-Reaction-C=S.png]
+![image](/content/notes/images/Ene-Reaction-C=S.png)
 
 #### Buchner-Ring-Expansion-(C)
 
@@ -411,7 +411,7 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![/content/notes/images/Buchner-Ring-Expansion-(C).png]
+![image](/content/notes/images/Buchner-Ring-Expansion-(C).png)
 
 #### Ene-Reaction-C=N
 
@@ -436,7 +436,7 @@ References:
 
 
 
-![/content/notes/images/Ene-Reaction-C=N.png]
+![image](/content/notes/images/Ene-Reaction-C=N.png)
 
 #### 1,3-Dipolar-Cycloaddition-Type-II
 
@@ -447,7 +447,7 @@ References:
 
  
  
-![/content/notes/images/1,3-Dipolar-Cycloaddition-Type-II.png]
+![image](/content/notes/images/1,3-Dipolar-Cycloaddition-Type-II.png)
 
 #### Thio-Claisen-Rearrangement
 
@@ -459,7 +459,7 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![/content/notes/images/Thio-Claisen-Rearrangement.png]
+![image](/content/notes/images/Thio-Claisen-Rearrangement.png)
 
 #### Conia-Ene-Reaction
 
@@ -482,7 +482,7 @@ References:
 
 
 
-![/content/notes/images/Conia-Ene-Reaction.png]
+![image](/content/notes/images/Conia-Ene-Reaction.png)
 
 #### Ene-Reaction-N=N
 
@@ -506,7 +506,7 @@ References:
 
 
 
-![/content/notes/images/Ene-Reaction-N=N.png]
+![image](/content/notes/images/Ene-Reaction-N=N.png)
 
 #### Azo-Vinylcyclopropane-Rearrangement
 
@@ -524,7 +524,7 @@ References:
 
 
 
-![/content/notes/images/Azo-Vinylcyclopropane-Rearrangement.png]
+![image](/content/notes/images/Azo-Vinylcyclopropane-Rearrangement.png)
 
 #### Enolate-Claisen-Rearrangement
 
@@ -549,7 +549,7 @@ References:
 
 
 
-![/content/notes/images/Enolate-Claisen-Rearrangement.png]
+![image](/content/notes/images/Enolate-Claisen-Rearrangement.png)
 
 #### Favorskii-Rearrangement-(Br)
 
@@ -569,7 +569,7 @@ References:
 
 
 
-![/content/notes/images/Favorskii-Rearrangement-(Br).png]
+![image](/content/notes/images/Favorskii-Rearrangement-(Br).png)
 
 #### Buchner-Ring-Expansion-(N)
 
@@ -580,7 +580,7 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![/content/notes/images/Buchner-Ring-Expansion-(N).png]
+![image](/content/notes/images/Buchner-Ring-Expansion-(N).png)
 
 #### Tiffeneau-Demjanov-Rearrangement
 
@@ -600,7 +600,7 @@ References:
 
 
 
-![/content/notes/images/Tiffeneau-Demjanov-Rearrangement.png]
+![image](/content/notes/images/Tiffeneau-Demjanov-Rearrangement.png)
 
 #### Favorskii-Rearrangement-(Cl)
 
@@ -620,7 +620,7 @@ References:
 
 
 
-![/content/notes/images/Favorskii-Rearrangement-(Cl).png]
+![image](/content/notes/images/Favorskii-Rearrangement-(Cl).png)
 
 #### Azo-Cope
 
@@ -644,7 +644,7 @@ References:
 
 
 
-![/content/notes/images/Azo-Cope.png]
+![image](/content/notes/images/Azo-Cope.png)
 
 #### Diels Alder 4+2-Oxygen
 
@@ -669,7 +669,7 @@ References:
 
 
 
-![/content/notes/images/Diels Alder 4+2-Oxygen.png]
+![image](/content/notes/images/Diels Alder 4+2-Oxygen.png)
 
 #### Overman-Rearrangement-Pt2
 
@@ -689,5 +689,5 @@ References:
 
 
 
-![/content/notes/images/Overman-Rearrangement-Pt2.png]
+![image](/content/notes/images/Overman-Rearrangement-Pt2.png)
 

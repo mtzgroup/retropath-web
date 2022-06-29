@@ -21,7 +21,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-El-Chlorine-and-Nu-Chlorine.png]
+![image](/content/notes/images/Alkyne-Addition-El-Chlorine-and-Nu-Chlorine.png)
 
 ##### Alkyne-Addition-El-Bromine-and-Nu-Iodine
 
@@ -39,7 +39,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-El-Bromine-and-Nu-Iodine.png]
+![image](/content/notes/images/Alkyne-Addition-El-Bromine-and-Nu-Iodine.png)
 
 ##### Alkyne-Addition-El-Chlorine-and-Nu-Iodine
 
@@ -57,7 +57,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-El-Chlorine-and-Nu-Iodine.png]
+![image](/content/notes/images/Alkyne-Addition-El-Chlorine-and-Nu-Iodine.png)
 
 ##### Alkyne-Addition-El-Iodine-and-Nu-Iodine
 
@@ -75,7 +75,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-El-Iodine-and-Nu-Iodine.png]
+![image](/content/notes/images/Alkyne-Addition-El-Iodine-and-Nu-Iodine.png)
 
 ##### Alkyne-Addition-El-Bromine-and-Nu-Bromine
 
@@ -93,7 +93,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-El-Bromine-and-Nu-Bromine.png]
+![image](/content/notes/images/Alkyne-Addition-El-Bromine-and-Nu-Bromine.png)
 
 ##### Alkyne-Addition-Acidification-Bromine
 
@@ -111,7 +111,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-Acidification-Bromine.png]
+![image](/content/notes/images/Alkyne-Addition-Acidification-Bromine.png)
 
 ##### Alkyne-Addition-In-H2O
 
@@ -127,7 +127,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-In-H2O.png]
+![image](/content/notes/images/Alkyne-Addition-In-H2O.png)
 
 ##### Alkyne-Addition-Acidification-Iodine
 
@@ -145,7 +145,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-Acidification-Iodine.png]
+![image](/content/notes/images/Alkyne-Addition-Acidification-Iodine.png)
 
 ##### Alkyne-Addition-El-Chlorine-and-Nu-Bromine
 
@@ -163,7 +163,7 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-El-Chlorine-and-Nu-Bromine.png]
+![image](/content/notes/images/Alkyne-Addition-El-Chlorine-and-Nu-Bromine.png)
 
 ##### Alkyne-Addition-Acidification-Chlorine
 
@@ -181,5 +181,5 @@ References:
 
 
 
-![/content/notes/images/Alkyne-Addition-Acidification-Chlorine.png]
+![image](/content/notes/images/Alkyne-Addition-Acidification-Chlorine.png)
 

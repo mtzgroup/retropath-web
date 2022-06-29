@@ -26,7 +26,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine
 
@@ -48,7 +48,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -71,7 +71,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine
 
@@ -94,7 +94,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Iodine
 
@@ -115,7 +115,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -140,7 +140,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -163,7 +163,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
 ##### Epoxide-Ring-Opening-Nu-Thiolate-acid
 
@@ -185,7 +185,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Thiolate-acid.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Thiolate-acid.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -208,7 +208,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Chlorine
 
@@ -229,7 +229,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Amide
 
@@ -250,7 +250,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Amide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Amide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine
 
@@ -271,7 +271,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Amino
 
@@ -296,7 +296,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Amino.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Amino.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Thiolate
 
@@ -316,7 +316,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Thiolate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Thiolate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-ONO
 
@@ -337,7 +337,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-ONO.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-ONO.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Iodine
 
@@ -359,7 +359,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Amide
 
@@ -380,7 +380,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Amide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Amide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfate-and-Nu-Nitrile
 
@@ -401,7 +401,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfate-and-Nu-Nitrile.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfate-and-Nu-Nitrile.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -424,7 +424,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Iodine
 
@@ -444,7 +444,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Amide
 
@@ -466,7 +466,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Amide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Amide.png)
 
 ##### Epoxide-Ring-Opening-Nu-Chlorine-acid
 
@@ -487,7 +487,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Chlorine-acid.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Chlorine-acid.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine
 
@@ -509,7 +509,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -530,7 +530,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Sulfonamide
 
@@ -551,7 +551,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Sulfonamide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Sulfonamide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Azide
 
@@ -571,7 +571,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-O-Carbamate
 
@@ -592,7 +592,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-O-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-O-Carbamate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -616,7 +616,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Sulfonate
 
@@ -640,7 +640,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Carbamate
 
@@ -662,7 +662,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Carbamate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine
 
@@ -683,7 +683,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -706,7 +706,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Azide
 
@@ -727,7 +727,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine
 
@@ -750,7 +750,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Carbamate
 
@@ -771,7 +771,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Carbamate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -794,7 +794,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-ONO
 
@@ -815,7 +815,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-ONO.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-ONO.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -840,7 +840,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Carboxyl-H
 
@@ -861,7 +861,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Carboxyl-H.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Carboxyl-H.png)
 
 ##### Epoxide-Ring-Opening-Nu-Iodine-acid
 
@@ -882,7 +882,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Iodine-acid.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Iodine-acid.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Nitrate-and-Nu-Hydroxyl
 
@@ -902,7 +902,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Nitrate-and-Nu-Hydroxyl.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Nitrate-and-Nu-Hydroxyl.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Bromine
 
@@ -923,7 +923,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -942,7 +942,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Hydroxyl.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Hydroxyl.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Chlorine
 
@@ -961,7 +961,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Chlorine.png)
 
 ##### Epoxide-Ring-Opening-Nu-Nitrile-basic
 
@@ -982,7 +982,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Nitrile-basic.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Nitrile-basic.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -1008,7 +1008,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -1032,7 +1032,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine
 
@@ -1055,7 +1055,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine
 
@@ -1077,7 +1077,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -1101,7 +1101,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -1123,7 +1123,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-ONO
 
@@ -1145,7 +1145,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-ONO.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-ONO.png)
 
 ##### Epoxide-Ring-Opening-Nu-Amino-basic
 
@@ -1168,7 +1168,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Amino-basic.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Amino-basic.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine
 
@@ -1190,7 +1190,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Carboxyl-H
 
@@ -1212,7 +1212,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Carboxyl-H.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Carboxyl-H.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -1236,7 +1236,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Hydroxyl
 
@@ -1256,7 +1256,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Hydroxyl.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Hydroxyl.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Bromine
 
@@ -1275,7 +1275,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrile
 
@@ -1296,7 +1296,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrile.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrile.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Chlorine
 
@@ -1317,7 +1317,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -1341,7 +1341,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -1364,7 +1364,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -1386,7 +1386,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Carboxyl-H
 
@@ -1407,7 +1407,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Carboxyl-H.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Carboxyl-H.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -1429,7 +1429,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Azide
 
@@ -1450,7 +1450,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrile
 
@@ -1471,7 +1471,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrile.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrile.png)
 
 ##### Epoxide-Ring-Opening-Nu-Thiolate-basic
 
@@ -1493,7 +1493,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Thiolate-basic.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Thiolate-basic.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine
 
@@ -1515,7 +1515,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine.png)
 
 ##### Nucleophilic-Substitution-Enamine-Lg-Chlorine
 
@@ -1536,7 +1536,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -1559,7 +1559,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine.png)
 
 ##### Epoxide-Ring-Opening-Nu-Hydroxyl-acid
 
@@ -1580,7 +1580,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Hydroxyl-acid.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Hydroxyl-acid.png)
 
 ##### Epoxide-Ring-Opening-Nu-Azide-basic
 
@@ -1601,7 +1601,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Azide-basic.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Azide-basic.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -1624,7 +1624,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Azide
 
@@ -1644,7 +1644,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine
 
@@ -1666,7 +1666,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrile
 
@@ -1688,7 +1688,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrile.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrile.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Amino
 
@@ -1713,7 +1713,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Amino.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Amino.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrate
 
@@ -1732,7 +1732,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine
 
@@ -1754,7 +1754,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -1778,7 +1778,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
@@ -1802,7 +1802,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Azide
 
@@ -1822,7 +1822,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Thiolate
 
@@ -1843,7 +1843,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Thiolate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Thiolate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-ONO
 
@@ -1864,7 +1864,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-ONO.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-ONO.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -1886,7 +1886,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Azide
 
@@ -1906,7 +1906,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-O-Carbamate
 
@@ -1928,7 +1928,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-O-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-O-Carbamate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine
 
@@ -1950,7 +1950,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png)
 
 ##### Epoxide-Ring-Opening-Nu-Azide-acid
 
@@ -1971,7 +1971,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Azide-acid.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Azide-acid.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Carbamate
 
@@ -1992,7 +1992,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Carbamate.png)
 
 ##### Nucleophilic-Substitution-Enamine-Lg-Bromine
 
@@ -2013,7 +2013,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Chlorine
 
@@ -2035,7 +2035,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Carboxyl-H
 
@@ -2056,7 +2056,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Carboxyl-H.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Carboxyl-H.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine
 
@@ -2078,7 +2078,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -2099,7 +2099,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Alkoxide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Alkoxide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -2124,7 +2124,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Alkoxide
 
@@ -2145,7 +2145,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Alkoxide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Alkoxide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Amino
 
@@ -2170,7 +2170,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Amino.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Amino.png)
 
 ##### Nucleophilic-Substitution-Enamine-Lg-Sulfonate
 
@@ -2192,7 +2192,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -2215,7 +2215,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Sulfonate
 
@@ -2238,7 +2238,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-O-Carbamate
 
@@ -2259,7 +2259,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-O-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-O-Carbamate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Amide
 
@@ -2280,7 +2280,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Amide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Amide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -2303,7 +2303,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -2325,7 +2325,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Chlorine-and-Nu-Azide
 
@@ -2345,7 +2345,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Chlorine-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Chlorine-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Chlorine
 
@@ -2364,7 +2364,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -2387,7 +2387,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Thiolate
 
@@ -2407,7 +2407,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Thiolate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Thiolate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -2431,7 +2431,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Amino
 
@@ -2457,7 +2457,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Amino.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Amino.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -2478,7 +2478,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png)
 
 ##### Epoxide-Ring-Opening-Nu-Carboxyl-H-basic
 
@@ -2500,7 +2500,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Carboxyl-H-basic.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Carboxyl-H-basic.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrile
 
@@ -2521,7 +2521,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrile.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrile.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Bromine
 
@@ -2541,7 +2541,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -2565,7 +2565,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -2588,7 +2588,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Alkoxide
 
@@ -2609,7 +2609,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Alkoxide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Alkoxide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine
 
@@ -2632,7 +2632,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
@@ -2656,7 +2656,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Carbamate
 
@@ -2677,7 +2677,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Carbamate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Iodine
 
@@ -2698,7 +2698,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Sulfonamide
 
@@ -2719,7 +2719,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Sulfonamide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Sulfonamide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -2741,7 +2741,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine
 
@@ -2762,7 +2762,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png)
 
 ##### Epoxide-Ring-Opening-Nu-Alkoxide-basic
 
@@ -2784,7 +2784,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Alkoxide-basic.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Alkoxide-basic.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine
 
@@ -2806,7 +2806,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Alkoxide
 
@@ -2828,7 +2828,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Alkoxide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Alkoxide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -2851,7 +2851,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine
 
@@ -2872,7 +2872,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png)
 
 ##### Epoxide-Ring-Opening-Nu-Alkoxide-acid
 
@@ -2894,7 +2894,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Alkoxide-acid.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Alkoxide-acid.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -2919,7 +2919,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Sulfonamide
 
@@ -2941,7 +2941,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Sulfonamide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Sulfonamide.png)
 
 ##### Nucleophilic-Substitution-Enamine-Lg-Iodine
 
@@ -2962,7 +2962,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -2986,7 +2986,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -3009,7 +3009,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate
 
@@ -3031,7 +3031,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -3052,7 +3052,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate
 
@@ -3075,7 +3075,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -3097,7 +3097,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Thiolate
 
@@ -3117,7 +3117,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Thiolate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Thiolate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Sulfonate
 
@@ -3141,7 +3141,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -3164,7 +3164,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -3187,7 +3187,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -3210,7 +3210,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Bromine
 
@@ -3231,7 +3231,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine
 
@@ -3254,7 +3254,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Sulfonate
 
@@ -3277,7 +3277,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrate
 
@@ -3297,7 +3297,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine
 
@@ -3318,7 +3318,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine
 
@@ -3340,7 +3340,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Azide
 
@@ -3360,7 +3360,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Nitrate
 
@@ -3380,7 +3380,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Nitrate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Nitrate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Bromine
 
@@ -3402,7 +3402,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Bromine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Bromine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -3426,7 +3426,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -3445,7 +3445,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Hydroxyl.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Hydroxyl.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Azide
 
@@ -3467,7 +3467,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate
 
@@ -3490,7 +3490,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrate
 
@@ -3509,7 +3509,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrate
 
@@ -3528,7 +3528,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-O-Carbamate
 
@@ -3549,7 +3549,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-O-Carbamate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-O-Carbamate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine
 
@@ -3570,7 +3570,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -3595,7 +3595,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Sulfonamide
 
@@ -3616,7 +3616,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Sulfonamide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Sulfonamide.png)
 
 ##### Epoxide-Ring-Opening-Nu-Hydroxyl-basic
 
@@ -3637,7 +3637,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Hydroxyl-basic.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Hydroxyl-basic.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -3656,7 +3656,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Hydroxyl.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Hydroxyl.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine
 
@@ -3678,7 +3678,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Chlorine
 
@@ -3698,7 +3698,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Chlorine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Chlorine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate
 
@@ -3722,7 +3722,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Azide
 
@@ -3742,7 +3742,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Azide.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Azide.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -3767,7 +3767,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -3789,7 +3789,7 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
 ##### Epoxide-Ring-Opening-Nu-Bromine-acid
 
@@ -3810,7 +3810,7 @@ References:
 
 
 
-![/content/notes/images/Epoxide-Ring-Opening-Nu-Bromine-acid.png]
+![image](/content/notes/images/Epoxide-Ring-Opening-Nu-Bromine-acid.png)
 
 ##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -3834,5 +3834,5 @@ References:
 
 
 
-![/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png]
+![image](/content/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png)
 
