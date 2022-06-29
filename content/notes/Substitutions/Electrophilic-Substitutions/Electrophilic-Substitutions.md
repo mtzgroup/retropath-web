@@ -12,7 +12,7 @@ References:
 
  
  
-![[content/notes/images/images/Reimer-Tiemann-Formylation.png]]
+![[content/notes/images/Reimer-Tiemann-Formylation.png]]
 
 #### Benzene-Nitration
 
@@ -43,7 +43,52 @@ References:
 
 
 
-![[content/notes/images/images/Benzene-Nitration.png]]
+![[content/notes/images/Benzene-Nitration.png]]
+
+#### Bradsher-Cyclization-(2)
+
+References:   
+ [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R10 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Bradsher-Cyclization-(2).png]]
+
+#### Bradsher-Cyclization-(1)
+
+References:   
+ [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Bradsher-Cyclization-(1).png]]
+
+#### Duff-Reaction
+
+References:   
+ [0] [Duff Reaction](https://synarchive.com/named-reactions/duff-reaction)  
+ 
+
+
+ 
+ 
+![[content/notes/images/Duff-Reaction.png]]
 
 #### Eschweiler-Clarke-Reaction
 
@@ -62,50 +107,5 @@ References:
 
 
 
-![[content/notes/images/images/Eschweiler-Clarke-Reaction.png]]
-
-#### Bradsher-Cyclization-(1)
-
-References:   
- [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
- 
-
-
- 
-  Condition to enforce: 
-> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Bradsher-Cyclization-(1).png]]
-
-#### Bradsher-Cyclization-(2)
-
-References:   
- [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
- 
-
-
- 
-  Condition to enforce: 
-> R10 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Bradsher-Cyclization-(2).png]]
-
-#### Duff-Reaction
-
-References:   
- [0] [Duff Reaction](https://synarchive.com/named-reactions/duff-reaction)  
- 
-
-
- 
- 
-![[content/notes/images/images/Duff-Reaction.png]]
+![[content/notes/images/Eschweiler-Clarke-Reaction.png]]
 

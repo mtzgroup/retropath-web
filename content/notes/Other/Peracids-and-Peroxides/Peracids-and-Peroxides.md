@@ -3,26 +3,6 @@ tags: ⚙️
 ---
 [[Other]]
 
-#### Baeyer-Villiger-Oxidation-(Peracid)
-
-References:   
- [0] [Baeyer-Villiger Oxidation](https://www.organic-chemistry.org/namedreactions/baeyer-villiger-oxidation.shtm)  
- [1] [Baeyer–Villiger oxidation - Wikipedia](https://en.wikipedia.org/wiki/Baeyer–Villiger_oxidation)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Baeyer-Villiger-Oxidation-(Peracid).png]]
-
 #### Rubottom-Oxidation
 
 References:   
@@ -44,7 +24,27 @@ References:
 
 
 
-![[content/notes/images/images/Rubottom-Oxidation.png]]
+![[content/notes/images/Rubottom-Oxidation.png]]
+
+#### Baeyer-Villiger-Oxidation-(Peracid)
+
+References:   
+ [0] [Baeyer-Villiger Oxidation](https://www.organic-chemistry.org/namedreactions/baeyer-villiger-oxidation.shtm)  
+ [1] [Baeyer–Villiger oxidation - Wikipedia](https://en.wikipedia.org/wiki/Baeyer–Villiger_oxidation)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Baeyer-Villiger-Oxidation-(Peracid).png]]
 
 #### Dakin-Oxidation-Acid
 
@@ -61,7 +61,7 @@ References:
 
 
 
-![[content/notes/images/images/Dakin-Oxidation-Acid.png]]
+![[content/notes/images/Dakin-Oxidation-Acid.png]]
 
 #### Prilezhaev-Epoxidation
 
@@ -83,7 +83,7 @@ References:
 
 
 
-![[content/notes/images/images/Prilezhaev-Epoxidation.png]]
+![[content/notes/images/Prilezhaev-Epoxidation.png]]
 
 #### Dakin-Oxidation-Basic
 
@@ -100,7 +100,7 @@ References:
 
 
 
-![[content/notes/images/images/Dakin-Oxidation-Basic.png]]
+![[content/notes/images/Dakin-Oxidation-Basic.png]]
 
 #### Oxaziridine-Synthesis
 
@@ -120,5 +120,5 @@ References:
 
 
 
-![[content/notes/images/images/Oxaziridine-Synthesis.png]]
+![[content/notes/images/Oxaziridine-Synthesis.png]]
 

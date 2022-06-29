@@ -4,6 +4,17 @@ tags: ⚙️
 [[Rearrangements]]
 
 
+#### Buchner-Ring-Expansion-(O)
+
+References:   
+ [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+ 
+![[content/notes/images/Buchner-Ring-Expansion-(O).png]]
+
 #### Oxy-Cope-Rearrangement
 
 References:   
@@ -25,38 +36,7 @@ References:
 
 
 
-![[content/notes/images/images/Oxy-Cope-Rearrangement.png]]
-
-#### Buchner-Ring-Expansion-(O)
-
-References:   
- [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
- 
-
-
- Special Conditions : SIDE REACTION 
- 
-![[content/notes/images/images/Buchner-Ring-Expansion-(O).png]]
-
-#### Neber-Rearrangement
-
-References:   
- [0] [Neber Rearrangement](https://synarchive.com/named-reactions/neber-rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = L-A  
-> R2 = L-A, Vinyl-Group  
-> R3 = L-A, Vinyl-Group  
-> R4 = L-A  
-> 
-
-
-
-
-![[content/notes/images/images/Neber-Rearrangement.png]]
+![[content/notes/images/Oxy-Cope-Rearrangement.png]]
 
 #### Petasis-Ferrier-Rearrangement
 
@@ -80,7 +60,56 @@ References:
 
 
 
-![[content/notes/images/images/Petasis-Ferrier-Rearrangement.png]]
+![[content/notes/images/Petasis-Ferrier-Rearrangement.png]]
+
+#### Neber-Rearrangement
+
+References:   
+ [0] [Neber Rearrangement](https://synarchive.com/named-reactions/neber-rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = L-A  
+> R2 = L-A, Vinyl-Group  
+> R3 = L-A, Vinyl-Group  
+> R4 = L-A  
+> 
+
+
+
+
+![[content/notes/images/Neber-Rearrangement.png]]
+
+#### Oxa-Vinylcyclopropane-Rearrangement
+
+References:   
+ [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Oxa-Vinylcyclopropane-Rearrangement.png]]
+
+#### Claisen-Rearrangement
+
+References:   
+ [0] [Claisen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Claisen_rearrangement)  
+ [1] [Claisen Rearrangement](https://www.organic-chemistry.org/namedreactions/claisen-rearrangement.shtm)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+ 
+![[content/notes/images/Claisen-Rearrangement.png]]
 
 #### Claisen-Rearrangement-Aromatic
 
@@ -92,7 +121,7 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![[content/notes/images/images/Claisen-Rearrangement-Aromatic.png]]
+![[content/notes/images/Claisen-Rearrangement-Aromatic.png]]
 
 #### 1,3-Dipolar-Cycloaddition-Type-I
 
@@ -103,33 +132,7 @@ References:
 
  
  
-![[content/notes/images/images/1,3-Dipolar-Cycloaddition-Type-I.png]]
-
-#### Ene-Reaction-C=C
-
-References:   
- [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
- [1] [Ene Reaction](https://synarchive.com/named-reactions/ene-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> R7 = L-A, A-Aromatic-Carbon  
-> R8 = L-A, A-Aromatic-Carbon  
-> R9 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Ene-Reaction-C=C.png]]
+![[content/notes/images/1,3-Dipolar-Cycloaddition-Type-I.png]]
 
 #### Diels Alder 4+2-Nitrogen
 
@@ -155,36 +158,7 @@ References:
 
 
 
-![[content/notes/images/images/Diels Alder 4+2-Nitrogen.png]]
-
-#### Oxa-Vinylcyclopropane-Rearrangement
-
-References:   
- [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Oxa-Vinylcyclopropane-Rearrangement.png]]
-
-#### Claisen-Rearrangement
-
-References:   
- [0] [Claisen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Claisen_rearrangement)  
- [1] [Claisen Rearrangement](https://www.organic-chemistry.org/namedreactions/claisen-rearrangement.shtm)  
- 
-
-
- Special Conditions : SIDE REACTION 
- 
-![[content/notes/images/images/Claisen-Rearrangement.png]]
+![[content/notes/images/Diels Alder 4+2-Nitrogen.png]]
 
 #### Sommelet-Hauser-Rearrangement
 
@@ -204,7 +178,33 @@ References:
 
 
 
-![[content/notes/images/images/Sommelet-Hauser-Rearrangement.png]]
+![[content/notes/images/Sommelet-Hauser-Rearrangement.png]]
+
+#### Ene-Reaction-C=C
+
+References:   
+ [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
+ [1] [Ene Reaction](https://synarchive.com/named-reactions/ene-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> R7 = L-A, A-Aromatic-Carbon  
+> R8 = L-A, A-Aromatic-Carbon  
+> R9 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Ene-Reaction-C=C.png]]
 
 #### Irreversable-Azo-Cope-Rearrangement
 
@@ -229,7 +229,46 @@ References:
 
 
 
-![[content/notes/images/images/Irreversable-Azo-Cope-Rearrangement.png]]
+![[content/notes/images/Irreversable-Azo-Cope-Rearrangement.png]]
+
+#### Nazarov-Cyclization
+
+References:   
+ [0] [Nazarov Cyclization Reaction](https://synarchive.com/named-reactions/nazarov-cyclization-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Nazarov-Cyclization.png]]
+
+#### Vinylcyclopropane-Rearrangement
+
+References:   
+ [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Vinylcyclopropane-Rearrangement.png]]
 
 #### Ene-Reaction-C=O
 
@@ -253,25 +292,7 @@ References:
 
 
 
-![[content/notes/images/images/Ene-Reaction-C=O.png]]
-
-#### Aza-Vinylcyclopropane-Rearrangement
-
-References:   
- [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Aza-Vinylcyclopropane-Rearrangement.png]]
+![[content/notes/images/Ene-Reaction-C=O.png]]
 
 #### Newman-Kwart-Rearrangement
 
@@ -290,28 +311,7 @@ References:
 
 
 
-![[content/notes/images/images/Newman-Kwart-Rearrangement.png]]
-
-#### Nazarov-Cyclization
-
-References:   
- [0] [Nazarov Cyclization Reaction](https://synarchive.com/named-reactions/nazarov-cyclization-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Nazarov-Cyclization.png]]
+![[content/notes/images/Newman-Kwart-Rearrangement.png]]
 
 #### Overman-Rearrangement-Pt1
 
@@ -331,44 +331,9 @@ References:
 
 
 
-![[content/notes/images/images/Overman-Rearrangement-Pt1.png]]
+![[content/notes/images/Overman-Rearrangement-Pt1.png]]
 
-#### Buchner-Ring-Expansion-(C)
-
-References:   
- [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
- 
-
-
- Special Conditions : SIDE REACTION 
- 
-![[content/notes/images/images/Buchner-Ring-Expansion-(C).png]]
-
-#### Ene-Reaction-C=S
-
-References:   
- [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
- [1] [Ene Reaction](https://synarchive.com/named-reactions/ene-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> R7 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Ene-Reaction-C=S.png]]
-
-#### Vinylcyclopropane-Rearrangement
+#### Aza-Vinylcyclopropane-Rearrangement
 
 References:   
  [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
@@ -384,32 +349,7 @@ References:
 
 
 
-![[content/notes/images/images/Vinylcyclopropane-Rearrangement.png]]
-
-#### Ene-Reaction-C=N
-
-References:   
- [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
- [1] [Ene Reaction](https://synarchive.com/named-reactions/ene-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> R7 = L-A, A-Aromatic-Carbon  
-> R8 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Ene-Reaction-C=N.png]]
+![[content/notes/images/Aza-Vinylcyclopropane-Rearrangement.png]]
 
 #### Diels Alder 4+2
 
@@ -436,7 +376,78 @@ References:
 
 
 
-![[content/notes/images/images/Diels Alder 4+2.png]]
+![[content/notes/images/Diels Alder 4+2.png]]
+
+#### Ene-Reaction-C=S
+
+References:   
+ [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
+ [1] [Ene Reaction](https://synarchive.com/named-reactions/ene-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> R7 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Ene-Reaction-C=S.png]]
+
+#### Buchner-Ring-Expansion-(C)
+
+References:   
+ [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+ 
+![[content/notes/images/Buchner-Ring-Expansion-(C).png]]
+
+#### Ene-Reaction-C=N
+
+References:   
+ [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
+ [1] [Ene Reaction](https://synarchive.com/named-reactions/ene-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> R7 = L-A, A-Aromatic-Carbon  
+> R8 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Ene-Reaction-C=N.png]]
+
+#### 1,3-Dipolar-Cycloaddition-Type-II
+
+References:   
+ [0] [1,3-Dipolar cycloaddition - Wikipedia](https://en.wikipedia.org/wiki/1,3-Dipolar_cycloaddition)  
+ 
+
+
+ 
+ 
+![[content/notes/images/1,3-Dipolar-Cycloaddition-Type-II.png]]
 
 #### Thio-Claisen-Rearrangement
 
@@ -448,18 +459,30 @@ References:
 
  Special Conditions : SIDE REACTION 
  
-![[content/notes/images/images/Thio-Claisen-Rearrangement.png]]
+![[content/notes/images/Thio-Claisen-Rearrangement.png]]
 
-#### 1,3-Dipolar-Cycloaddition-Type-II
+#### Conia-Ene-Reaction
 
 References:   
- [0] [1,3-Dipolar cycloaddition - Wikipedia](https://en.wikipedia.org/wiki/1,3-Dipolar_cycloaddition)  
+ [0] [Conia-Ene Reaction](https://www.organic-chemistry.org/namedreactions/conia-ene-reaction.shtm)  
  
 
 
  
- 
-![[content/notes/images/images/1,3-Dipolar-Cycloaddition-Type-II.png]]
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> R7 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Conia-Ene-Reaction.png]]
 
 #### Ene-Reaction-N=N
 
@@ -483,30 +506,7 @@ References:
 
 
 
-![[content/notes/images/images/Ene-Reaction-N=N.png]]
-
-#### Conia-Ene-Reaction
-
-References:   
- [0] [Conia-Ene Reaction](https://www.organic-chemistry.org/namedreactions/conia-ene-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> R7 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Conia-Ene-Reaction.png]]
+![[content/notes/images/Ene-Reaction-N=N.png]]
 
 #### Azo-Vinylcyclopropane-Rearrangement
 
@@ -524,7 +524,7 @@ References:
 
 
 
-![[content/notes/images/images/Azo-Vinylcyclopropane-Rearrangement.png]]
+![[content/notes/images/Azo-Vinylcyclopropane-Rearrangement.png]]
 
 #### Enolate-Claisen-Rearrangement
 
@@ -549,7 +549,7 @@ References:
 
 
 
-![[content/notes/images/images/Enolate-Claisen-Rearrangement.png]]
+![[content/notes/images/Enolate-Claisen-Rearrangement.png]]
 
 #### Favorskii-Rearrangement-(Br)
 
@@ -569,7 +569,18 @@ References:
 
 
 
-![[content/notes/images/images/Favorskii-Rearrangement-(Br).png]]
+![[content/notes/images/Favorskii-Rearrangement-(Br).png]]
+
+#### Buchner-Ring-Expansion-(N)
+
+References:   
+ [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+ 
+![[content/notes/images/Buchner-Ring-Expansion-(N).png]]
 
 #### Tiffeneau-Demjanov-Rearrangement
 
@@ -589,27 +600,27 @@ References:
 
 
 
-![[content/notes/images/images/Tiffeneau-Demjanov-Rearrangement.png]]
+![[content/notes/images/Tiffeneau-Demjanov-Rearrangement.png]]
 
-#### Overman-Rearrangement-Pt2
+#### Favorskii-Rearrangement-(Cl)
 
 References:   
- [0] [Overman Rearrangement](https://www.organic-chemistry.org/namedreactions/overman-rearrangement.shtm)  
- [1] [Overman Rearrangement](https://synarchive.com/named-reactions/overman-rearrangement)  
+ [0] [Favorskii rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Favorskii_rearrangement)  
+ [1] [favorskii-rearrangement-1.html](https://www.adichemistry.com/organic/namedreactions/favorskii/favorskii-rearrangement-1.html)  
  
 
 
- Special Conditions : SIDE REACTION 
+ 
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon  
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[content/notes/images/images/Overman-Rearrangement-Pt2.png]]
+![[content/notes/images/Favorskii-Rearrangement-(Cl).png]]
 
 #### Azo-Cope
 
@@ -633,38 +644,7 @@ References:
 
 
 
-![[content/notes/images/images/Azo-Cope.png]]
-
-#### Buchner-Ring-Expansion-(N)
-
-References:   
- [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
- 
-
-
- Special Conditions : SIDE REACTION 
- 
-![[content/notes/images/images/Buchner-Ring-Expansion-(N).png]]
-
-#### Favorskii-Rearrangement-(Cl)
-
-References:   
- [0] [Favorskii rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Favorskii_rearrangement)  
- [1] [favorskii-rearrangement-1.html](https://www.adichemistry.com/organic/namedreactions/favorskii/favorskii-rearrangement-1.html)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Favorskii-Rearrangement-(Cl).png]]
+![[content/notes/images/Azo-Cope.png]]
 
 #### Diels Alder 4+2-Oxygen
 
@@ -689,5 +669,25 @@ References:
 
 
 
-![[content/notes/images/images/Diels Alder 4+2-Oxygen.png]]
+![[content/notes/images/Diels Alder 4+2-Oxygen.png]]
+
+#### Overman-Rearrangement-Pt2
+
+References:   
+ [0] [Overman Rearrangement](https://www.organic-chemistry.org/namedreactions/overman-rearrangement.shtm)  
+ [1] [Overman Rearrangement](https://synarchive.com/named-reactions/overman-rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Overman-Rearrangement-Pt2.png]]
 
