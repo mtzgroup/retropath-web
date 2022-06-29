@@ -21,7 +21,7 @@ References:
 
 
 
-![[content/notes/images/Lossen-Rearrangement.png]]
+![[/content/notes/images/Lossen-Rearrangement.png]]
 
 ### Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile
 
@@ -41,7 +41,7 @@ References:
 
 
 
-![[content/notes/images/Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile.png]]
+![[/content/notes/images/Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile.png]]
 
 ### Benzilic-Acid-Rearrangement
 
@@ -59,7 +59,7 @@ References:
 
 
 
-![[content/notes/images/Benzilic-Acid-Rearrangement.png]]
+![[/content/notes/images/Benzilic-Acid-Rearrangement.png]]
 
 ### Fritsch-Buttenberg-Wiechell-Rearrangement
 
@@ -77,7 +77,7 @@ References:
 
 
 
-![[content/notes/images/Fritsch-Buttenberg-Wiechell-Rearrangement.png]]
+![[/content/notes/images/Fritsch-Buttenberg-Wiechell-Rearrangement.png]]
 
 ### Hofmann-Rearrangement-(Br)
 
@@ -96,7 +96,7 @@ References:
 
 
 
-![[content/notes/images/Hofmann-Rearrangement-(Br).png]]
+![[/content/notes/images/Hofmann-Rearrangement-(Br).png]]
 
 ### Barton-Zard-Reaction-(SO2Ar)
 
@@ -115,7 +115,7 @@ References:
 
 
 
-![[content/notes/images/Barton-Zard-Reaction-(SO2Ar).png]]
+![[/content/notes/images/Barton-Zard-Reaction-(SO2Ar).png]]
 
 ### Fries-Rearrangement-ortho
 
@@ -132,7 +132,7 @@ References:
 
 
 
-![[content/notes/images/Fries-Rearrangement-ortho.png]]
+![[/content/notes/images/Fries-Rearrangement-ortho.png]]
 
 ### Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile
 
@@ -153,7 +153,7 @@ References:
 
 
 
-![[content/notes/images/Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile.png]]
+![[/content/notes/images/Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile.png]]
 
 ### Lobry-de-Bruyn-Van-Ekenstein-Transformation-(Acid)
 
@@ -171,7 +171,7 @@ References:
 
 
 
-![[content/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-(Acid).png]]
+![[/content/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-(Acid).png]]
 
 ### Rupe-Rearrangement
 
@@ -190,7 +190,7 @@ References:
 
 
 
-![[content/notes/images/Rupe-Rearrangement.png]]
+![[/content/notes/images/Rupe-Rearrangement.png]]
 
 ### Curtius-Rearrangement
 
@@ -209,7 +209,7 @@ References:
 
 
 
-![[content/notes/images/Curtius-Rearrangement.png]]
+![[/content/notes/images/Curtius-Rearrangement.png]]
 
 ### Pinacol-Rearrangement
 
@@ -229,7 +229,7 @@ References:
 
 
 
-![[content/notes/images/Pinacol-Rearrangement.png]]
+![[/content/notes/images/Pinacol-Rearrangement.png]]
 
 ### Barton-Zard-Reaction-(NO2)
 
@@ -247,7 +247,7 @@ References:
 
 
 
-![[content/notes/images/Barton-Zard-Reaction-(NO2).png]]
+![[/content/notes/images/Barton-Zard-Reaction-(NO2).png]]
 
 ### Chan-Rearrangement
 
@@ -266,7 +266,7 @@ References:
 
 
 
-![[content/notes/images/Chan-Rearrangement.png]]
+![[/content/notes/images/Chan-Rearrangement.png]]
 
 ### Meisenheimer-Rearrangement
 
@@ -285,7 +285,7 @@ References:
 
 
 
-![[content/notes/images/Meisenheimer-Rearrangement.png]]
+![[/content/notes/images/Meisenheimer-Rearrangement.png]]
 
 ### Eschenmoser-Claisen-Rearrangement
 
@@ -310,7 +310,7 @@ References:
 
 
 
-![[content/notes/images/Eschenmoser-Claisen-Rearrangement.png]]
+![[/content/notes/images/Eschenmoser-Claisen-Rearrangement.png]]
 
 ### Baker-Venkataraman-Rearrangement
 
@@ -334,7 +334,7 @@ References:
 
 
 
-![[content/notes/images/Baker-Venkataraman-Rearrangement.png]]
+![[/content/notes/images/Baker-Venkataraman-Rearrangement.png]]
 
 ### Hofmann-Rearrangement-(Cl)
 
@@ -353,7 +353,7 @@ References:
 
 
 
-![[content/notes/images/Hofmann-Rearrangement-(Cl).png]]
+![[/content/notes/images/Hofmann-Rearrangement-(Cl).png]]
 
 ### Meyer-Schuster-Rearrangement
 
@@ -372,7 +372,7 @@ References:
 
 
 
-![[content/notes/images/Meyer-Schuster-Rearrangement.png]]
+![[/content/notes/images/Meyer-Schuster-Rearrangement.png]]
 
 ### Imine-Tautomerization-EWG-Nitrite-EWG3-Nitrile
 
@@ -391,7 +391,7 @@ References:
 
 
 
-![[content/notes/images/Imine-Tautomerization-EWG-Nitrite-EWG3-Nitrile.png]]
+![[/content/notes/images/Imine-Tautomerization-EWG-Nitrite-EWG3-Nitrile.png]]
 
 ### Imine-Tautomerization-EWG-Carboxyl-EWG3-Nitrile
 
@@ -411,7 +411,7 @@ References:
 
 
 
-![[content/notes/images/Imine-Tautomerization-EWG-Carboxyl-EWG3-Nitrile.png]]
+![[/content/notes/images/Imine-Tautomerization-EWG-Carboxyl-EWG3-Nitrile.png]]
 
 ### Semi-Pinacol-Rearrangement-(Alkene)
 
@@ -432,7 +432,7 @@ References:
 
 
 
-![[content/notes/images/Semi-Pinacol-Rearrangement-(Alkene).png]]
+![[/content/notes/images/Semi-Pinacol-Rearrangement-(Alkene).png]]
 
 ### Criegee-Rearrangement
 
@@ -452,7 +452,7 @@ References:
 
 
 
-![[content/notes/images/Criegee-Rearrangement.png]]
+![[/content/notes/images/Criegee-Rearrangement.png]]
 
 ### Meisenheimer-Rearrangement-(Conjugated)
 
@@ -475,7 +475,7 @@ References:
 
 
 
-![[content/notes/images/Meisenheimer-Rearrangement-(Conjugated).png]]
+![[/content/notes/images/Meisenheimer-Rearrangement-(Conjugated).png]]
 
 ### Semi-Pinacol-Rearrangement-Nu-Iodine
 
@@ -495,7 +495,7 @@ References:
 
 
 
-![[content/notes/images/Semi-Pinacol-Rearrangement-Nu-Iodine.png]]
+![[/content/notes/images/Semi-Pinacol-Rearrangement-Nu-Iodine.png]]
 
 ### Amadori-Rearrangement
 
@@ -513,7 +513,7 @@ References:
 
 
 
-![[content/notes/images/Amadori-Rearrangement.png]]
+![[/content/notes/images/Amadori-Rearrangement.png]]
 
 ### Fries-Rearrangement-para
 
@@ -530,7 +530,7 @@ References:
 
 
 
-![[content/notes/images/Fries-Rearrangement-para.png]]
+![[/content/notes/images/Fries-Rearrangement-para.png]]
 
 ### Piancatelli-Rearrangement
 
@@ -552,7 +552,7 @@ References:
 
 
 
-![[content/notes/images/Piancatelli-Rearrangement.png]]
+![[/content/notes/images/Piancatelli-Rearrangement.png]]
 
 ### Semi-Pinacol-Rearrangement-Nu-Sulfonate
 
@@ -573,7 +573,7 @@ References:
 
 
 
-![[content/notes/images/Semi-Pinacol-Rearrangement-Nu-Sulfonate.png]]
+![[/content/notes/images/Semi-Pinacol-Rearrangement-Nu-Sulfonate.png]]
 
 ### Pummerer-Rearrangement
 
@@ -594,7 +594,7 @@ References:
 
 
 
-![[content/notes/images/Pummerer-Rearrangement.png]]
+![[/content/notes/images/Pummerer-Rearrangement.png]]
 
 ### Semi-Pinacol-Rearrangement-Nu-Bromine
 
@@ -614,7 +614,7 @@ References:
 
 
 
-![[content/notes/images/Semi-Pinacol-Rearrangement-Nu-Bromine.png]]
+![[/content/notes/images/Semi-Pinacol-Rearrangement-Nu-Bromine.png]]
 
 ### Lobry-de-Bruyn-Van-Ekenstein-Transformation-(Base)
 
@@ -632,7 +632,7 @@ References:
 
 
 
-![[content/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-(Base).png]]
+![[/content/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-(Base).png]]
 
 ### Semi-Pinacol-Rearrangement-Nu-Chlorine
 
@@ -652,7 +652,7 @@ References:
 
 
 
-![[content/notes/images/Semi-Pinacol-Rearrangement-Nu-Chlorine.png]]
+![[/content/notes/images/Semi-Pinacol-Rearrangement-Nu-Chlorine.png]]
 
 ### Imine-Tautomerization-EWG-Nitrile-EWG3-Nitrile
 
@@ -671,7 +671,7 @@ References:
 
 
 
-![[content/notes/images/Imine-Tautomerization-EWG-Nitrile-EWG3-Nitrile.png]]
+![[/content/notes/images/Imine-Tautomerization-EWG-Nitrile-EWG3-Nitrile.png]]
 
 ### Beckmann-Rearrangement
 
@@ -691,7 +691,7 @@ References:
 
 
 
-![[content/notes/images/Beckmann-Rearrangement.png]]
+![[/content/notes/images/Beckmann-Rearrangement.png]]
 
 ### Thiocarbamate-Resonance
 
@@ -708,7 +708,7 @@ References:
 
 
 
-![[content/notes/images/Thiocarbamate-Resonance.png]]
+![[/content/notes/images/Thiocarbamate-Resonance.png]]
 
 ### Achmatowicz-Reaction
 
@@ -730,5 +730,5 @@ References:
 
 
 
-![[content/notes/images/Achmatowicz-Reaction.png]]
+![[/content/notes/images/Achmatowicz-Reaction.png]]
 

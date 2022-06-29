@@ -52,7 +52,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Carboxyl
 
@@ -75,7 +75,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Carboxyl.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide
 
@@ -86,7 +86,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -119,7 +119,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Carbonyl
 
@@ -143,7 +143,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Carbonyl.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -154,7 +154,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine
 
@@ -186,7 +186,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Thiolate
 
@@ -207,7 +207,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Thiolate.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl
 
@@ -218,7 +218,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Chlorine
 
@@ -253,7 +253,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Carbonyl
 
@@ -277,7 +277,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Carbonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -313,7 +313,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Amino
 
@@ -335,7 +335,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -350,7 +350,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Hydroxyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Carboxyl
 
@@ -373,7 +373,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Carboxyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Carboxyl
 
@@ -396,7 +396,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -428,7 +428,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -463,7 +463,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Sulfonyl
 
@@ -487,7 +487,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine
 
@@ -520,7 +520,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Thiolate
 
@@ -541,7 +541,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -556,7 +556,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Thiolate
 
@@ -577,7 +577,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Thiolate.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Carboxyl
 
@@ -601,7 +601,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Alkoxide
 
@@ -622,7 +622,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -657,7 +657,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino
 
@@ -675,7 +675,7 @@ References:
 
 
 
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -709,7 +709,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -744,7 +744,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Amino
 
@@ -766,7 +766,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Alkoxide
 
@@ -787,7 +787,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine
 
@@ -820,7 +820,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Carbonyl
 
@@ -843,7 +843,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Carbonyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Sulfonyl
 
@@ -867,7 +867,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -882,7 +882,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate
 
@@ -915,7 +915,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Nitrile
 
@@ -938,7 +938,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -973,7 +973,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Carbonyl
 
@@ -996,7 +996,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Carbonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide
 
@@ -1029,7 +1029,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide
 
@@ -1040,7 +1040,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Sulfonate
 
@@ -1075,7 +1075,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Bromine
 
@@ -1109,7 +1109,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Bromine
 
@@ -1142,7 +1142,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -1175,7 +1175,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Carbonyl
 
@@ -1198,7 +1198,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Carbonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
@@ -1232,7 +1232,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -1264,7 +1264,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -1279,7 +1279,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Hydroxyl.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate
 
@@ -1290,7 +1290,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Bromine
 
@@ -1325,7 +1325,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Carboxyl
 
@@ -1349,7 +1349,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -1383,7 +1383,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Amino
 
@@ -1405,7 +1405,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate
 
@@ -1437,7 +1437,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Iodine
 
@@ -1470,7 +1470,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Thiolate
 
@@ -1491,7 +1491,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -1523,7 +1523,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine
 
@@ -1555,7 +1555,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine
 
@@ -1589,7 +1589,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Nitrile
 
@@ -1612,7 +1612,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate
 
@@ -1645,7 +1645,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -1679,7 +1679,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Carbonyl
 
@@ -1702,7 +1702,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Carbonyl.png]]
 
 ##### Pyridine-N-Oxide-Chlorination-(Para)
 
@@ -1713,7 +1713,7 @@ References:
 
  
  
-![[content/notes/images/Pyridine-N-Oxide-Chlorination-(Para).png]]
+![[/content/notes/images/Pyridine-N-Oxide-Chlorination-(Para).png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino
 
@@ -1731,7 +1731,7 @@ References:
 
 
 
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Sulfonate
 
@@ -1764,7 +1764,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Sulfonate.png]]
 
 ##### Chihibabin-Reaction
 
@@ -1784,7 +1784,7 @@ References:
 
 
 
-![[content/notes/images/Chihibabin-Reaction.png]]
+![[/content/notes/images/Chihibabin-Reaction.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Alkoxide
 
@@ -1805,7 +1805,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate
 
@@ -1838,7 +1838,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino
 
@@ -1872,7 +1872,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Carbonyl
 
@@ -1895,7 +1895,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Carbonyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Carboxyl
 
@@ -1918,7 +1918,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Chlorine
 
@@ -1952,7 +1952,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -1986,7 +1986,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate
 
@@ -2019,7 +2019,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -2052,7 +2052,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Iodine
 
@@ -2087,7 +2087,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Nitrile
 
@@ -2109,7 +2109,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -2144,7 +2144,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine
 
@@ -2177,7 +2177,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -2211,7 +2211,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Sulfonyl
 
@@ -2235,7 +2235,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino
 
@@ -2269,7 +2269,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -2303,7 +2303,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Sulfonyl
 
@@ -2326,7 +2326,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Iodine
 
@@ -2360,7 +2360,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Alkoxide
 
@@ -2381,7 +2381,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Hydroxyl
 
@@ -2396,7 +2396,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Chlorine
 
@@ -2427,7 +2427,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Chlorine
 
@@ -2460,7 +2460,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -2496,7 +2496,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Fluorine
 
@@ -2527,7 +2527,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Fluorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Fluorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Amino
 
@@ -2549,7 +2549,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -2583,7 +2583,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Sulfonyl
 
@@ -2607,7 +2607,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Thiolate-and-EWG-Sulfonyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Sulfonyl
 
@@ -2631,7 +2631,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Sulfonate
 
@@ -2665,7 +2665,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate
 
@@ -2697,7 +2697,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Amino
 
@@ -2719,7 +2719,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -2752,7 +2752,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine
 
@@ -2785,7 +2785,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Nitrile
 
@@ -2808,7 +2808,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Thiolate
 
@@ -2829,7 +2829,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -2861,7 +2861,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide
 
@@ -2872,7 +2872,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine
 
@@ -2905,7 +2905,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine
 
@@ -2937,7 +2937,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate
 
@@ -2948,7 +2948,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Sulfonyl
 
@@ -2972,7 +2972,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Bromine
 
@@ -3006,7 +3006,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Alkoxide
 
@@ -3027,7 +3027,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine
 
@@ -3059,7 +3059,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -3080,7 +3080,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide
 
@@ -3113,7 +3113,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Nitrile
 
@@ -3135,7 +3135,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Iodine
 
@@ -3166,7 +3166,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Nitrile
 
@@ -3189,7 +3189,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -3222,7 +3222,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Carboxyl
 
@@ -3246,7 +3246,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Carboxyl.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -3257,7 +3257,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Carbonyl
 
@@ -3281,7 +3281,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Carbonyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Carboxyl
 
@@ -3304,7 +3304,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Sulfonate
 
@@ -3338,7 +3338,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine
 
@@ -3372,7 +3372,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine
 
@@ -3405,7 +3405,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -3438,7 +3438,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -3449,7 +3449,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Iodine
 
@@ -3482,7 +3482,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Nitrile
 
@@ -3505,7 +3505,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Thiolate
 
@@ -3526,7 +3526,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Alkoxide
 
@@ -3547,7 +3547,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Sulfonate
 
@@ -3580,7 +3580,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -3614,7 +3614,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Nitrile
 
@@ -3637,7 +3637,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Alkoxide-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Thiolate
 
@@ -3658,7 +3658,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Thiolate.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Sulfonyl
 
@@ -3681,7 +3681,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino
 
@@ -3715,7 +3715,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -3747,7 +3747,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Carboxyl
 
@@ -3771,7 +3771,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine
 
@@ -3804,7 +3804,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Nitrile
 
@@ -3826,7 +3826,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Chlorine-and-EWG-Nitrile.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Carboxyl
 
@@ -3850,7 +3850,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Sulfonate-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -3884,7 +3884,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -3895,7 +3895,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Nitrile
 
@@ -3917,7 +3917,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Nitrile.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Sulfonyl
 
@@ -3940,7 +3940,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -3975,7 +3975,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Sulfonyl
 
@@ -3998,7 +3998,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Bromine-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine
 
@@ -4030,7 +4030,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Sulfonyl
 
@@ -4053,7 +4053,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Iodine-and-EWG-Sulfonyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Carbonyl
 
@@ -4076,7 +4076,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Carbonyl.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Nitrile
 
@@ -4098,7 +4098,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -4132,7 +4132,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate
 
@@ -4143,7 +4143,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino
 
@@ -4161,7 +4161,7 @@ References:
 
 
 
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
@@ -4196,7 +4196,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -4228,7 +4228,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Sulfonyl
 
@@ -4251,7 +4251,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Sulfonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Iodine-and-EWG-Sulfonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Chlorine
 
@@ -4284,7 +4284,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -4318,7 +4318,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Chlorine
 
@@ -4352,7 +4352,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Chlorine.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate
 
@@ -4363,7 +4363,7 @@ References:
 
  
  
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate
 
@@ -4396,7 +4396,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino
 
@@ -4430,7 +4430,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -4464,7 +4464,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -4496,7 +4496,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide
 
@@ -4529,7 +4529,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -4550,7 +4550,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Alkoxide.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Carbonyl
 
@@ -4574,7 +4574,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Sulfonate-and-EWG-Carbonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Iodine
 
@@ -4608,7 +4608,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Iodine.png]]
 
 ##### Pyridine-N-Oxide-Chlorination-(Ortho)
 
@@ -4619,7 +4619,7 @@ References:
 
  
  
-![[content/notes/images/Pyridine-N-Oxide-Chlorination-(Ortho).png]]
+![[/content/notes/images/Pyridine-N-Oxide-Chlorination-(Ortho).png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Hydroxyl
 
@@ -4634,7 +4634,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Thiolate
 
@@ -4655,7 +4655,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Thiolate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -4690,7 +4690,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Carboxyl
 
@@ -4714,7 +4714,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine
 
@@ -4746,7 +4746,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -4782,7 +4782,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate
 
@@ -4816,7 +4816,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Amino
 
@@ -4838,7 +4838,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -4872,7 +4872,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -4908,7 +4908,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine
 
@@ -4942,7 +4942,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Carboxyl
 
@@ -4965,7 +4965,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Carboxyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Chlorine-and-EWG-Carboxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Amino
 
@@ -4987,7 +4987,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate
 
@@ -5020,7 +5020,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate.png]]
 
 ##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino
 
@@ -5038,7 +5038,7 @@ References:
 
 
 
-![[content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino.png]]
+![[/content/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Nitrile
 
@@ -5060,7 +5060,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Nitrile.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Bromine-and-EWG-Nitrile.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine
 
@@ -5093,7 +5093,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Carbonyl
 
@@ -5117,7 +5117,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Ortho)-X-Alkoxide-and-EWG-Carbonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl
 
@@ -5149,7 +5149,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Amino
 
@@ -5171,7 +5171,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Amino.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Amino.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -5186,7 +5186,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -5220,7 +5220,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
@@ -5254,7 +5254,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -5269,7 +5269,7 @@ References:
 
  
  
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Hydroxyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Bromine
 
@@ -5300,7 +5300,7 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Bromine.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Bromine.png]]
 
 ##### Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Carbonyl
 
@@ -5324,7 +5324,7 @@ References:
 
 
 
-![[content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Carbonyl.png]]
+![[/content/notes/images/Vicarious-Nucleophilic-Substitution-(Para)-X-Thiolate-and-EWG-Carbonyl.png]]
 
 ##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -5357,5 +5357,5 @@ References:
 
 
 
-![[content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![[/content/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide.png]]
 

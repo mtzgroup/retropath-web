@@ -21,7 +21,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Chlorine-acid.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Chlorine-acid.png]]
 
 #### Aziridine-Ring-Opening-Nu-Hydroxyl-basic
 
@@ -40,7 +40,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Hydroxyl-basic.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Hydroxyl-basic.png]]
 
 #### Aziridine-Ring-Opening-Nu-Thiolate-acid
 
@@ -60,7 +60,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Thiolate-acid.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Thiolate-acid.png]]
 
 #### Thiourea-Substitution-X-Chlorine
 
@@ -81,7 +81,7 @@ References:
 
 
 
-![[content/notes/images/Thiourea-Substitution-X-Chlorine.png]]
+![[/content/notes/images/Thiourea-Substitution-X-Chlorine.png]]
 
 #### Amide-Hydrolysis
 
@@ -100,7 +100,7 @@ References:
 
 
 
-![[content/notes/images/Amide-Hydrolysis.png]]
+![[/content/notes/images/Amide-Hydrolysis.png]]
 
 #### Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine
 
@@ -122,7 +122,7 @@ References:
 
 
 
-![[content/notes/images/Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine.png]]
+![[/content/notes/images/Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine.png]]
 
 #### Sulfonamide-Formation
 
@@ -141,7 +141,7 @@ References:
 
 
 
-![[content/notes/images/Sulfonamide-Formation.png]]
+![[/content/notes/images/Sulfonamide-Formation.png]]
 
 #### Aziridine-Ring-Opening-Nu-Alkoxide-basic
 
@@ -161,7 +161,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Alkoxide-basic.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Alkoxide-basic.png]]
 
 #### Aziridine-Ring-Opening-Nu-Nitrile-basic
 
@@ -180,7 +180,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Nitrile-basic.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Nitrile-basic.png]]
 
 #### Aziridine-Ring-Opening-Nu-Carboxyl-H-basic
 
@@ -200,7 +200,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Carboxyl-H-basic.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Carboxyl-H-basic.png]]
 
 #### Thiourea-Substitution-X-Bromine
 
@@ -221,7 +221,7 @@ References:
 
 
 
-![[content/notes/images/Thiourea-Substitution-X-Bromine.png]]
+![[/content/notes/images/Thiourea-Substitution-X-Bromine.png]]
 
 #### Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine
 
@@ -243,7 +243,7 @@ References:
 
 
 
-![[content/notes/images/Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine.png]]
+![[/content/notes/images/Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine.png]]
 
 #### Alcohol-Bromination
 
@@ -262,7 +262,7 @@ References:
 
 
 
-![[content/notes/images/Alcohol-Bromination.png]]
+![[/content/notes/images/Alcohol-Bromination.png]]
 
 #### Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine
 
@@ -284,7 +284,7 @@ References:
 
 
 
-![[content/notes/images/Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine.png]]
+![[/content/notes/images/Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine.png]]
 
 #### Aziridine-Ring-Opening-Nu-Amino-basic
 
@@ -305,7 +305,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Amino-basic.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Amino-basic.png]]
 
 #### Aziridine-Ring-Opening-Nu-Iodine-acid
 
@@ -324,7 +324,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Iodine-acid.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Iodine-acid.png]]
 
 #### β-Lactam-Ring-Opening
 
@@ -344,7 +344,7 @@ References:
 
 
 
-![[content/notes/images/β-Lactam-Ring-Opening.png]]
+![[/content/notes/images/β-Lactam-Ring-Opening.png]]
 
 #### Aziridine-Ring-Opening-Nu-Hydroxyl-acid
 
@@ -363,7 +363,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Hydroxyl-acid.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Hydroxyl-acid.png]]
 
 #### Aziridine-Ring-Opening-Nu-Thiolate-basic
 
@@ -383,7 +383,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Thiolate-basic.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Thiolate-basic.png]]
 
 #### Sulfonate-Formation
 
@@ -401,7 +401,7 @@ References:
 
 
 
-![[content/notes/images/Sulfonate-Formation.png]]
+![[/content/notes/images/Sulfonate-Formation.png]]
 
 #### Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine
 
@@ -419,7 +419,7 @@ References:
 
 
 
-![[content/notes/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine.png]]
+![[/content/notes/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine.png]]
 
 #### Gabriel-Synthesis
 
@@ -437,7 +437,7 @@ References:
 
 
 
-![[content/notes/images/Gabriel-Synthesis.png]]
+![[/content/notes/images/Gabriel-Synthesis.png]]
 
 #### Thiourea-Substitution-X-Iodine
 
@@ -458,7 +458,7 @@ References:
 
 
 
-![[content/notes/images/Thiourea-Substitution-X-Iodine.png]]
+![[/content/notes/images/Thiourea-Substitution-X-Iodine.png]]
 
 #### Aziridine-Ring-Opening-Nu-Azide-basic
 
@@ -477,7 +477,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Azide-basic.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Azide-basic.png]]
 
 #### Thiourea-Substitution-X-Sulfonate
 
@@ -499,7 +499,7 @@ References:
 
 
 
-![[content/notes/images/Thiourea-Substitution-X-Sulfonate.png]]
+![[/content/notes/images/Thiourea-Substitution-X-Sulfonate.png]]
 
 #### Cyclopropane-Ring-Opening-X-Iodine
 
@@ -519,7 +519,7 @@ References:
 
 
 
-![[content/notes/images/Cyclopropane-Ring-Opening-X-Iodine.png]]
+![[/content/notes/images/Cyclopropane-Ring-Opening-X-Iodine.png]]
 
 #### Wolff-Kishner-Reduction
 
@@ -537,7 +537,7 @@ References:
 
 
 
-![[content/notes/images/Wolff-Kishner-Reduction.png]]
+![[/content/notes/images/Wolff-Kishner-Reduction.png]]
 
 #### Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine
 
@@ -557,7 +557,7 @@ References:
 
 
 
-![[content/notes/images/Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine.png]]
+![[/content/notes/images/Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine.png]]
 
 #### Aziridine-Ring-Opening-Nu-Azide-acid
 
@@ -576,7 +576,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Azide-acid.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Azide-acid.png]]
 
 #### Cyclopropane-Ring-Opening-X-Chlorine
 
@@ -596,7 +596,7 @@ References:
 
 
 
-![[content/notes/images/Cyclopropane-Ring-Opening-X-Chlorine.png]]
+![[/content/notes/images/Cyclopropane-Ring-Opening-X-Chlorine.png]]
 
 #### Aziridine-Ring-Opening-Nu-Alkoxide-acid
 
@@ -616,7 +616,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Alkoxide-acid.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Alkoxide-acid.png]]
 
 #### Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine
 
@@ -636,7 +636,7 @@ References:
 
 
 
-![[content/notes/images/Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine.png]]
+![[/content/notes/images/Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine.png]]
 
 #### Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine
 
@@ -654,7 +654,7 @@ References:
 
 
 
-![[content/notes/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine.png]]
+![[/content/notes/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine.png]]
 
 #### Aziridine-Ring-Opening-Nu-Bromine-acid
 
@@ -673,7 +673,7 @@ References:
 
 
 
-![[content/notes/images/Aziridine-Ring-Opening-Nu-Bromine-acid.png]]
+![[/content/notes/images/Aziridine-Ring-Opening-Nu-Bromine-acid.png]]
 
 #### Cyclopropane-Ring-Opening-X-Bromine
 
@@ -693,7 +693,7 @@ References:
 
 
 
-![[content/notes/images/Cyclopropane-Ring-Opening-X-Bromine.png]]
+![[/content/notes/images/Cyclopropane-Ring-Opening-X-Bromine.png]]
 
 #### Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine
 
@@ -713,5 +713,5 @@ References:
 
 
 
-![[content/notes/images/Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine.png]]
+![[/content/notes/images/Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine.png]]
 

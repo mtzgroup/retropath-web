@@ -30,7 +30,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate
 
@@ -58,7 +58,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Enols-Acidic
 
@@ -94,7 +94,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Acidic.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Acidic.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate
 
@@ -121,7 +121,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
 
 ##### Aldol-Condensation-Basic
 
@@ -155,7 +155,7 @@ References:
 
 
 
-![[content/notes/images/Aldol-Condensation-Basic.png]]
+![[/content/notes/images/Aldol-Condensation-Basic.png]]
 
 ##### Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide
 
@@ -183,7 +183,7 @@ References:
 
 
 
-![[content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
+![[/content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
 
 ##### Aldol-Condensation-Amide-Basic
 
@@ -205,7 +205,7 @@ References:
 
 
 
-![[content/notes/images/Aldol-Condensation-Amide-Basic.png]]
+![[/content/notes/images/Aldol-Condensation-Amide-Basic.png]]
 
 ##### Henry-Reaction
 
@@ -230,7 +230,7 @@ References:
 
 
 
-![[content/notes/images/Henry-Reaction.png]]
+![[/content/notes/images/Henry-Reaction.png]]
 
 ##### Prins-Reaction-1
 
@@ -249,7 +249,7 @@ References:
 
 
 
-![[content/notes/images/Prins-Reaction-1.png]]
+![[/content/notes/images/Prins-Reaction-1.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Nitrite
 
@@ -274,7 +274,7 @@ References:
 
 
 
-![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Nitrite.png]]
+![[/content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Nitrite.png]]
 
 ##### Aldol-Condensation-Acidic
 
@@ -301,7 +301,7 @@ References:
 
 
 
-![[content/notes/images/Aldol-Condensation-Acidic.png]]
+![[/content/notes/images/Aldol-Condensation-Acidic.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile
 
@@ -327,7 +327,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile.png]]
 
 ##### Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl
 
@@ -352,7 +352,7 @@ References:
 
 
 
-![[content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
+![[/content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
 
 ##### Conjugated-Thiophilic-Aldol-Reaction
 
@@ -374,7 +374,7 @@ References:
 
 
 
-![[content/notes/images/Conjugated-Thiophilic-Aldol-Reaction.png]]
+![[/content/notes/images/Conjugated-Thiophilic-Aldol-Reaction.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Alkoxide
 
@@ -400,7 +400,7 @@ References:
 
 
 
-![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
+![[/content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
 
 ##### Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate
 
@@ -428,7 +428,7 @@ References:
 
 
 
-![[content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
+![[/content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
 
 ##### Iminium-Nucleophilic-Addition-Acidic-Nu-Amino
 
@@ -457,7 +457,7 @@ References:
 
 
 
-![[content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Amino.png]]
+![[/content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Amino.png]]
 
 ##### Isothiocyanate-Carbonyl-Addition-Nu-Amino
 
@@ -484,7 +484,7 @@ References:
 
 
 
-![[content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Amino.png]]
+![[/content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Amino.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide
 
@@ -512,7 +512,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide.png]]
 
 ##### Knoevenangel-Condensation
 
@@ -529,7 +529,7 @@ References: 0
 
 
 
-![[content/notes/images/Knoevenangel-Condensation.png]]
+![[/content/notes/images/Knoevenangel-Condensation.png]]
 
 ##### Cyanomethanide-Carbonyl-Addition
 
@@ -555,7 +555,7 @@ References:
 
 
 
-![[content/notes/images/Cyanomethanide-Carbonyl-Addition.png]]
+![[/content/notes/images/Cyanomethanide-Carbonyl-Addition.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide
 
@@ -582,7 +582,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Amino
 
@@ -609,7 +609,7 @@ References:
 
 
 
-![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Amino.png]]
+![[/content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Amino.png]]
 
 ##### Thiophilic-Aldol-Reaction
 
@@ -629,7 +629,7 @@ References:
 
 
 
-![[content/notes/images/Thiophilic-Aldol-Reaction.png]]
+![[/content/notes/images/Thiophilic-Aldol-Reaction.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Enols-Basic
 
@@ -667,7 +667,7 @@ References:
 
 
 
-![[content/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Basic.png]]
+![[/content/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Basic.png]]
 
 ##### Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide
 
@@ -693,7 +693,7 @@ References:
 
 
 
-![[content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
+![[/content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
 
 ##### Prins-Reaction-2
 
@@ -712,7 +712,7 @@ References:
 
 
 
-![[content/notes/images/Prins-Reaction-2.png]]
+![[/content/notes/images/Prins-Reaction-2.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Hydroxyl
 
@@ -737,7 +737,7 @@ References:
 
 
 
-![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
+![[/content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
 
 ##### Prins-Reaction-3
 
@@ -758,5 +758,5 @@ References:
 
 
 
-![[content/notes/images/Prins-Reaction-3.png]]
+![[/content/notes/images/Prins-Reaction-3.png]]
 
