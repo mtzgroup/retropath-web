@@ -21,7 +21,7 @@ References:
 
 
 
-![[/content/notes/images/Formylation-Alpha-Bromo.png]]
+![/content/notes/images/Formylation-Alpha-Bromo.png]
 
 ### Ganem-Oxidation-X-Chlorine
 
@@ -42,7 +42,7 @@ References:
 
 
 
-![[/content/notes/images/Ganem-Oxidation-X-Chlorine.png]]
+![/content/notes/images/Ganem-Oxidation-X-Chlorine.png]
 
 ### Dakin-West-Reaction
 
@@ -61,7 +61,7 @@ References:
 
 
 
-![[/content/notes/images/Dakin-West-Reaction.png]]
+![/content/notes/images/Dakin-West-Reaction.png]
 
 ### Formylation-Alpha-Iodo
 
@@ -80,7 +80,7 @@ References:
 
 
 
-![[/content/notes/images/Formylation-Alpha-Iodo.png]]
+![/content/notes/images/Formylation-Alpha-Iodo.png]
 
 ### Ganem-Oxidation-X-Sulfonate
 
@@ -102,7 +102,7 @@ References:
 
 
 
-![[/content/notes/images/Ganem-Oxidation-X-Sulfonate.png]]
+![/content/notes/images/Ganem-Oxidation-X-Sulfonate.png]
 
 ### Ugi-Reaction
 
@@ -122,7 +122,7 @@ References:
 
 
 
-![[/content/notes/images/Ugi-Reaction.png]]
+![/content/notes/images/Ugi-Reaction.png]
 
 ### Azo-Coupling
 
@@ -133,7 +133,7 @@ References:
 
  
  
-![[/content/notes/images/Azo-Coupling.png]]
+![/content/notes/images/Azo-Coupling.png]
 
 ### Hoffmann-Chloramide-Reaction
 
@@ -150,7 +150,7 @@ References:
 
 
 
-![[/content/notes/images/Hoffmann-Chloramide-Reaction.png]]
+![/content/notes/images/Hoffmann-Chloramide-Reaction.png]
 
 ### Hydrolysis-Isocyanide
 
@@ -161,7 +161,7 @@ References:
 
  
  
-![[/content/notes/images/Hydrolysis-Isocyanide.png]]
+![/content/notes/images/Hydrolysis-Isocyanide.png]
 
 ### Carbylamine-Reaction
 
@@ -178,7 +178,7 @@ References:
 
 
 
-![[/content/notes/images/Carbylamine-Reaction.png]]
+![/content/notes/images/Carbylamine-Reaction.png]
 
 ### Ganem-Oxidation-X-Bromine
 
@@ -199,7 +199,7 @@ References:
 
 
 
-![[/content/notes/images/Ganem-Oxidation-X-Bromine.png]]
+![/content/notes/images/Ganem-Oxidation-X-Bromine.png]
 
 ### Hoffmann-Bromamide-Reaction
 
@@ -216,7 +216,7 @@ References:
 
 
 
-![[/content/notes/images/Hoffmann-Bromamide-Reaction.png]]
+![/content/notes/images/Hoffmann-Bromamide-Reaction.png]
 
 ### Perkin-Reaction
 
@@ -235,7 +235,7 @@ References:
 
 
 
-![[/content/notes/images/Perkin-Reaction.png]]
+![/content/notes/images/Perkin-Reaction.png]
 
 ### Buchner-Curtius-Schlotterbeck-Reaction
 
@@ -255,7 +255,7 @@ References:
 
 
 
-![[/content/notes/images/Buchner-Curtius-Schlotterbeck-Reaction.png]]
+![/content/notes/images/Buchner-Curtius-Schlotterbeck-Reaction.png]
 
 ### Ramberg-Backlund-Reaction
 
@@ -276,7 +276,7 @@ References:
 
 
 
-![[/content/notes/images/Ramberg-Backlund-Reaction.png]]
+![/content/notes/images/Ramberg-Backlund-Reaction.png]
 
 ### Amine-Deprotection
 
@@ -294,7 +294,7 @@ References:
 
 
 
-![[/content/notes/images/Amine-Deprotection.png]]
+![/content/notes/images/Amine-Deprotection.png]
 
 ### Isocyanide-Formation
 
@@ -312,7 +312,7 @@ References:
 
 
 
-![[/content/notes/images/Isocyanide-Formation.png]]
+![/content/notes/images/Isocyanide-Formation.png]
 
 ### Mannich-Reaction
 
@@ -341,7 +341,7 @@ References:
 
 
 
-![[/content/notes/images/Mannich-Reaction.png]]
+![/content/notes/images/Mannich-Reaction.png]
 
 ### Passerini-Reaction
 
@@ -361,7 +361,7 @@ References:
 
 
 
-![[/content/notes/images/Passerini-Reaction.png]]
+![/content/notes/images/Passerini-Reaction.png]
 
 ### Formylation-Alpha-Chloral
 
@@ -380,7 +380,7 @@ References:
 
 
 
-![[/content/notes/images/Formylation-Alpha-Chloral.png]]
+![/content/notes/images/Formylation-Alpha-Chloral.png]
 
 ### Eschenmoser-Fragmentation
 
@@ -401,7 +401,7 @@ References:
 
 
 
-![[/content/notes/images/Eschenmoser-Fragmentation.png]]
+![/content/notes/images/Eschenmoser-Fragmentation.png]
 
 ### Ganem-Oxidation-X-Iodine
 
@@ -422,7 +422,7 @@ References:
 
 
 
-![[/content/notes/images/Ganem-Oxidation-X-Iodine.png]]
+![/content/notes/images/Ganem-Oxidation-X-Iodine.png]
 
 ### Polonovski-Reaction
 
@@ -442,5 +442,5 @@ References:
 
 
 
-![[/content/notes/images/Polonovski-Reaction.png]]
+![/content/notes/images/Polonovski-Reaction.png]
 

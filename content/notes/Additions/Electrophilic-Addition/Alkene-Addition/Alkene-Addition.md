@@ -20,7 +20,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Chlorine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Chlorine.png]
 
 ##### Alkene-Addition-Acidification-with-Rearrangement-Bromine
 
@@ -41,7 +41,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-Acidification-with-Rearrangement-Bromine.png]]
+![/content/notes/images/Alkene-Addition-Acidification-with-Rearrangement-Bromine.png]
 
 ##### Alkene-Addition-El-Bromine-and-Nu-Bromine
 
@@ -61,7 +61,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-El-Bromine-and-Nu-Bromine.png]]
+![/content/notes/images/Alkene-Addition-El-Bromine-and-Nu-Bromine.png]
 
 ##### Alkene-Addition-Acidification-with-Rearrangement-Iodine
 
@@ -82,7 +82,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-Acidification-with-Rearrangement-Iodine.png]]
+![/content/notes/images/Alkene-Addition-Acidification-with-Rearrangement-Iodine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Bromine
 
@@ -101,7 +101,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Bromine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Bromine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Bromine
 
@@ -120,7 +120,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Bromine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Bromine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Iodine
 
@@ -139,7 +139,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Iodine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Iodine.png]
 
 ##### Alkene-Addition-El-Chlorine-and-Nu-Nitroso
 
@@ -159,7 +159,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Nitroso.png]]
+![/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Nitroso.png]
 
 ##### Alkene-Addition-14-Bromine
 
@@ -181,7 +181,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-14-Bromine.png]]
+![/content/notes/images/Alkene-Addition-14-Bromine.png]
 
 ##### Alkene-Addition-In-H2O
 
@@ -202,7 +202,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-In-H2O.png]]
+![/content/notes/images/Alkene-Addition-In-H2O.png]
 
 ##### Alkene-Addition-Acidification-Iodine
 
@@ -222,7 +222,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-Acidification-Iodine.png]]
+![/content/notes/images/Alkene-Addition-Acidification-Iodine.png]
 
 ##### Alkene-Addition-14-Iodine
 
@@ -244,7 +244,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-14-Iodine.png]]
+![/content/notes/images/Alkene-Addition-14-Iodine.png]
 
 ##### Alkene-Addition-El-Iodine-and-Nu-Iodine
 
@@ -264,7 +264,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-El-Iodine-and-Nu-Iodine.png]]
+![/content/notes/images/Alkene-Addition-El-Iodine-and-Nu-Iodine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Chlorine
 
@@ -283,7 +283,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Chlorine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Chlorine-and-Hal-Chlorine.png]
 
 ##### Alkene-Addition-El-Chlorine-and-Nu-Chlorine
 
@@ -303,7 +303,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Chlorine.png]]
+![/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Chlorine.png]
 
 ##### Alkene-Addition-14-Chlorine
 
@@ -325,7 +325,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-14-Chlorine.png]]
+![/content/notes/images/Alkene-Addition-14-Chlorine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Bromine
 
@@ -344,7 +344,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Bromine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Bromine.png]
 
 ##### Alkene-Addition-Acidification-with-Rearrangement-Chlorine
 
@@ -365,7 +365,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-Acidification-with-Rearrangement-Chlorine.png]]
+![/content/notes/images/Alkene-Addition-Acidification-with-Rearrangement-Chlorine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Iodine
 
@@ -384,7 +384,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Iodine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Iodine.png]
 
 ##### Alkene-Addition-Acidification-Bromine
 
@@ -404,7 +404,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-Acidification-Bromine.png]]
+![/content/notes/images/Alkene-Addition-Acidification-Bromine.png]
 
 ##### Alkene-Addition-Acidification-Chlorine
 
@@ -424,7 +424,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-Acidification-Chlorine.png]]
+![/content/notes/images/Alkene-Addition-Acidification-Chlorine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Iodine
 
@@ -443,7 +443,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Iodine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Iodine.png]
 
 ##### Alkene-Addition-El-Chlorine-and-Nu-Bromine
 
@@ -463,7 +463,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Bromine.png]]
+![/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Bromine.png]
 
 ##### Alkene-Addition-El-Bromine-and-Nu-Iodine
 
@@ -483,7 +483,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-El-Bromine-and-Nu-Iodine.png]]
+![/content/notes/images/Alkene-Addition-El-Bromine-and-Nu-Iodine.png]
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Chlorine
 
@@ -502,7 +502,7 @@ References:
 
 
 
-![[/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Chlorine.png]]
+![/content/notes/images/Alkene-with-Halogen-Addition-Acidification-Nu-Bromine-and-Hal-Chlorine.png]
 
 ##### Alkene-Addition-El-Chlorine-and-Nu-Iodine
 
@@ -522,5 +522,5 @@ References:
 
 
 
-![[/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Iodine.png]]
+![/content/notes/images/Alkene-Addition-El-Chlorine-and-Nu-Iodine.png]
 

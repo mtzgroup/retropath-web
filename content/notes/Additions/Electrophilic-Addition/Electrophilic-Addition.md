@@ -22,7 +22,7 @@ References:
 
 
 
-![[/content/notes/images/Halogenation-Allylic-Succinimides-X-Bromine.png]]
+![/content/notes/images/Halogenation-Allylic-Succinimides-X-Bromine.png]
 
 #### Halogenation-Allylic-Succinimides-X-Iodine
 
@@ -43,7 +43,7 @@ References:
 
 
 
-![[/content/notes/images/Halogenation-Allylic-Succinimides-X-Iodine.png]]
+![/content/notes/images/Halogenation-Allylic-Succinimides-X-Iodine.png]
 
 #### Halogenation-Benzylic-Succinimides-X-Chlorine
 
@@ -60,7 +60,7 @@ References:
 
 
 
-![[/content/notes/images/Halogenation-Benzylic-Succinimides-X-Chlorine.png]]
+![/content/notes/images/Halogenation-Benzylic-Succinimides-X-Chlorine.png]
 
 #### Halogenation-Benzylic-Succinimides-X-Iodine
 
@@ -77,7 +77,7 @@ References:
 
 
 
-![[/content/notes/images/Halogenation-Benzylic-Succinimides-X-Iodine.png]]
+![/content/notes/images/Halogenation-Benzylic-Succinimides-X-Iodine.png]
 
 #### Halogenation-Allylic-Succinimides-X-Chlorine
 
@@ -98,7 +98,7 @@ References:
 
 
 
-![[/content/notes/images/Halogenation-Allylic-Succinimides-X-Chlorine.png]]
+![/content/notes/images/Halogenation-Allylic-Succinimides-X-Chlorine.png]
 
 #### Halogenation-Benzylic-Succinimides-X-Bromine
 
@@ -115,7 +115,7 @@ References:
 
 
 
-![[/content/notes/images/Halogenation-Benzylic-Succinimides-X-Bromine.png]]
+![/content/notes/images/Halogenation-Benzylic-Succinimides-X-Bromine.png]
 
 #### Payne-Oxidation
 
@@ -136,5 +136,5 @@ References:
 
 
 
-![[/content/notes/images/Payne-Oxidation.png]]
+![/content/notes/images/Payne-Oxidation.png]
 

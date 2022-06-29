@@ -32,7 +32,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Carbonyl
 
@@ -60,7 +60,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Carbonyl.png]
 
 #### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrite
 
@@ -84,7 +84,7 @@ References:
 
 
 
-![[/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrite.png]]
+![/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrite.png]
 
 #### Darzens-Condensation-(Ester)-X-Iodine
 
@@ -104,7 +104,7 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ester)-X-Iodine.png]]
+![/content/notes/images/Darzens-Condensation-(Ester)-X-Iodine.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Nitrile
 
@@ -133,7 +133,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Carbonyl
 
@@ -161,7 +161,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Carbonyl
 
@@ -190,7 +190,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Carbonyl.png]
 
 #### Pfitzinger-Reaction
 
@@ -208,7 +208,7 @@ References:
 
 
 
-![[/content/notes/images/Pfitzinger-Reaction.png]]
+![/content/notes/images/Pfitzinger-Reaction.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Nitrile
 
@@ -237,7 +237,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Nitrile
 
@@ -266,7 +266,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Carbonyl
 
@@ -293,7 +293,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Ester
 
@@ -323,7 +323,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Ester
 
@@ -352,7 +352,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Nitrile
 
@@ -381,7 +381,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Nitrile
 
@@ -408,7 +408,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Ester
 
@@ -439,7 +439,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Carbonyl
 
@@ -469,7 +469,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Carbonyl
 
@@ -497,7 +497,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Carbonyl.png]
 
 #### Alkoxide-Michael-Addition-EWG-Nitrile
 
@@ -525,7 +525,7 @@ References:
 
 
 
-![[/content/notes/images/Alkoxide-Michael-Addition-EWG-Nitrile.png]]
+![/content/notes/images/Alkoxide-Michael-Addition-EWG-Nitrile.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Ester
 
@@ -554,7 +554,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Carbonyl
 
@@ -583,7 +583,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Ester
 
@@ -615,7 +615,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Carbonyl
 
@@ -644,7 +644,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Carbonyl.png]
 
 #### Nitrile-Michael-Addition-EWG-Carboxyl
 
@@ -672,7 +672,7 @@ References:
 
 
 
-![[/content/notes/images/Nitrile-Michael-Addition-EWG-Carboxyl.png]]
+![/content/notes/images/Nitrile-Michael-Addition-EWG-Carboxyl.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Carbonyl
 
@@ -702,7 +702,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Carbonyl.png]
 
 #### Stork-Imine-Alkylation
 
@@ -732,7 +732,7 @@ References:
 
 
 
-![[/content/notes/images/Stork-Imine-Alkylation.png]]
+![/content/notes/images/Stork-Imine-Alkylation.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Nitrile
 
@@ -762,7 +762,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Nitrile.png]
 
 #### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Phosphonate
 
@@ -788,7 +788,7 @@ References:
 
 
 
-![[/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Phosphonate.png]]
+![/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Phosphonate.png]
 
 #### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrile
 
@@ -812,7 +812,7 @@ References:
 
 
 
-![[/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrile.png]]
+![/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrile.png]
 
 #### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carbonyl
 
@@ -837,7 +837,7 @@ References:
 
 
 
-![[/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carbonyl.png]]
+![/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carbonyl.png]
 
 #### Stobbe-Condensation
 
@@ -859,7 +859,7 @@ References:
 
 
 
-![[/content/notes/images/Stobbe-Condensation.png]]
+![/content/notes/images/Stobbe-Condensation.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Ester
 
@@ -888,7 +888,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Ester
 
@@ -916,7 +916,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Ester.png]
 
 #### Darzens-Condensation-(Ester)-X-Bromine
 
@@ -936,7 +936,7 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ester)-X-Bromine.png]]
+![/content/notes/images/Darzens-Condensation-(Ester)-X-Bromine.png]
 
 #### Nitrile-Michael-Addition-EWG-Carbonyl
 
@@ -964,7 +964,7 @@ References:
 
 
 
-![[/content/notes/images/Nitrile-Michael-Addition-EWG-Carbonyl.png]]
+![/content/notes/images/Nitrile-Michael-Addition-EWG-Carbonyl.png]
 
 #### Alkoxide-Michael-Addition-EWG-Carboxyl
 
@@ -993,7 +993,7 @@ References:
 
 
 
-![[/content/notes/images/Alkoxide-Michael-Addition-EWG-Carboxyl.png]]
+![/content/notes/images/Alkoxide-Michael-Addition-EWG-Carboxyl.png]
 
 #### Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Carbonyl
 
@@ -1024,7 +1024,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Carbonyl
 
@@ -1054,7 +1054,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Nitrile
 
@@ -1083,7 +1083,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Nitrile.png]
 
 #### Stork-Enamine-Alkylation
 
@@ -1107,7 +1107,7 @@ References:
 
 
 
-![[/content/notes/images/Stork-Enamine-Alkylation.png]]
+![/content/notes/images/Stork-Enamine-Alkylation.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Nitrile
 
@@ -1134,7 +1134,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Nitrile
 
@@ -1162,7 +1162,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Ester
 
@@ -1191,7 +1191,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Ester.png]
 
 #### Azo-Michael-Addition-EWG-Nitrile
 
@@ -1219,7 +1219,7 @@ References:
 
 
 
-![[/content/notes/images/Azo-Michael-Addition-EWG-Nitrile.png]]
+![/content/notes/images/Azo-Michael-Addition-EWG-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Nitrile
 
@@ -1249,7 +1249,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Carbonyl
 
@@ -1276,7 +1276,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Ester
 
@@ -1306,7 +1306,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Ester.png]
 
 #### Alkoxide-Michael-Addition-EWG-Nitrite
 
@@ -1334,7 +1334,7 @@ References:
 
 
 
-![[/content/notes/images/Alkoxide-Michael-Addition-EWG-Nitrite.png]]
+![/content/notes/images/Alkoxide-Michael-Addition-EWG-Nitrite.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Nitrile
 
@@ -1362,7 +1362,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Carbonyl
 
@@ -1390,7 +1390,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Ester
 
@@ -1418,7 +1418,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Ester
 
@@ -1449,7 +1449,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Ester.png]
 
 #### Thiol-Michael-Addition-EWG-Nitrile
 
@@ -1476,7 +1476,7 @@ References:
 
 
 
-![[/content/notes/images/Thiol-Michael-Addition-EWG-Nitrile.png]]
+![/content/notes/images/Thiol-Michael-Addition-EWG-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Ester
 
@@ -1506,7 +1506,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Ester
 
@@ -1536,7 +1536,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Carbonyl
 
@@ -1564,7 +1564,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Carbonyl.png]
 
 #### Thiol-Michael-Addition-EWG-Nitrite
 
@@ -1591,7 +1591,7 @@ References:
 
 
 
-![[/content/notes/images/Thiol-Michael-Addition-EWG-Nitrite.png]]
+![/content/notes/images/Thiol-Michael-Addition-EWG-Nitrite.png]
 
 #### Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Nitrile
 
@@ -1622,7 +1622,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Nitrile.png]
 
 #### Darzens-Condensation-(Ketone)-X-Iodine
 
@@ -1642,7 +1642,7 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ketone)-X-Iodine.png]]
+![/content/notes/images/Darzens-Condensation-(Ketone)-X-Iodine.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Ester
 
@@ -1673,7 +1673,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Ester.png]
 
 #### Azo-Michael-Addition-EWG-Nitrite
 
@@ -1701,7 +1701,7 @@ References:
 
 
 
-![[/content/notes/images/Azo-Michael-Addition-EWG-Nitrite.png]]
+![/content/notes/images/Azo-Michael-Addition-EWG-Nitrite.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Carbonyl
 
@@ -1730,7 +1730,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Nitrile
 
@@ -1758,7 +1758,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Carbonyl
 
@@ -1786,7 +1786,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Carbonyl.png]
 
 #### Azo-Michael-Addition-EWG-Phosphonate
 
@@ -1816,7 +1816,7 @@ References:
 
 
 
-![[/content/notes/images/Azo-Michael-Addition-EWG-Phosphonate.png]]
+![/content/notes/images/Azo-Michael-Addition-EWG-Phosphonate.png]
 
 #### Mukaiyama-Aldol-Addition-X-Alkane
 
@@ -1840,7 +1840,7 @@ References:
 
 
 
-![[/content/notes/images/Mukaiyama-Aldol-Addition-X-Alkane.png]]
+![/content/notes/images/Mukaiyama-Aldol-Addition-X-Alkane.png]
 
 #### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carboxyl
 
@@ -1865,7 +1865,7 @@ References:
 
 
 
-![[/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carboxyl.png]]
+![/content/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carboxyl.png]
 
 #### Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Carbonyl
 
@@ -1894,7 +1894,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Nitrile
 
@@ -1922,7 +1922,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Nitrile
 
@@ -1949,7 +1949,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Nitrile
 
@@ -1978,7 +1978,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Ester
 
@@ -2008,7 +2008,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Ester.png]
 
 #### Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Carbonyl
 
@@ -2037,7 +2037,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Carbonyl.png]
 
 #### Alkoxide-Michael-Addition-EWG-Carbonyl
 
@@ -2066,7 +2066,7 @@ References:
 
 
 
-![[/content/notes/images/Alkoxide-Michael-Addition-EWG-Carbonyl.png]]
+![/content/notes/images/Alkoxide-Michael-Addition-EWG-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Nitrile
 
@@ -2094,7 +2094,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Ester
 
@@ -2123,7 +2123,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Ester.png]
 
 #### Darzens-Condensation-(Ketone)-X-Chlorine
 
@@ -2143,7 +2143,7 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ketone)-X-Chlorine.png]]
+![/content/notes/images/Darzens-Condensation-(Ketone)-X-Chlorine.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Nitrile
 
@@ -2171,7 +2171,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Nitrile.png]
 
 #### Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Nitrile
 
@@ -2200,7 +2200,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Nitrile.png]
 
 #### Nitrile-Michael-Addition-EWG-Nitrile
 
@@ -2227,7 +2227,7 @@ References:
 
 
 
-![[/content/notes/images/Nitrile-Michael-Addition-EWG-Nitrile.png]]
+![/content/notes/images/Nitrile-Michael-Addition-EWG-Nitrile.png]
 
 #### Darzens-Condensation-(Ester)-X-Chlorine
 
@@ -2247,7 +2247,7 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ester)-X-Chlorine.png]]
+![/content/notes/images/Darzens-Condensation-(Ester)-X-Chlorine.png]
 
 #### Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Carbonyl
 
@@ -2274,7 +2274,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Carbonyl.png]
 
 #### Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Ester
 
@@ -2302,7 +2302,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Ester.png]
 
 #### Darzens-Condensation-(Ketone)-X-Bromine
 
@@ -2322,7 +2322,7 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ketone)-X-Bromine.png]]
+![/content/notes/images/Darzens-Condensation-(Ketone)-X-Bromine.png]
 
 #### Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Nitrile
 
@@ -2352,7 +2352,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Nitrile.png]]
+![/content/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Nitrile.png]
 
 #### Thiol-Michael-Addition-EWG-Carbonyl
 
@@ -2380,7 +2380,7 @@ References:
 
 
 
-![[/content/notes/images/Thiol-Michael-Addition-EWG-Carbonyl.png]]
+![/content/notes/images/Thiol-Michael-Addition-EWG-Carbonyl.png]
 
 #### Mukaiyama-Aldol-Addition-X-Alkoxide
 
@@ -2404,7 +2404,7 @@ References:
 
 
 
-![[/content/notes/images/Mukaiyama-Aldol-Addition-X-Alkoxide.png]]
+![/content/notes/images/Mukaiyama-Aldol-Addition-X-Alkoxide.png]
 
 #### Nitrile-Michael-Addition-EWG-Nitrite
 
@@ -2431,7 +2431,7 @@ References:
 
 
 
-![[/content/notes/images/Nitrile-Michael-Addition-EWG-Nitrite.png]]
+![/content/notes/images/Nitrile-Michael-Addition-EWG-Nitrite.png]
 
 #### Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Ester
 
@@ -2461,7 +2461,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Ester.png]
 
 #### Azo-Michael-Addition-EWG-Carbonyl
 
@@ -2490,7 +2490,7 @@ References:
 
 
 
-![[/content/notes/images/Azo-Michael-Addition-EWG-Carbonyl.png]]
+![/content/notes/images/Azo-Michael-Addition-EWG-Carbonyl.png]
 
 #### Thiol-Michael-Addition-EWG-Phosphonate
 
@@ -2519,7 +2519,7 @@ References:
 
 
 
-![[/content/notes/images/Thiol-Michael-Addition-EWG-Phosphonate.png]]
+![/content/notes/images/Thiol-Michael-Addition-EWG-Phosphonate.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Ester
 
@@ -2548,7 +2548,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Ester.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Ester.png]
 
 #### Alkoxide-Michael-Addition-EWG-Phosphonate
 
@@ -2578,7 +2578,7 @@ References:
 
 
 
-![[/content/notes/images/Alkoxide-Michael-Addition-EWG-Phosphonate.png]]
+![/content/notes/images/Alkoxide-Michael-Addition-EWG-Phosphonate.png]
 
 #### Darzens-Condensation-(Ester)-X-Sulfonate
 
@@ -2599,7 +2599,7 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ester)-X-Sulfonate.png]]
+![/content/notes/images/Darzens-Condensation-(Ester)-X-Sulfonate.png]
 
 #### Nitrile-Michael-Addition-EWG-Phosphonate
 
@@ -2628,7 +2628,7 @@ References:
 
 
 
-![[/content/notes/images/Nitrile-Michael-Addition-EWG-Phosphonate.png]]
+![/content/notes/images/Nitrile-Michael-Addition-EWG-Phosphonate.png]
 
 #### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Carbonyl
 
@@ -2657,7 +2657,7 @@ References:
 
 
 
-![[/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Carbonyl.png]]
+![/content/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Carbonyl.png]
 
 #### Azo-Michael-Addition-EWG-Carboxyl
 
@@ -2686,7 +2686,7 @@ References:
 
 
 
-![[/content/notes/images/Azo-Michael-Addition-EWG-Carboxyl.png]]
+![/content/notes/images/Azo-Michael-Addition-EWG-Carboxyl.png]
 
 #### Thiol-Michael-Addition-EWG-Carboxyl
 
@@ -2714,7 +2714,7 @@ References:
 
 
 
-![[/content/notes/images/Thiol-Michael-Addition-EWG-Carboxyl.png]]
+![/content/notes/images/Thiol-Michael-Addition-EWG-Carboxyl.png]
 
 #### Darzens-Condensation-(Ketone)-X-Sulfonate
 
@@ -2735,5 +2735,5 @@ References:
 
 
 
-![[/content/notes/images/Darzens-Condensation-(Ketone)-X-Sulfonate.png]]
+![/content/notes/images/Darzens-Condensation-(Ketone)-X-Sulfonate.png]
 

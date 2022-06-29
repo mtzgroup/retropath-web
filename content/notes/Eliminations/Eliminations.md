@@ -22,7 +22,7 @@ References:
 
 
 
-![[/content/notes/images/Krapcho-Decarboxylation-GWE-Carboxyl.png]]
+![/content/notes/images/Krapcho-Decarboxylation-GWE-Carboxyl.png]
 
 ### Jocic-Reaction-pt1-Nu-Hydroxyl
 
@@ -40,7 +40,7 @@ References:
 
 
 
-![[/content/notes/images/Jocic-Reaction-pt1-Nu-Hydroxyl.png]]
+![/content/notes/images/Jocic-Reaction-pt1-Nu-Hydroxyl.png]
 
 ### Elimination-Lg-Hydroxyl
 
@@ -56,7 +56,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Lg-Hydroxyl.png]]
+![/content/notes/images/Elimination-Lg-Hydroxyl.png]
 
 ### Aza-Grob-Fragmentation-X-Chlorine
 
@@ -67,7 +67,7 @@ References:
 
  
  
-![[/content/notes/images/Aza-Grob-Fragmentation-X-Chlorine.png]]
+![/content/notes/images/Aza-Grob-Fragmentation-X-Chlorine.png]
 
 ### Jocic-Reaction-pt1-Nu-Thiolate
 
@@ -86,7 +86,7 @@ References:
 
 
 
-![[/content/notes/images/Jocic-Reaction-pt1-Nu-Thiolate.png]]
+![/content/notes/images/Jocic-Reaction-pt1-Nu-Thiolate.png]
 
 ### Decarboxylation-Carbamic-Acid
 
@@ -105,7 +105,7 @@ References:
 
 
 
-![[/content/notes/images/Decarboxylation-Carbamic-Acid.png]]
+![/content/notes/images/Decarboxylation-Carbamic-Acid.png]
 
 ### Elimination-with-Alkyl-Shift-Lg-Bromine
 
@@ -126,7 +126,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Bromine.png]]
+![/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Bromine.png]
 
 ### Oxindole-Synthesis-X-Bromine
 
@@ -144,7 +144,7 @@ References:
 
 
 
-![[/content/notes/images/Oxindole-Synthesis-X-Bromine.png]]
+![/content/notes/images/Oxindole-Synthesis-X-Bromine.png]
 
 ### Semmler-Wolff-Reaction
 
@@ -155,7 +155,7 @@ References:
 
  
  
-![[/content/notes/images/Semmler-Wolff-Reaction.png]]
+![/content/notes/images/Semmler-Wolff-Reaction.png]
 
 ### Aza-Grob-Fragmentation-X-Sulfonate
 
@@ -166,7 +166,7 @@ References:
 
  
  
-![[/content/notes/images/Aza-Grob-Fragmentation-X-Sulfonate.png]]
+![/content/notes/images/Aza-Grob-Fragmentation-X-Sulfonate.png]
 
 ### Krapcho-Decarboxylation-GWE-Carbonyl
 
@@ -185,7 +185,7 @@ References:
 
 
 
-![[/content/notes/images/Krapcho-Decarboxylation-GWE-Carbonyl.png]]
+![/content/notes/images/Krapcho-Decarboxylation-GWE-Carbonyl.png]
 
 ### Elimination-To-Form-Cyclopropanone-Sulfonate
 
@@ -205,7 +205,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-To-Form-Cyclopropanone-Sulfonate.png]]
+![/content/notes/images/Elimination-To-Form-Cyclopropanone-Sulfonate.png]
 
 ### Quinone-to-Benzene
 
@@ -224,7 +224,7 @@ References:
 
 
 
-![[/content/notes/images/Quinone-to-Benzene.png]]
+![/content/notes/images/Quinone-to-Benzene.png]
 
 ### Elimination-with-Hydride-Shift-Lg-Sulfonate
 
@@ -247,7 +247,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Hydride-Shift-Lg-Sulfonate.png]]
+![/content/notes/images/Elimination-with-Hydride-Shift-Lg-Sulfonate.png]
 
 ### Krapcho-Decarboxylation-GWE-Amide
 
@@ -267,7 +267,7 @@ References:
 
 
 
-![[/content/notes/images/Krapcho-Decarboxylation-GWE-Amide.png]]
+![/content/notes/images/Krapcho-Decarboxylation-GWE-Amide.png]
 
 ### Elimination-Water-Imine
 
@@ -285,7 +285,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Water-Imine.png]]
+![/content/notes/images/Elimination-Water-Imine.png]
 
 ### Aza-Grob-Fragmentation-X-Iodine
 
@@ -296,7 +296,7 @@ References:
 
  
  
-![[/content/notes/images/Aza-Grob-Fragmentation-X-Iodine.png]]
+![/content/notes/images/Aza-Grob-Fragmentation-X-Iodine.png]
 
 ### Elimination-with-Hydride-Shift-Lg-Chlorine
 
@@ -318,7 +318,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Hydride-Shift-Lg-Chlorine.png]]
+![/content/notes/images/Elimination-with-Hydride-Shift-Lg-Chlorine.png]
 
 ### Alcohol-Elimination-POCl3
 
@@ -338,7 +338,7 @@ References:
 
 
 
-![[/content/notes/images/Alcohol-Elimination-POCl3.png]]
+![/content/notes/images/Alcohol-Elimination-POCl3.png]
 
 ### Acetal-Degradation
 
@@ -359,7 +359,7 @@ References:
 
 
 
-![[/content/notes/images/Acetal-Degradation.png]]
+![/content/notes/images/Acetal-Degradation.png]
 
 ### Elimination-To-Form-Cyclopropanone-Chlorine
 
@@ -379,7 +379,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-To-Form-Cyclopropanone-Chlorine.png]]
+![/content/notes/images/Elimination-To-Form-Cyclopropanone-Chlorine.png]
 
 ### Elimination-Acyl-Sulfonate
 
@@ -398,7 +398,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Acyl-Sulfonate.png]]
+![/content/notes/images/Elimination-Acyl-Sulfonate.png]
 
 ### Benzimidazolone-Synthesis-(1)-X-Bromine
 
@@ -416,7 +416,7 @@ References:
 
 
 
-![[/content/notes/images/Benzimidazolone-Synthesis-(1)-X-Bromine.png]]
+![/content/notes/images/Benzimidazolone-Synthesis-(1)-X-Bromine.png]
 
 ### Elimination-with-Alkyl-Shift-Lg-Chlorine
 
@@ -437,7 +437,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Chlorine.png]]
+![/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Chlorine.png]
 
 ### Elimination-with-Alkyl-Shift-Lg-Iodine
 
@@ -458,7 +458,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Iodine.png]]
+![/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Iodine.png]
 
 ### Amide-Dehydration-(POCl3)
 
@@ -475,7 +475,7 @@ References:
 
 
 
-![[/content/notes/images/Amide-Dehydration-(POCl3).png]]
+![/content/notes/images/Amide-Dehydration-(POCl3).png]
 
 ### Elimination-Acyl-Bromine
 
@@ -493,7 +493,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Acyl-Bromine.png]]
+![/content/notes/images/Elimination-Acyl-Bromine.png]
 
 ### Elimination-Lg-Iodine
 
@@ -509,7 +509,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Lg-Iodine.png]]
+![/content/notes/images/Elimination-Lg-Iodine.png]
 
 ### Amide-Dehydration-(SOCl2)
 
@@ -526,7 +526,7 @@ References:
 
 
 
-![[/content/notes/images/Amide-Dehydration-(SOCl2).png]]
+![/content/notes/images/Amide-Dehydration-(SOCl2).png]
 
 ### Oxindole-Synthesis-X-Iodine
 
@@ -544,7 +544,7 @@ References:
 
 
 
-![[/content/notes/images/Oxindole-Synthesis-X-Iodine.png]]
+![/content/notes/images/Oxindole-Synthesis-X-Iodine.png]
 
 ### Robinson-Gabriel-Synthesis
 
@@ -563,7 +563,7 @@ References:
 
 
 
-![[/content/notes/images/Robinson-Gabriel-Synthesis.png]]
+![/content/notes/images/Robinson-Gabriel-Synthesis.png]
 
 ### Oxindole-Synthesis-X-Chlorine
 
@@ -581,7 +581,7 @@ References:
 
 
 
-![[/content/notes/images/Oxindole-Synthesis-X-Chlorine.png]]
+![/content/notes/images/Oxindole-Synthesis-X-Chlorine.png]
 
 ### Elimination-with-Hydride-Shift-Lg-Iodine
 
@@ -603,7 +603,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Hydride-Shift-Lg-Iodine.png]]
+![/content/notes/images/Elimination-with-Hydride-Shift-Lg-Iodine.png]
 
 ### Elimination-with-Alkyl-Shift-Lg-Ammonia
 
@@ -627,7 +627,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Ammonia.png]]
+![/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Ammonia.png]
 
 ### Chugaev-Elimination
 
@@ -647,7 +647,7 @@ References:
 
 
 
-![[/content/notes/images/Chugaev-Elimination.png]]
+![/content/notes/images/Chugaev-Elimination.png]
 
 ### Grob-Fragmentation-X-Iodine
 
@@ -658,7 +658,7 @@ References:
 
  
  
-![[/content/notes/images/Grob-Fragmentation-X-Iodine.png]]
+![/content/notes/images/Grob-Fragmentation-X-Iodine.png]
 
 ### Jocic-Reaction-pt1-Nu-Amino
 
@@ -678,7 +678,7 @@ References:
 
 
 
-![[/content/notes/images/Jocic-Reaction-pt1-Nu-Amino.png]]
+![/content/notes/images/Jocic-Reaction-pt1-Nu-Amino.png]
 
 ### Elimination-with-Alkyl-Shift-Lg-Sulfonate
 
@@ -700,7 +700,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Sulfonate.png]]
+![/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Sulfonate.png]
 
 ### Elimination-Lg-Sulfonate
 
@@ -722,7 +722,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Lg-Sulfonate.png]]
+![/content/notes/images/Elimination-Lg-Sulfonate.png]
 
 ### Elimination-with-Hydride-Shift-Lg-Bromine
 
@@ -744,7 +744,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Hydride-Shift-Lg-Bromine.png]]
+![/content/notes/images/Elimination-with-Hydride-Shift-Lg-Bromine.png]
 
 ### Bamford-Stevens-Reaction
 
@@ -762,7 +762,7 @@ References:
 
 
 
-![[/content/notes/images/Bamford-Stevens-Reaction.png]]
+![/content/notes/images/Bamford-Stevens-Reaction.png]
 
 ### Ester-Pyrolysis
 
@@ -783,7 +783,7 @@ References:
 
 
 
-![[/content/notes/images/Ester-Pyrolysis.png]]
+![/content/notes/images/Ester-Pyrolysis.png]
 
 ### Benzimidazolone-Synthesis-(1)-X-Iodine
 
@@ -801,7 +801,7 @@ References:
 
 
 
-![[/content/notes/images/Benzimidazolone-Synthesis-(1)-X-Iodine.png]]
+![/content/notes/images/Benzimidazolone-Synthesis-(1)-X-Iodine.png]
 
 ### Decarboxylation-CG-Nitrite
 
@@ -819,7 +819,7 @@ References:
 
 
 
-![[/content/notes/images/Decarboxylation-CG-Nitrite.png]]
+![/content/notes/images/Decarboxylation-CG-Nitrite.png]
 
 ### Elimination-Lg-Alkoxide
 
@@ -841,7 +841,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Lg-Alkoxide.png]]
+![/content/notes/images/Elimination-Lg-Alkoxide.png]
 
 ### Grob-Fragmentation-X-Bromine
 
@@ -852,7 +852,7 @@ References:
 
  
  
-![[/content/notes/images/Grob-Fragmentation-X-Bromine.png]]
+![/content/notes/images/Grob-Fragmentation-X-Bromine.png]
 
 ### Decarboxylation-CG-Carbonyl
 
@@ -871,7 +871,7 @@ References:
 
 
 
-![[/content/notes/images/Decarboxylation-CG-Carbonyl.png]]
+![/content/notes/images/Decarboxylation-CG-Carbonyl.png]
 
 ### Elimination-Alkene-Lg-Sulfonate
 
@@ -882,7 +882,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Alkene-Lg-Sulfonate.png]]
+![/content/notes/images/Elimination-Alkene-Lg-Sulfonate.png]
 
 ### Oxindole-Synthesis-X-Fluorine
 
@@ -900,7 +900,7 @@ References:
 
 
 
-![[/content/notes/images/Oxindole-Synthesis-X-Fluorine.png]]
+![/content/notes/images/Oxindole-Synthesis-X-Fluorine.png]
 
 ### Elimination-Lg-Ammonia
 
@@ -924,7 +924,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Lg-Ammonia.png]]
+![/content/notes/images/Elimination-Lg-Ammonia.png]
 
 ### Aza-Grob-Fragmentation-X-Bromine
 
@@ -935,7 +935,7 @@ References:
 
  
  
-![[/content/notes/images/Aza-Grob-Fragmentation-X-Bromine.png]]
+![/content/notes/images/Aza-Grob-Fragmentation-X-Bromine.png]
 
 ### Jocic-Reaction-pt1-Nu-Azide
 
@@ -953,7 +953,7 @@ References:
 
 
 
-![[/content/notes/images/Jocic-Reaction-pt1-Nu-Azide.png]]
+![/content/notes/images/Jocic-Reaction-pt1-Nu-Azide.png]
 
 ### Elimination-Lg-Chlorine
 
@@ -969,7 +969,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Lg-Chlorine.png]]
+![/content/notes/images/Elimination-Lg-Chlorine.png]
 
 ### Elimination-Amine-Imine
 
@@ -989,7 +989,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Amine-Imine.png]]
+![/content/notes/images/Elimination-Amine-Imine.png]
 
 ### Decarboxylation-CG-Carboxyl
 
@@ -1008,7 +1008,7 @@ References:
 
 
 
-![[/content/notes/images/Decarboxylation-CG-Carboxyl.png]]
+![/content/notes/images/Decarboxylation-CG-Carboxyl.png]
 
 ### Hofmann Elimination
 
@@ -1031,7 +1031,7 @@ References:
 
 
 
-![[/content/notes/images/Hofmann Elimination.png]]
+![/content/notes/images/Hofmann Elimination.png]
 
 ### Hemi-Acetal-Degradation
 
@@ -1051,7 +1051,7 @@ References:
 
 
 
-![[/content/notes/images/Hemi-Acetal-Degradation.png]]
+![/content/notes/images/Hemi-Acetal-Degradation.png]
 
 ### Jocic-Reaction-pt1-Nu-Alkoxide
 
@@ -1070,7 +1070,7 @@ References:
 
 
 
-![[/content/notes/images/Jocic-Reaction-pt1-Nu-Alkoxide.png]]
+![/content/notes/images/Jocic-Reaction-pt1-Nu-Alkoxide.png]
 
 ### Krapcho-Decarboxylation-GWE-Sulfonyl
 
@@ -1089,7 +1089,7 @@ References:
 
 
 
-![[/content/notes/images/Krapcho-Decarboxylation-GWE-Sulfonyl.png]]
+![/content/notes/images/Krapcho-Decarboxylation-GWE-Sulfonyl.png]
 
 ### Elimination-Acyl-Iodine
 
@@ -1107,7 +1107,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Acyl-Iodine.png]]
+![/content/notes/images/Elimination-Acyl-Iodine.png]
 
 ### Elimination-Alkene-Lg-Iodine
 
@@ -1118,7 +1118,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Alkene-Lg-Iodine.png]]
+![/content/notes/images/Elimination-Alkene-Lg-Iodine.png]
 
 ### Elimination-To-Form-Cyclopropanone-Bromine
 
@@ -1138,7 +1138,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-To-Form-Cyclopropanone-Bromine.png]]
+![/content/notes/images/Elimination-To-Form-Cyclopropanone-Bromine.png]
 
 ### Grob-Fragmentation-X-Chlorine
 
@@ -1149,7 +1149,7 @@ References:
 
  
  
-![[/content/notes/images/Grob-Fragmentation-X-Chlorine.png]]
+![/content/notes/images/Grob-Fragmentation-X-Chlorine.png]
 
 ### Elimination-Acyl-Chlorine
 
@@ -1167,7 +1167,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-Acyl-Chlorine.png]]
+![/content/notes/images/Elimination-Acyl-Chlorine.png]
 
 ### Elimination-To-Form-Cyclopropanone-Iodine
 
@@ -1187,7 +1187,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-To-Form-Cyclopropanone-Iodine.png]]
+![/content/notes/images/Elimination-To-Form-Cyclopropanone-Iodine.png]
 
 ### Elimination-Alkene-Lg-Chlorine
 
@@ -1198,7 +1198,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Alkene-Lg-Chlorine.png]]
+![/content/notes/images/Elimination-Alkene-Lg-Chlorine.png]
 
 ### Elimination-Alkene-Lg-Bromine
 
@@ -1209,7 +1209,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Alkene-Lg-Bromine.png]]
+![/content/notes/images/Elimination-Alkene-Lg-Bromine.png]
 
 ### Krapcho-Decarboxylation-GWE-Nitrile
 
@@ -1227,7 +1227,7 @@ References:
 
 
 
-![[/content/notes/images/Krapcho-Decarboxylation-GWE-Nitrile.png]]
+![/content/notes/images/Krapcho-Decarboxylation-GWE-Nitrile.png]
 
 ### Krapcho-Decarboxylation-GWE-Nitrite
 
@@ -1245,7 +1245,7 @@ References:
 
 
 
-![[/content/notes/images/Krapcho-Decarboxylation-GWE-Nitrite.png]]
+![/content/notes/images/Krapcho-Decarboxylation-GWE-Nitrite.png]
 
 ### Elimination-with-Hydride-Shift-Lg-Hydroxyl
 
@@ -1267,7 +1267,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Hydride-Shift-Lg-Hydroxyl.png]]
+![/content/notes/images/Elimination-with-Hydride-Shift-Lg-Hydroxyl.png]
 
 ### Elimination-Hemiacetal
 
@@ -1279,7 +1279,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Hemiacetal.png]]
+![/content/notes/images/Elimination-Hemiacetal.png]
 
 ### Elimination-Lg-Bromine
 
@@ -1295,7 +1295,7 @@ References:
 
  
  
-![[/content/notes/images/Elimination-Lg-Bromine.png]]
+![/content/notes/images/Elimination-Lg-Bromine.png]
 
 ### Elimination-with-Alkyl-Shift-Lg-Hydroxyl
 
@@ -1316,7 +1316,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Hydroxyl.png]]
+![/content/notes/images/Elimination-with-Alkyl-Shift-Lg-Hydroxyl.png]
 
 ### Grob-Fragmentation-X-Sulfonate
 
@@ -1327,7 +1327,7 @@ References:
 
  
  
-![[/content/notes/images/Grob-Fragmentation-X-Sulfonate.png]]
+![/content/notes/images/Grob-Fragmentation-X-Sulfonate.png]
 
 ### Elimination-with-Hydride-Shift-Lg-Ammonia
 
@@ -1352,7 +1352,7 @@ References:
 
 
 
-![[/content/notes/images/Elimination-with-Hydride-Shift-Lg-Ammonia.png]]
+![/content/notes/images/Elimination-with-Hydride-Shift-Lg-Ammonia.png]
 
 ### Amide-Dehydration-(SOBr2)
 
@@ -1369,7 +1369,7 @@ References:
 
 
 
-![[/content/notes/images/Amide-Dehydration-(SOBr2).png]]
+![/content/notes/images/Amide-Dehydration-(SOBr2).png]
 
 ### Cope-Elimination
 
@@ -1392,5 +1392,5 @@ References:
 
 
 
-![[/content/notes/images/Cope-Elimination.png]]
+![/content/notes/images/Cope-Elimination.png]
 

@@ -47,7 +47,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Amino
 
@@ -78,7 +78,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Carboxyl-H
 
@@ -107,7 +107,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Carbonate-Ester
 
@@ -135,7 +135,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Carbonate-Ester
 
@@ -164,7 +164,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Amino
 
@@ -195,7 +195,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -223,7 +223,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Thiolate
 
@@ -253,7 +253,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -282,7 +282,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine
 
@@ -310,7 +310,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Thiolate
 
@@ -339,7 +339,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Carboxyl-H
 
@@ -367,7 +367,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Hydroxyl
 
@@ -394,7 +394,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Carboxyl-H
 
@@ -423,7 +423,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Carbonate-Ester
 
@@ -452,7 +452,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Alkoxide
 
@@ -481,7 +481,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine
 
@@ -508,7 +508,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png]
 
 ##### Sulfonamide-Condensation
 
@@ -519,7 +519,7 @@ References:
 
  Special Conditions : REACT WITH ITSELF 
  
-![[/content/notes/images/Sulfonamide-Condensation.png]]
+![/content/notes/images/Sulfonamide-Condensation.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -549,7 +549,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Bromine
 
@@ -560,7 +560,7 @@ References:
 
  
  
-![[/content/notes/images/Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Bromine.png]]
+![/content/notes/images/Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Alkoxide
 
@@ -590,7 +590,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamate-Ester-(OR-Leaving)-Nu-Hydroxyl
 
@@ -614,7 +614,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamate-Ester-(OR-Leaving)-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamate-Ester-(OR-Leaving)-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Carbonate-Ester
 
@@ -644,7 +644,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -674,7 +674,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Alkoxide
 
@@ -703,7 +703,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbonate-Nu-Carboxyl-H
 
@@ -728,7 +728,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine
 
@@ -755,7 +755,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Amino
 
@@ -785,7 +785,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Carboxyl-H
 
@@ -814,7 +814,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -843,7 +843,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -872,7 +872,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -902,7 +902,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine
 
@@ -931,7 +931,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Carboxyl-H
 
@@ -959,7 +959,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -988,7 +988,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbonate-Nu-Hydroxyl
 
@@ -1012,7 +1012,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Carboxyl-H
 
@@ -1041,7 +1041,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Amide-Lg-Chlorine
 
@@ -1060,7 +1060,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Amide-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Amide-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Thiolate
 
@@ -1089,7 +1089,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -1117,7 +1117,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine
 
@@ -1145,7 +1145,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Amino
 
@@ -1175,7 +1175,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Nu-Hydroxyl
 
@@ -1199,7 +1199,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Alkoxide
 
@@ -1228,7 +1228,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Amino
 
@@ -1260,7 +1260,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -1289,7 +1289,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Carboxyl-H
 
@@ -1318,7 +1318,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -1348,7 +1348,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Amino
 
@@ -1378,7 +1378,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine
 
@@ -1405,7 +1405,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbonate-Nu-Thiolate
 
@@ -1430,7 +1430,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -1460,7 +1460,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Thiolate
 
@@ -1488,7 +1488,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -1517,7 +1517,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Carbonate-Ester
 
@@ -1547,7 +1547,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine
 
@@ -1576,7 +1576,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Alkoxide
 
@@ -1600,7 +1600,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Alkoxide
 
@@ -1630,7 +1630,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Carboxyl-H
 
@@ -1659,7 +1659,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Alkoxide
 
@@ -1690,7 +1690,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -1719,7 +1719,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -1746,7 +1746,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Amino
 
@@ -1776,7 +1776,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Amino
 
@@ -1806,7 +1806,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine
 
@@ -1834,7 +1834,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Carbonate-Ester
 
@@ -1864,7 +1864,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine
 
@@ -1892,7 +1892,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Thiolate
 
@@ -1921,7 +1921,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine
 
@@ -1949,7 +1949,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -1978,7 +1978,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -2008,7 +2008,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -2036,7 +2036,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Alkoxide-and-Nu-Amino
 
@@ -2067,7 +2067,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Alkoxide-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Alkoxide-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Carboxyl-H
 
@@ -2095,7 +2095,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Hydroxyl-and-Nu-Amino
 
@@ -2124,7 +2124,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Hydroxyl-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Hydroxyl-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Carboxyl-H
 
@@ -2154,7 +2154,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -2182,7 +2182,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -2210,7 +2210,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Alkoxide
 
@@ -2239,7 +2239,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Carboxyl-H
 
@@ -2271,7 +2271,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -2300,7 +2300,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Thiolate
 
@@ -2329,7 +2329,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine
 
@@ -2357,7 +2357,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine
 
@@ -2386,7 +2386,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Carbonate-Ester
 
@@ -2415,7 +2415,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Thiolate
 
@@ -2439,7 +2439,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Carboxyl-H
 
@@ -2468,7 +2468,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine
 
@@ -2497,7 +2497,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Amino
 
@@ -2528,7 +2528,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Carbonate-Ester
 
@@ -2559,7 +2559,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -2588,7 +2588,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Carboxyl-H
 
@@ -2618,7 +2618,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Carboxyl-H.png]
 
 ##### Imine-Hydrolysis
 
@@ -2637,7 +2637,7 @@ References:
 
 
 
-![[/content/notes/images/Imine-Hydrolysis.png]]
+![/content/notes/images/Imine-Hydrolysis.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Alkoxide
 
@@ -2667,7 +2667,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Alkoxide
 
@@ -2695,7 +2695,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Amino
 
@@ -2724,7 +2724,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Thiolate
 
@@ -2753,7 +2753,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Carbonate-Ester
 
@@ -2782,7 +2782,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Carboxyl-H
 
@@ -2812,7 +2812,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Amino
 
@@ -2842,7 +2842,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Hydroxyl
 
@@ -2865,7 +2865,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -2888,7 +2888,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Thiolate
 
@@ -2912,7 +2912,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbonate-Nu-Alkoxide
 
@@ -2937,7 +2937,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine
 
@@ -2965,7 +2965,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Thiolate
 
@@ -2995,7 +2995,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine
 
@@ -3023,7 +3023,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Carbonate-Ester
 
@@ -3054,7 +3054,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enamine-Lg-Chlorine
 
@@ -3075,7 +3075,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -3106,7 +3106,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -3134,7 +3134,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Carboxyl-H
 
@@ -3163,7 +3163,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -3193,7 +3193,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Carboxyl-H
 
@@ -3221,7 +3221,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Alkoxide-and-Nu-Hydroxyl
 
@@ -3252,7 +3252,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Alkoxide-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Alkoxide-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Carboxyl-H
 
@@ -3282,7 +3282,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Carboxyl-H
 
@@ -3311,7 +3311,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine
 
@@ -3340,7 +3340,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Amide-Lg-Iodine
 
@@ -3359,7 +3359,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Amide-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Amide-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Alkoxide
 
@@ -3387,7 +3387,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Azide-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -3416,7 +3416,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -3444,7 +3444,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -3472,7 +3472,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Hydroxyl
 
@@ -3501,7 +3501,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Hydroxyl
 
@@ -3530,7 +3530,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Amino
 
@@ -3555,7 +3555,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Iodine
 
@@ -3566,7 +3566,7 @@ References:
 
  
  
-![[/content/notes/images/Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Iodine.png]]
+![/content/notes/images/Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Alkoxide
 
@@ -3595,7 +3595,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -3625,7 +3625,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Amino
 
@@ -3656,7 +3656,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -3684,7 +3684,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Carboxyl-H
 
@@ -3713,7 +3713,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -3742,7 +3742,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -3772,7 +3772,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Alkoxide-and-Nu-Hydroxyl
 
@@ -3802,7 +3802,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Alkoxide-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Alkoxide-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine
 
@@ -3831,7 +3831,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Amino
 
@@ -3861,7 +3861,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Carbonate-Ester
 
@@ -3890,7 +3890,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Carboxyl-H
 
@@ -3919,7 +3919,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Carboxyl-H
 
@@ -3948,7 +3948,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Thiolate
 
@@ -3972,7 +3972,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Thiolate
 
@@ -4001,7 +4001,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Carbonate-Ester
 
@@ -4031,7 +4031,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enamine-Lg-Bromine
 
@@ -4052,7 +4052,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -4081,7 +4081,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Hydroxyl
 
@@ -4104,7 +4104,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine
 
@@ -4134,7 +4134,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine
 
@@ -4162,7 +4162,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Alkoxide
 
@@ -4191,7 +4191,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine
 
@@ -4218,7 +4218,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Carboxyl-H
 
@@ -4248,7 +4248,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -4276,7 +4276,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Carbonate-Ester
 
@@ -4304,7 +4304,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Carbonate-Ester
 
@@ -4336,7 +4336,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Carboxyl-H
 
@@ -4365,7 +4365,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -4394,7 +4394,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Alkoxide-and-Nu-Amino
 
@@ -4424,7 +4424,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Alkoxide-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Alkoxide-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Carboxyl-H
 
@@ -4455,7 +4455,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Amide-Lg-Bromine
 
@@ -4474,7 +4474,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Amide-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Amide-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Alkoxide
 
@@ -4498,7 +4498,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -4529,7 +4529,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamate-Ester-(OR-Leaving)-Nu-Amino
 
@@ -4555,7 +4555,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamate-Ester-(OR-Leaving)-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamate-Ester-(OR-Leaving)-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbonate-Nu-Amino
 
@@ -4581,7 +4581,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbonate-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Nu-Alkoxide
 
@@ -4606,7 +4606,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Carboxyl-H
 
@@ -4634,7 +4634,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Amino
 
@@ -4664,7 +4664,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Carboxyl-H
 
@@ -4695,7 +4695,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Carbonate-Ester
 
@@ -4725,7 +4725,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Thiolate
 
@@ -4755,7 +4755,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Thiolate
 
@@ -4783,7 +4783,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Thiolate
 
@@ -4813,7 +4813,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Iodine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -4840,7 +4840,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Hydroxyl
 
@@ -4868,7 +4868,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Carboxyl-H
 
@@ -4892,7 +4892,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Carbonate-Ester
 
@@ -4922,7 +4922,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Hydroxyl
 
@@ -4950,7 +4950,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carboxyl-H-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine
 
@@ -4978,7 +4978,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine
 
@@ -5009,7 +5009,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Carboxyl-H
 
@@ -5038,7 +5038,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Amino
 
@@ -5063,7 +5063,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Iodine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Azide
 
@@ -5091,7 +5091,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Azide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Azide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Azide
 
@@ -5119,7 +5119,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Azide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Azide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Amino
 
@@ -5149,7 +5149,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Chlorine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Carbonate-Ester
 
@@ -5177,7 +5177,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Substitution-Enamine-Lg-Iodine
 
@@ -5198,7 +5198,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enamine-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Alkoxide
 
@@ -5227,7 +5227,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Bromine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Hydroxyl
 
@@ -5255,7 +5255,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -5279,7 +5279,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Thiolate
 
@@ -5308,7 +5308,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Nu-Amino
 
@@ -5334,7 +5334,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Alkoxide
 
@@ -5363,7 +5363,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Iodine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Azide
 
@@ -5391,7 +5391,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Azide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Azide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine
 
@@ -5420,7 +5420,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Carboxyl-H
 
@@ -5451,7 +5451,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine
 
@@ -5478,7 +5478,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine
 
@@ -5507,7 +5507,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine
 
@@ -5536,7 +5536,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine
 
@@ -5564,7 +5564,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Hydroxyl
 
@@ -5593,7 +5593,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carboxyl-H-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Carboxyl-H
 
@@ -5623,7 +5623,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Amino
 
@@ -5653,7 +5653,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Haloformate-Lg-Bromine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine
 
@@ -5680,7 +5680,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Carboxyl-H
 
@@ -5710,7 +5710,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Bromine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine
 
@@ -5737,7 +5737,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Hydroxyl
 
@@ -5765,7 +5765,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Iodine-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Carbonate-Ester
 
@@ -5796,7 +5796,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Amino
 
@@ -5821,7 +5821,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Amino
 
@@ -5851,7 +5851,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Thiolate-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Alkoxide
 
@@ -5880,7 +5880,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Thiolate-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Thiolate
 
@@ -5909,7 +5909,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Basic-Lg-Carbonate-Ester-and-Nu-Thiolate.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Carbonate-Ester
 
@@ -5938,7 +5938,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Carboxyl-H
 
@@ -5962,7 +5962,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Bromine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Carboxyl-H
 
@@ -5992,7 +5992,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Carboxyl-H
 
@@ -6022,7 +6022,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Chlorine
 
@@ -6033,7 +6033,7 @@ References:
 
  
  
-![[/content/notes/images/Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Chlorine.png]]
+![/content/notes/images/Nucleophilic-Acyl-Aryl-Ether-Demethylation-Hal-Chlorine.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine
 
@@ -6062,7 +6062,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Amino
 
@@ -6093,7 +6093,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Amino.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Amino.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Alkoxide
 
@@ -6122,7 +6122,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Alkoxide.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acid-Halide-Lg-Chlorine-and-Nu-Alkoxide.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine
 
@@ -6150,7 +6150,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Carboxyl-H
 
@@ -6180,7 +6180,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Carbamoyl-Halide-Lg-Chlorine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Hydroxyl
 
@@ -6207,7 +6207,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Hydroxyl.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Azide-and-Nu-Hydroxyl.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine
 
@@ -6235,7 +6235,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png]
 
 ##### Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Carboxyl-H
 
@@ -6259,7 +6259,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Carboxyl-H.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Dithioate-Halide-Lg-Chlorine-and-Nu-Carboxyl-H.png]
 
 ##### Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Carbonate-Ester
 
@@ -6289,7 +6289,7 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Carbonate-Ester.png]]
+![/content/notes/images/Nucleophilic-Substitution-Enolates-Basic-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Carbonate-Ester.png]
 
 ##### Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Thiolate
 
@@ -6318,5 +6318,5 @@ References:
 
 
 
-![[/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Thiolate.png]]
+![/content/notes/images/Nucleophilic-Acyl-Substitution-Acidic-Lg-Carbonate-Ester-and-Nu-Thiolate.png]
 

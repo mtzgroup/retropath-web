@@ -20,7 +20,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl.png]
 
 ### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl
 
@@ -40,7 +40,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl.png]
 
 ### Piperidine-Ring-Synthesis-(N)-Nu-Alkoxide
 
@@ -67,7 +67,7 @@ References:
 
 
 
-![[/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Alkoxide.png]]
+![/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Alkoxide.png]
 
 ### Thorpe-Ziegler-Reaction
 
@@ -85,7 +85,7 @@ References:
 
 
 
-![[/content/notes/images/Thorpe-Ziegler-Reaction.png]]
+![/content/notes/images/Thorpe-Ziegler-Reaction.png]
 
 ### Piperidine-Ring-Synthesis-(N)-Nu-Amino
 
@@ -113,7 +113,7 @@ References:
 
 
 
-![[/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Amino.png]]
+![/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Amino.png]
 
 ### Ketene-Nu-Carboxyl-H
 
@@ -132,7 +132,7 @@ References:
 
 
 
-![[/content/notes/images/Ketene-Nu-Carboxyl-H.png]]
+![/content/notes/images/Ketene-Nu-Carboxyl-H.png]
 
 ### Sulfoxide-Oxidation-(H2O2)
 
@@ -143,7 +143,7 @@ References:
 
  
  
-![[/content/notes/images/Sulfoxide-Oxidation-(H2O2).png]]
+![/content/notes/images/Sulfoxide-Oxidation-(H2O2).png]
 
 ### Favorskii-Reaction
 
@@ -164,7 +164,7 @@ References:
 
 
 
-![[/content/notes/images/Favorskii-Reaction.png]]
+![/content/notes/images/Favorskii-Reaction.png]
 
 ### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile
 
@@ -183,7 +183,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile.png]
 
 ### Thiane-Ring-Synthesis-(S)-Nu-Carboxyl-H
 
@@ -210,7 +210,7 @@ References:
 
 
 
-![[/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Carboxyl-H.png]]
+![/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Carboxyl-H.png]
 
 ### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate
 
@@ -231,7 +231,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate.png]
 
 ### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Phosphonate
 
@@ -251,7 +251,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Phosphonate.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Phosphonate.png]
 
 ### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl
 
@@ -271,7 +271,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl.png]
 
 ### Ketene-Nu-Hydroxyl
 
@@ -289,7 +289,7 @@ References:
 
 
 
-![[/content/notes/images/Ketene-Nu-Hydroxyl.png]]
+![/content/notes/images/Ketene-Nu-Hydroxyl.png]
 
 ### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite
 
@@ -308,7 +308,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite.png]
 
 ### Nef-Isocyanide-Reaction
 
@@ -326,7 +326,7 @@ References:
 
 
 
-![[/content/notes/images/Nef-Isocyanide-Reaction.png]]
+![/content/notes/images/Nef-Isocyanide-Reaction.png]
 
 ### Pictet-Spengler
 
@@ -348,7 +348,7 @@ References:
 
 
 
-![[/content/notes/images/Pictet-Spengler.png]]
+![/content/notes/images/Pictet-Spengler.png]
 
 ### Ketene-Cycloaddition-(4+2)
 
@@ -370,7 +370,7 @@ References:
 
 
 
-![[/content/notes/images/Ketene-Cycloaddition-(4+2).png]]
+![/content/notes/images/Ketene-Cycloaddition-(4+2).png]
 
 ### Thiane-Ring-Synthesis-(S)-Nu-Hydroxyl
 
@@ -396,7 +396,7 @@ References:
 
 
 
-![[/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Hydroxyl.png]]
+![/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Hydroxyl.png]
 
 ### Piperidine-Ring-Synthesis-(N)-Nu-Hydroxyl
 
@@ -422,7 +422,7 @@ References:
 
 
 
-![[/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Hydroxyl.png]]
+![/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Hydroxyl.png]
 
 ### Piperidine-Ring-Synthesis-(N)-Nu-Carboxyl-H
 
@@ -449,7 +449,7 @@ References:
 
 
 
-![[/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Carboxyl-H.png]]
+![/content/notes/images/Piperidine-Ring-Synthesis-(N)-Nu-Carboxyl-H.png]
 
 ### Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl
 
@@ -475,7 +475,7 @@ References:
 
 
 
-![[/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl.png]]
+![/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl.png]
 
 ### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite
 
@@ -494,7 +494,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite.png]
 
 ### Ketene-Cycloaddition-(3+2)
 
@@ -518,7 +518,7 @@ References:
 
 
 
-![[/content/notes/images/Ketene-Cycloaddition-(3+2).png]]
+![/content/notes/images/Ketene-Cycloaddition-(3+2).png]
 
 ### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Phosphonate
 
@@ -539,7 +539,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Phosphonate.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Phosphonate.png]
 
 ### Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H
 
@@ -566,7 +566,7 @@ References:
 
 
 
-![[/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H.png]]
+![/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H.png]
 
 ### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile
 
@@ -584,7 +584,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile.png]
 
 ### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrite
 
@@ -602,7 +602,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrite.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrite.png]
 
 ### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate
 
@@ -622,7 +622,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate.png]
 
 ### Ketene-Cycloaddition-(2+2)
 
@@ -644,7 +644,7 @@ References:
 
 
 
-![[/content/notes/images/Ketene-Cycloaddition-(2+2).png]]
+![/content/notes/images/Ketene-Cycloaddition-(2+2).png]
 
 ### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile
 
@@ -663,7 +663,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile.png]
 
 ### Sulfide-Oxidation-(H2O2)
 
@@ -674,7 +674,7 @@ References:
 
  
  
-![[/content/notes/images/Sulfide-Oxidation-(H2O2).png]]
+![/content/notes/images/Sulfide-Oxidation-(H2O2).png]
 
 ### Ketene-Nu-Amino
 
@@ -694,7 +694,7 @@ References:
 
 
 
-![[/content/notes/images/Ketene-Nu-Amino.png]]
+![/content/notes/images/Ketene-Nu-Amino.png]
 
 ### Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate
 
@@ -716,7 +716,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate.png]
 
 ### Pyridine-N-Oxide-Synthesis-(mCPBA)
 
@@ -727,7 +727,7 @@ References:
 
  
  
-![[/content/notes/images/Pyridine-N-Oxide-Synthesis-(mCPBA).png]]
+![/content/notes/images/Pyridine-N-Oxide-Synthesis-(mCPBA).png]
 
 ### Thiane-Ring-Synthesis-(S)-Nu-Amino
 
@@ -755,7 +755,7 @@ References:
 
 
 
-![[/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Amino.png]]
+![/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Amino.png]
 
 ### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite
 
@@ -773,7 +773,7 @@ References:
 
 
 
-![[/content/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite.png]]
+![/content/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite.png]
 
 ### Thiane-Ring-Synthesis-(S)-Nu-Alkoxide
 
@@ -800,7 +800,7 @@ References:
 
 
 
-![[/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Alkoxide.png]]
+![/content/notes/images/Thiane-Ring-Synthesis-(S)-Nu-Alkoxide.png]
 
 ### Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide
 
@@ -827,7 +827,7 @@ References:
 
 
 
-![[/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide.png]]
+![/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide.png]
 
 ### Ketene-Nu-Alkoxide
 
@@ -846,7 +846,7 @@ References:
 
 
 
-![[/content/notes/images/Ketene-Nu-Alkoxide.png]]
+![/content/notes/images/Ketene-Nu-Alkoxide.png]
 
 ### Nitrone-Olefin-(3+2)-Cycloaddition
 
@@ -866,7 +866,7 @@ References:
 
 
 
-![[/content/notes/images/Nitrone-Olefin-(3+2)-Cycloaddition.png]]
+![/content/notes/images/Nitrone-Olefin-(3+2)-Cycloaddition.png]
 
 ### Tetrahydropyran-Ring-Synthesis-Nu-Amino
 
@@ -894,5 +894,5 @@ References:
 
 
 
-![[/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Amino.png]]
+![/content/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Amino.png]
 
