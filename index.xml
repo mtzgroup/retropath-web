@@ -30,7 +30,7 @@ Riemschneider-Thiocarbamate-Synthesis-Water References:
 [0] Riemschneider thiocarbamate synthesis - Wikipedia
 Condition to enforce:
 R1 = L-A
-![[content/notes/images/images/Riemschneider-Thiocarbamate-Synthesis-Water.png]]
+![[content/notes/images/Riemschneider-Thiocarbamate-Synthesis-Water.png]]
 Amide-Carbonyl-Addition References:</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Eliminations/Eliminations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Eliminations/Eliminations/</guid><description>[[named_reactions]]
 Krapcho-Decarboxylation-GWE-Carboxyl References:
 [0] Krapcho Decarboxylation
@@ -41,7 +41,7 @@ R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/>
 Definition: A Chemical transformation of one (or more) compounds into one (or more) different compounds that represents a reaction that can be distilled from at least one, but in general more than one elementary steps.</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</guid><description>[[Other]]
 Indole-Synthesis-(1) References:
 [0] Potassium tert-Butoxide Promoted Intramolecular Amination of 1-Aryl-2- (2-nitrobenzylidene)hydrazines: Efficient Synthesis of 1-Aryl-1H-indazoles
-![[content/notes/images/images/Indole-Synthesis-(1).png]]
+![[content/notes/images/Indole-Synthesis-(1).png]]
 Indole-Synthesis-(Nenitzescu) References:
 [0] Nenitzescu Indole Synthesis</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Other/Other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Other/Other/</guid><description>[[named_reactions]]
 Formylation-Alpha-Bromo References:
@@ -53,16 +53,18 @@ ozonolysis-alkyne References:
 [0] Ozonolysis - Criegee Mechanism
 [1] Alkene Reactions: Ozonolysis – Master Organic Chemistry
 [2] Alkene Reactions: Ozonolysis – Master Organic Chemistry</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</guid><description>[[Other]]
-Baeyer-Villiger-Oxidation-(Peracid) References:
-[0] Baeyer-Villiger Oxidation
-[1] Baeyer–Villiger oxidation - Wikipedia
+Rubottom-Oxidation References:
+[0] Rubottom Oxidation
 Condition to enforce:
-R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon
-R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Rearrangements/Pericyclic/Pericyclic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Rearrangements/Pericyclic/Pericyclic/</guid><description>[[Rearrangements]]
+R1 = L-A, A-Aromatic-Carbon
+R2 = L-A, A-Aromatic-Carbon
+R3 = L-A, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Rearrangements/Pericyclic/Pericyclic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Rearrangements/Pericyclic/Pericyclic/</guid><description>[[Rearrangements]]
+Buchner-Ring-Expansion-(O) References:
+[0] Pericyclic reaction - Wikipedia
+Special Conditions : SIDE REACTION
+![[content/notes/images/Buchner-Ring-Expansion-(O).png]]
 Oxy-Cope-Rearrangement References:
-[0] Cope rearrangement - Wikipedia
-Special Conditions : SIDE REACTION Condition to enforce:
-R1 = L-A</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Rearrangements/Rearrangements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Rearrangements/Rearrangements/</guid><description>[[named_reactions]]
+[0] Cope rearrangement - Wikipedia</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Rearrangements/Rearrangements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Rearrangements/Rearrangements/</guid><description>[[named_reactions]]
 Lossen-Rearrangement References:
 [0] Lossen rearrangement - Wikipedia
 Condition to enforce:
@@ -70,7 +72,7 @@ R1 = L-A, A-Aromatic-Carbon
 R2 = L-A, A-Aromatic-Carbon</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>[[Substitutions]]
 Reimer-Tiemann-Formylation References:
 [0] Reimer-Tiemann Formylation
-![[content/notes/images/images/Reimer-Tiemann-Formylation.png]]
+![[content/notes/images/Reimer-Tiemann-Formylation.png]]
 Benzene-Nitration References:
 [0] Nitration of Benzene and Methylbenzene - Chemistry LibreTexts
 [1] Nitration - Wikipedia</description></item><item><title/><link>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://quartz.jzhao.xyz/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</guid><description>[[Nucleophilic-Substitutions]]
