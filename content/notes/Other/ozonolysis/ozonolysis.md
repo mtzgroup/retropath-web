@@ -25,7 +25,7 @@ References:
 
 
 
-![image](/content/notes/images/ozonolysis-alkyne.png)
+![image](/notes/images/ozonolysis-alkyne.png)
 
 #### ozonolysis-alkene-oxidative
 
@@ -48,7 +48,7 @@ References:
 
 
 
-![image](/content/notes/images/ozonolysis-alkene-oxidative.png)
+![image](/notes/images/ozonolysis-alkene-oxidative.png)
 
 #### Wharton-Reaction
 
@@ -68,7 +68,7 @@ References:
 
 
 
-![image](/content/notes/images/Wharton-Reaction.png)
+![image](/notes/images/Wharton-Reaction.png)
 
 #### Ozonolysis-Alkyne-Terminal
 
@@ -89,5 +89,5 @@ References:
 
 
 
-![image](/content/notes/images/Ozonolysis-Alkyne-Terminal.png)
+![image](/notes/images/Ozonolysis-Alkyne-Terminal.png)
 

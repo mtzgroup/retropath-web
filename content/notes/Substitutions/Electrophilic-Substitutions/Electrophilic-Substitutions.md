@@ -12,7 +12,7 @@ References:
 
  
  
-![image](/content/notes/images/Reimer-Tiemann-Formylation.png)
+![image](/notes/images/Reimer-Tiemann-Formylation.png)
 
 #### Benzene-Nitration
 
@@ -43,7 +43,7 @@ References:
 
 
 
-![image](/content/notes/images/Benzene-Nitration.png)
+![image](/notes/images/Benzene-Nitration.png)
 
 #### Bradsher-Cyclization-(2)
 
@@ -60,7 +60,7 @@ References:
 
 
 
-![image](/content/notes/images/Bradsher-Cyclization-(2).png)
+![image](/notes/images/Bradsher-Cyclization-(2).png)
 
 #### Bradsher-Cyclization-(1)
 
@@ -77,7 +77,7 @@ References:
 
 
 
-![image](/content/notes/images/Bradsher-Cyclization-(1).png)
+![image](/notes/images/Bradsher-Cyclization-(1).png)
 
 #### Duff-Reaction
 
@@ -88,7 +88,7 @@ References:
 
  
  
-![image](/content/notes/images/Duff-Reaction.png)
+![image](/notes/images/Duff-Reaction.png)
 
 #### Eschweiler-Clarke-Reaction
 
@@ -107,5 +107,5 @@ References:
 
 
 
-![image](/content/notes/images/Eschweiler-Clarke-Reaction.png)
+![image](/notes/images/Eschweiler-Clarke-Reaction.png)
 

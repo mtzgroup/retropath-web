@@ -22,7 +22,7 @@ References:
 
 
 
-![image](/content/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Carboxyl.png)
+![image](/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Carboxyl.png)
 
 ### Forster-Docker-Amine-Synthesis-(2)-X-Bromine
 
@@ -41,7 +41,7 @@ References:
 
 
 
-![image](/content/notes/images/Forster-Docker-Amine-Synthesis-(2)-X-Bromine.png)
+![image](/notes/images/Forster-Docker-Amine-Synthesis-(2)-X-Bromine.png)
 
 ### Sulfonamide-Condensation
 
@@ -59,7 +59,7 @@ References:
 
 
 
-![image](/content/notes/images/Sulfonamide-Condensation.png)
+![image](/notes/images/Sulfonamide-Condensation.png)
 
 ### Benzoin-Condensation
 
@@ -85,7 +85,7 @@ References:
 
 
 
-![image](/content/notes/images/Benzoin-Condensation.png)
+![image](/notes/images/Benzoin-Condensation.png)
 
 ### Imidoyl-Chloride-(H2O)
 
@@ -104,7 +104,7 @@ References:
 
 
 
-![image](/content/notes/images/Imidoyl-Chloride-(H2O).png)
+![image](/notes/images/Imidoyl-Chloride-(H2O).png)
 
 ### Carbamoyl-Chloride-Synthesis-(2)
 
@@ -121,7 +121,7 @@ References:
 
 
 
-![image](/content/notes/images/Carbamoyl-Chloride-Synthesis-(2).png)
+![image](/notes/images/Carbamoyl-Chloride-Synthesis-(2).png)
 
 ### Schmidt-Reaction-Alkene
 
@@ -141,7 +141,7 @@ References:
 
 
 
-![image](/content/notes/images/Schmidt-Reaction-Alkene.png)
+![image](/notes/images/Schmidt-Reaction-Alkene.png)
 
 ### Schmidt-Reaction-Ketone
 
@@ -159,7 +159,7 @@ References:
 
 
 
-![image](/content/notes/images/Schmidt-Reaction-Ketone.png)
+![image](/notes/images/Schmidt-Reaction-Ketone.png)
 
 ### Horner-Wadsworth-Emmons-Reaction-EWG-Phosphonate
 
@@ -181,7 +181,7 @@ References:
 
 
 
-![image](/content/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Phosphonate.png)
+![image](/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Phosphonate.png)
 
 ### Imidoyl-Chloride-(Nu)-Nu-Alkoxide
 
@@ -201,7 +201,7 @@ References:
 
 
 
-![image](/content/notes/images/Imidoyl-Chloride-(Nu)-Nu-Alkoxide.png)
+![image](/notes/images/Imidoyl-Chloride-(Nu)-Nu-Alkoxide.png)
 
 ### Schmidt-Reaction-Alcohol
 
@@ -220,7 +220,7 @@ References:
 
 
 
-![image](/content/notes/images/Schmidt-Reaction-Alcohol.png)
+![image](/notes/images/Schmidt-Reaction-Alcohol.png)
 
 ### Oxazole-Synthesis-EWG-Carbonyl-EWG3-Nitrile
 
@@ -239,7 +239,7 @@ References:
 
 
 
-![image](/content/notes/images/Oxazole-Synthesis-EWG-Carbonyl-EWG3-Nitrile.png)
+![image](/notes/images/Oxazole-Synthesis-EWG-Carbonyl-EWG3-Nitrile.png)
 
 ### Carbamoyl-Chloride-Synthesis-(1)
 
@@ -259,7 +259,7 @@ References:
 
 
 
-![image](/content/notes/images/Carbamoyl-Chloride-Synthesis-(1).png)
+![image](/notes/images/Carbamoyl-Chloride-Synthesis-(1).png)
 
 ### Imine-Formation
 
@@ -284,7 +284,7 @@ References:
 
 
 
-![image](/content/notes/images/Imine-Formation.png)
+![image](/notes/images/Imine-Formation.png)
 
 ### Hass-Bender-Oxidation-X-Iodine
 
@@ -302,7 +302,7 @@ References:
 
 
 
-![image](/content/notes/images/Hass-Bender-Oxidation-X-Iodine.png)
+![image](/notes/images/Hass-Bender-Oxidation-X-Iodine.png)
 
 ### Horner-Wadsworth-Emmons-Reaction-EWG-Carbonyl
 
@@ -323,7 +323,7 @@ References:
 
 
 
-![image](/content/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Carbonyl.png)
+![image](/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Carbonyl.png)
 
 ### Hass-Bender-Oxidation-X-Chlorine
 
@@ -341,7 +341,7 @@ References:
 
 
 
-![image](/content/notes/images/Hass-Bender-Oxidation-X-Chlorine.png)
+![image](/notes/images/Hass-Bender-Oxidation-X-Chlorine.png)
 
 ### Oxazole-Synthesis-EWG-Phosphonate-EWG3-Nitrile
 
@@ -361,7 +361,7 @@ References:
 
 
 
-![image](/content/notes/images/Oxazole-Synthesis-EWG-Phosphonate-EWG3-Nitrile.png)
+![image](/notes/images/Oxazole-Synthesis-EWG-Phosphonate-EWG3-Nitrile.png)
 
 ### Oxazole-Synthesis-EWG-Nitrile-EWG3-Nitrile
 
@@ -379,7 +379,7 @@ References:
 
 
 
-![image](/content/notes/images/Oxazole-Synthesis-EWG-Nitrile-EWG3-Nitrile.png)
+![image](/notes/images/Oxazole-Synthesis-EWG-Nitrile-EWG3-Nitrile.png)
 
 ### Imidoyl-Chloride-Formation
 
@@ -397,7 +397,7 @@ References:
 
 
 
-![image](/content/notes/images/Imidoyl-Chloride-Formation.png)
+![image](/notes/images/Imidoyl-Chloride-Formation.png)
 
 ### Thionyl-Bromide-to-Alcohol
 
@@ -416,7 +416,7 @@ References:
 
 
 
-![image](/content/notes/images/Thionyl-Bromide-to-Alcohol.png)
+![image](/notes/images/Thionyl-Bromide-to-Alcohol.png)
 
 ### Imidoyl-Chloride-(Nu)-Nu-Thiolate
 
@@ -436,7 +436,7 @@ References:
 
 
 
-![image](/content/notes/images/Imidoyl-Chloride-(Nu)-Nu-Thiolate.png)
+![image](/notes/images/Imidoyl-Chloride-(Nu)-Nu-Thiolate.png)
 
 ### Tishchenko-Reaction
 
@@ -454,7 +454,7 @@ References:
 
 
 
-![image](/content/notes/images/Tishchenko-Reaction.png)
+![image](/notes/images/Tishchenko-Reaction.png)
 
 ### Thionyl-Chloride-to-Alcohol
 
@@ -473,7 +473,7 @@ References:
 
 
 
-![image](/content/notes/images/Thionyl-Chloride-to-Alcohol.png)
+![image](/notes/images/Thionyl-Chloride-to-Alcohol.png)
 
 ### Betti-Reaction
 
@@ -495,7 +495,7 @@ References:
 
 
 
-![image](/content/notes/images/Betti-Reaction.png)
+![image](/notes/images/Betti-Reaction.png)
 
 ### Einhorn-Brunner-Reaction
 
@@ -514,7 +514,7 @@ References:
 
 
 
-![image](/content/notes/images/Einhorn-Brunner-Reaction.png)
+![image](/notes/images/Einhorn-Brunner-Reaction.png)
 
 ### 1,2-Amide-Phthalamide-Synthesis
 
@@ -532,7 +532,7 @@ References:
 
 
 
-![image](/content/notes/images/1,2-Amide-Phthalamide-Synthesis.png)
+![image](/notes/images/1,2-Amide-Phthalamide-Synthesis.png)
 
 ### Horner-Wadsworth-Emmons-Reaction-EWG-Nitrile
 
@@ -552,7 +552,7 @@ References:
 
 
 
-![image](/content/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Nitrile.png)
+![image](/notes/images/Horner-Wadsworth-Emmons-Reaction-EWG-Nitrile.png)
 
 ### Forster-Docker-Amine-Synthesis-(2)-X-Iodine
 
@@ -571,7 +571,7 @@ References:
 
 
 
-![image](/content/notes/images/Forster-Docker-Amine-Synthesis-(2)-X-Iodine.png)
+![image](/notes/images/Forster-Docker-Amine-Synthesis-(2)-X-Iodine.png)
 
 ### Imidoyl-Chloride-(Nu)-Nu-Amino
 
@@ -592,7 +592,7 @@ References:
 
 
 
-![image](/content/notes/images/Imidoyl-Chloride-(Nu)-Nu-Amino.png)
+![image](/notes/images/Imidoyl-Chloride-(Nu)-Nu-Amino.png)
 
 ### Thionyl-Chloride-to-Amide
 
@@ -610,7 +610,7 @@ References:
 
 
 
-![image](/content/notes/images/Thionyl-Chloride-to-Amide.png)
+![image](/notes/images/Thionyl-Chloride-to-Amide.png)
 
 ### Hammick-Reaction
 
@@ -627,7 +627,7 @@ References:
 
 
 
-![image](/content/notes/images/Hammick-Reaction.png)
+![image](/notes/images/Hammick-Reaction.png)
 
 ### Oxazole-Synthesis-EWG-Alkane-EWG3-Nitrile
 
@@ -646,7 +646,7 @@ References:
 
 
 
-![image](/content/notes/images/Oxazole-Synthesis-EWG-Alkane-EWG3-Nitrile.png)
+![image](/notes/images/Oxazole-Synthesis-EWG-Alkane-EWG3-Nitrile.png)
 
 ### Imine-Reverse-Basic
 
@@ -665,7 +665,7 @@ References:
 
 
 
-![image](/content/notes/images/Imine-Reverse-Basic.png)
+![image](/notes/images/Imine-Reverse-Basic.png)
 
 ### Imine-Reverse-Acidic
 
@@ -684,7 +684,7 @@ References:
 
 
 
-![image](/content/notes/images/Imine-Reverse-Acidic.png)
+![image](/notes/images/Imine-Reverse-Acidic.png)
 
 ### Schmidt-Reaction-Carboxylic-Acid
 
@@ -701,7 +701,7 @@ References:
 
 
 
-![image](/content/notes/images/Schmidt-Reaction-Carboxylic-Acid.png)
+![image](/notes/images/Schmidt-Reaction-Carboxylic-Acid.png)
 
 ### Carboximidate-Hydrolysis
 
@@ -719,7 +719,7 @@ References:
 
 
 
-![image](/content/notes/images/Carboximidate-Hydrolysis.png)
+![image](/notes/images/Carboximidate-Hydrolysis.png)
 
 ### Carboximidate-Aminolysis
 
@@ -739,7 +739,7 @@ References:
 
 
 
-![image](/content/notes/images/Carboximidate-Aminolysis.png)
+![image](/notes/images/Carboximidate-Aminolysis.png)
 
 ### Oxazole-Synthesis-EWG-Carboxyl-EWG3-Nitrile
 
@@ -758,7 +758,7 @@ References:
 
 
 
-![image](/content/notes/images/Oxazole-Synthesis-EWG-Carboxyl-EWG3-Nitrile.png)
+![image](/notes/images/Oxazole-Synthesis-EWG-Carboxyl-EWG3-Nitrile.png)
 
 ### Hass-Bender-Oxidation-X-Bromine
 
@@ -776,7 +776,7 @@ References:
 
 
 
-![image](/content/notes/images/Hass-Bender-Oxidation-X-Bromine.png)
+![image](/notes/images/Hass-Bender-Oxidation-X-Bromine.png)
 
 ### Oxazole-Synthesis-EWG-Nitrite-EWG3-Nitrile
 
@@ -794,7 +794,7 @@ References:
 
 
 
-![image](/content/notes/images/Oxazole-Synthesis-EWG-Nitrite-EWG3-Nitrile.png)
+![image](/notes/images/Oxazole-Synthesis-EWG-Nitrite-EWG3-Nitrile.png)
 
 ### Isocyanide-Formation
 
@@ -811,7 +811,7 @@ References:
 
 
 
-![image](/content/notes/images/Isocyanide-Formation.png)
+![image](/notes/images/Isocyanide-Formation.png)
 
 ### Chapman-Rearrangement
 
@@ -830,5 +830,5 @@ References:
 
 
 
-![image](/content/notes/images/Chapman-Rearrangement.png)
+![image](/notes/images/Chapman-Rearrangement.png)
 

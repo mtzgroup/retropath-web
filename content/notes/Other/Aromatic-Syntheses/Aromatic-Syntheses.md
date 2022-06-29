@@ -12,7 +12,7 @@ References:
 
  
  
-![image](/content/notes/images/Indole-Synthesis-(1).png)
+![image](/notes/images/Indole-Synthesis-(1).png)
 
 #### Indole-Synthesis-(Nenitzescu)
 
@@ -36,7 +36,7 @@ References:
 
 
 
-![image](/content/notes/images/Indole-Synthesis-(Nenitzescu).png)
+![image](/notes/images/Indole-Synthesis-(Nenitzescu).png)
 
 #### Madelung-Indole-Synthesis
 
@@ -55,7 +55,7 @@ References:
 
 
 
-![image](/content/notes/images/Madelung-Indole-Synthesis.png)
+![image](/notes/images/Madelung-Indole-Synthesis.png)
 
 #### Conrad-Limpach-Synthesis-(Thermodynamic)
 
@@ -74,7 +74,7 @@ References:
 
 
 
-![image](/content/notes/images/Conrad-Limpach-Synthesis-(Thermodynamic).png)
+![image](/notes/images/Conrad-Limpach-Synthesis-(Thermodynamic).png)
 
 #### Iodine-Mediated-Cyclization-Indoline-(1)
 
@@ -92,7 +92,7 @@ References:
 
 
 
-![image](/content/notes/images/Iodine-Mediated-Cyclization-Indoline-(1).png)
+![image](/notes/images/Iodine-Mediated-Cyclization-Indoline-(1).png)
 
 #### Cyclopropanation-Part-2
 
@@ -114,7 +114,7 @@ References:
 
 
 
-![image](/content/notes/images/Cyclopropanation-Part-2.png)
+![image](/notes/images/Cyclopropanation-Part-2.png)
 
 #### Hantzsch-Thiazole-Synthesis-X-Chlorine
 
@@ -133,7 +133,7 @@ References:
 
 
 
-![image](/content/notes/images/Hantzsch-Thiazole-Synthesis-X-Chlorine.png)
+![image](/notes/images/Hantzsch-Thiazole-Synthesis-X-Chlorine.png)
 
 #### Carbazole-Synthesis
 
@@ -151,7 +151,7 @@ References:
 
 
 
-![image](/content/notes/images/Carbazole-Synthesis.png)
+![image](/notes/images/Carbazole-Synthesis.png)
 
 #### Aryl-Bargellini-Reaction
 
@@ -170,7 +170,7 @@ References:
 
 
 
-![image](/content/notes/images/Aryl-Bargellini-Reaction.png)
+![image](/notes/images/Aryl-Bargellini-Reaction.png)
 
 #### Fischer-oxazole-synthesis
 
@@ -188,7 +188,7 @@ References:
 
 
 
-![image](/content/notes/images/Fischer-oxazole-synthesis.png)
+![image](/notes/images/Fischer-oxazole-synthesis.png)
 
 #### Tetrazole-Formation
 
@@ -206,7 +206,7 @@ References:
 
 
 
-![image](/content/notes/images/Tetrazole-Formation.png)
+![image](/notes/images/Tetrazole-Formation.png)
 
 #### Huigsen-Cycloaddition
 
@@ -225,7 +225,7 @@ References:
 
 
 
-![image](/content/notes/images/Huigsen-Cycloaddition.png)
+![image](/notes/images/Huigsen-Cycloaddition.png)
 
 #### Guareschi-Thorpe-Condensation
 
@@ -245,7 +245,7 @@ References:
 
 
 
-![image](/content/notes/images/Guareschi-Thorpe-Condensation.png)
+![image](/notes/images/Guareschi-Thorpe-Condensation.png)
 
 #### VanLeusen-oxazole-synthesis
 
@@ -262,7 +262,7 @@ References:
 
 
 
-![image](/content/notes/images/VanLeusen-oxazole-synthesis.png)
+![image](/notes/images/VanLeusen-oxazole-synthesis.png)
 
 #### Isoindolinone-Synthesis-(1)-X-Bromine
 
@@ -279,7 +279,7 @@ References:
 
 
 
-![image](/content/notes/images/Isoindolinone-Synthesis-(1)-X-Bromine.png)
+![image](/notes/images/Isoindolinone-Synthesis-(1)-X-Bromine.png)
 
 #### Knorr-Quinoline-Synthesis
 
@@ -297,7 +297,7 @@ References:
 
 
 
-![image](/content/notes/images/Knorr-Quinoline-Synthesis.png)
+![image](/notes/images/Knorr-Quinoline-Synthesis.png)
 
 #### Indole-Synthesis-(Hemetsberger-Knittel)
 
@@ -312,7 +312,7 @@ References: 0
 
 
 
-![image](/content/notes/images/Indole-Synthesis-(Hemetsberger-Knittel).png)
+![image](/notes/images/Indole-Synthesis-(Hemetsberger-Knittel).png)
 
 #### Pomeranz-Fritsch-Reaction
 
@@ -331,7 +331,7 @@ References:
 
 
 
-![image](/content/notes/images/Pomeranz-Fritsch-Reaction.png)
+![image](/notes/images/Pomeranz-Fritsch-Reaction.png)
 
 #### Conrad-Limpach-Synthesis-(Kinetic)
 
@@ -350,7 +350,7 @@ References:
 
 
 
-![image](/content/notes/images/Conrad-Limpach-Synthesis-(Kinetic).png)
+![image](/notes/images/Conrad-Limpach-Synthesis-(Kinetic).png)
 
 #### Imidazole-Synthesis
 
@@ -370,7 +370,7 @@ References:
 
 
 
-![image](/content/notes/images/Imidazole-Synthesis.png)
+![image](/notes/images/Imidazole-Synthesis.png)
 
 #### Hantzsch-Pyrrole-Synthesis
 
@@ -391,7 +391,7 @@ References:
 
 
 
-![image](/content/notes/images/Hantzsch-Pyrrole-Synthesis.png)
+![image](/notes/images/Hantzsch-Pyrrole-Synthesis.png)
 
 #### Hemetsberger-Knittel-Indole-Synthesis
 
@@ -412,7 +412,7 @@ References:
 
 
 
-![image](/content/notes/images/Hemetsberger-Knittel-Indole-Synthesis.png)
+![image](/notes/images/Hemetsberger-Knittel-Indole-Synthesis.png)
 
 #### Pyrazole-Synthesis-Beta-Ketoester
 
@@ -433,7 +433,7 @@ References:
 
 
 
-![image](/content/notes/images/Pyrazole-Synthesis-Beta-Ketoester.png)
+![image](/notes/images/Pyrazole-Synthesis-Beta-Ketoester.png)
 
 #### Allan-Robinson-Reaction
 
@@ -452,7 +452,7 @@ References:
 
 
 
-![image](/content/notes/images/Allan-Robinson-Reaction.png)
+![image](/notes/images/Allan-Robinson-Reaction.png)
 
 #### Skraup-Quinoline-Synthesis
 
@@ -473,7 +473,7 @@ References:
 
 
 
-![image](/content/notes/images/Skraup-Quinoline-Synthesis.png)
+![image](/notes/images/Skraup-Quinoline-Synthesis.png)
 
 #### Pthalimide-Synthesis-(2)
 
@@ -484,7 +484,7 @@ References:
 
  
  
-![image](/content/notes/images/Pthalimide-Synthesis-(2).png)
+![image](/notes/images/Pthalimide-Synthesis-(2).png)
 
 #### Aliphatic-Bargellini-Reaction-(O)
 
@@ -507,7 +507,7 @@ References:
 
 
 
-![image](/content/notes/images/Aliphatic-Bargellini-Reaction-(O).png)
+![image](/notes/images/Aliphatic-Bargellini-Reaction-(O).png)
 
 #### Pechmann-Condensation
 
@@ -527,7 +527,7 @@ References:
 
 
 
-![image](/content/notes/images/Pechmann-Condensation.png)
+![image](/notes/images/Pechmann-Condensation.png)
 
 #### Feist-Benary-Synthesis-X1-Bromine
 
@@ -547,7 +547,7 @@ References:
 
 
 
-![image](/content/notes/images/Feist-Benary-Synthesis-X1-Bromine.png)
+![image](/notes/images/Feist-Benary-Synthesis-X1-Bromine.png)
 
 #### Pyrazole-Synthesis-(OO)
 
@@ -566,7 +566,7 @@ References:
 
 
 
-![image](/content/notes/images/Pyrazole-Synthesis-(OO).png)
+![image](/notes/images/Pyrazole-Synthesis-(OO).png)
 
 #### Isoindolinone-Synthesis-(1)-X-Chlorine
 
@@ -583,7 +583,7 @@ References:
 
 
 
-![image](/content/notes/images/Isoindolinone-Synthesis-(1)-X-Chlorine.png)
+![image](/notes/images/Isoindolinone-Synthesis-(1)-X-Chlorine.png)
 
 #### Hantzsch-Thiazole-Synthesis-X-Bromine
 
@@ -602,7 +602,7 @@ References:
 
 
 
-![image](/content/notes/images/Hantzsch-Thiazole-Synthesis-X-Bromine.png)
+![image](/notes/images/Hantzsch-Thiazole-Synthesis-X-Bromine.png)
 
 #### Hantzsch-Thiazole-Synthesis-X-Sulfonate
 
@@ -622,7 +622,7 @@ References:
 
 
 
-![image](/content/notes/images/Hantzsch-Thiazole-Synthesis-X-Sulfonate.png)
+![image](/notes/images/Hantzsch-Thiazole-Synthesis-X-Sulfonate.png)
 
 #### Paal-Knorr-Pyrrole-Synthesis
 
@@ -643,7 +643,7 @@ References:
 
 
 
-![image](/content/notes/images/Paal-Knorr-Pyrrole-Synthesis.png)
+![image](/notes/images/Paal-Knorr-Pyrrole-Synthesis.png)
 
 #### Kostaneki-Acylation-(2)
 
@@ -665,7 +665,7 @@ References:
 
 
 
-![image](/content/notes/images/Kostaneki-Acylation-(2).png)
+![image](/notes/images/Kostaneki-Acylation-(2).png)
 
 #### Kostaneki-Acylation-(1)
 
@@ -687,7 +687,7 @@ References:
 
 
 
-![image](/content/notes/images/Kostaneki-Acylation-(1).png)
+![image](/notes/images/Kostaneki-Acylation-(1).png)
 
 #### Gassman-Indole-Synthesis
 
@@ -707,7 +707,7 @@ References:
 
 
 
-![image](/content/notes/images/Gassman-Indole-Synthesis.png)
+![image](/notes/images/Gassman-Indole-Synthesis.png)
 
 #### Aliphatic-Bargellini-Reaction-(N)
 
@@ -731,7 +731,7 @@ References:
 
 
 
-![image](/content/notes/images/Aliphatic-Bargellini-Reaction-(N).png)
+![image](/notes/images/Aliphatic-Bargellini-Reaction-(N).png)
 
 #### Staudinger-Synthesis
 
@@ -751,7 +751,7 @@ References:
 
 
 
-![image](/content/notes/images/Staudinger-Synthesis.png)
+![image](/notes/images/Staudinger-Synthesis.png)
 
 #### Paal-Knorr-Furan-Synthesis
 
@@ -771,7 +771,7 @@ References:
 
 
 
-![image](/content/notes/images/Paal-Knorr-Furan-Synthesis.png)
+![image](/notes/images/Paal-Knorr-Furan-Synthesis.png)
 
 #### VanLeusen-imidazole-synthesis
 
@@ -790,7 +790,7 @@ References:
 
 
 
-![image](/content/notes/images/VanLeusen-imidazole-synthesis.png)
+![image](/notes/images/VanLeusen-imidazole-synthesis.png)
 
 #### Sandmeyer-Isatin-(2)
 
@@ -801,7 +801,7 @@ References:
 
  
  
-![image](/content/notes/images/Sandmeyer-Isatin-(2).png)
+![image](/notes/images/Sandmeyer-Isatin-(2).png)
 
 #### Pyrazole-Synthesis-(SO)
 
@@ -820,7 +820,7 @@ References:
 
 
 
-![image](/content/notes/images/Pyrazole-Synthesis-(SO).png)
+![image](/notes/images/Pyrazole-Synthesis-(SO).png)
 
 #### Hanztch-Pyridine-Synthesis
 
@@ -841,7 +841,7 @@ References:
 
 
 
-![image](/content/notes/images/Hanztch-Pyridine-Synthesis.png)
+![image](/notes/images/Hanztch-Pyridine-Synthesis.png)
 
 #### Sandmeyer-Isatin-(1)
 
@@ -852,7 +852,7 @@ References:
 
  
  
-![image](/content/notes/images/Sandmeyer-Isatin-(1).png)
+![image](/notes/images/Sandmeyer-Isatin-(1).png)
 
 #### Isoindolinone-Synthesis-(1)-X-Fluorine
 
@@ -869,7 +869,7 @@ References:
 
 
 
-![image](/content/notes/images/Isoindolinone-Synthesis-(1)-X-Fluorine.png)
+![image](/notes/images/Isoindolinone-Synthesis-(1)-X-Fluorine.png)
 
 #### Bischler-Napieralski
 
@@ -888,7 +888,7 @@ References:
 
 
 
-![image](/content/notes/images/Bischler-Napieralski.png)
+![image](/notes/images/Bischler-Napieralski.png)
 
 #### VanLeusen-Reaction
 
@@ -908,7 +908,7 @@ References:
 
 
 
-![image](/content/notes/images/VanLeusen-Reaction.png)
+![image](/notes/images/VanLeusen-Reaction.png)
 
 #### Nitrone-Formation
 
@@ -927,7 +927,7 @@ References:
 
 
 
-![image](/content/notes/images/Nitrone-Formation.png)
+![image](/notes/images/Nitrone-Formation.png)
 
 #### Freidlander-Synthesis
 
@@ -945,7 +945,7 @@ References:
 
 
 
-![image](/content/notes/images/Freidlander-Synthesis.png)
+![image](/notes/images/Freidlander-Synthesis.png)
 
 #### Azaindole-Synthesis
 
@@ -966,7 +966,7 @@ References:
 
 
 
-![image](/content/notes/images/Azaindole-Synthesis.png)
+![image](/notes/images/Azaindole-Synthesis.png)
 
 #### Feist-Benary-Synthesis-X1-Chlorine
 
@@ -986,7 +986,7 @@ References:
 
 
 
-![image](/content/notes/images/Feist-Benary-Synthesis-X1-Chlorine.png)
+![image](/notes/images/Feist-Benary-Synthesis-X1-Chlorine.png)
 
 #### Isoindolinone-Synthesis-(1)-X-Iodine
 
@@ -1003,7 +1003,7 @@ References:
 
 
 
-![image](/content/notes/images/Isoindolinone-Synthesis-(1)-X-Iodine.png)
+![image](/notes/images/Isoindolinone-Synthesis-(1)-X-Iodine.png)
 
 #### Pellizzari-Reacion
 
@@ -1023,7 +1023,7 @@ References:
 
 
 
-![image](/content/notes/images/Pellizzari-Reacion.png)
+![image](/notes/images/Pellizzari-Reacion.png)
 
 #### Niementowski-Quinazoline-Synthesis
 
@@ -1042,7 +1042,7 @@ References:
 
 
 
-![image](/content/notes/images/Niementowski-Quinazoline-Synthesis.png)
+![image](/notes/images/Niementowski-Quinazoline-Synthesis.png)
 
 #### Pictet-Gams-Reaction
 
@@ -1063,7 +1063,7 @@ References:
 
 
 
-![image](/content/notes/images/Pictet-Gams-Reaction.png)
+![image](/notes/images/Pictet-Gams-Reaction.png)
 
 #### Aziridine-1,3-Dipole-Formation
 
@@ -1084,7 +1084,7 @@ References:
 
 
 
-![image](/content/notes/images/Aziridine-1,3-Dipole-Formation.png)
+![image](/notes/images/Aziridine-1,3-Dipole-Formation.png)
 
 #### Doebner-Miller
 
@@ -1107,7 +1107,7 @@ References:
 
 
 
-![image](/content/notes/images/Doebner-Miller.png)
+![image](/notes/images/Doebner-Miller.png)
 
 #### Pyrazole-Synthesis-(SS)
 
@@ -1126,7 +1126,7 @@ References:
 
 
 
-![image](/content/notes/images/Pyrazole-Synthesis-(SS).png)
+![image](/notes/images/Pyrazole-Synthesis-(SS).png)
 
 #### Iodine-Mediated-Cyclization-Indoline-(Dihydroquinolone)
 
@@ -1143,5 +1143,5 @@ References:
 
 
 
-![image](/content/notes/images/Iodine-Mediated-Cyclization-Indoline-(Dihydroquinolone).png)
+![image](/notes/images/Iodine-Mediated-Cyclization-Indoline-(Dihydroquinolone).png)
 

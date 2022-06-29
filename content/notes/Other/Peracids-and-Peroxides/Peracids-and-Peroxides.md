@@ -24,7 +24,7 @@ References:
 
 
 
-![image](/content/notes/images/Rubottom-Oxidation.png)
+![image](/notes/images/Rubottom-Oxidation.png)
 
 #### Baeyer-Villiger-Oxidation-(Peracid)
 
@@ -44,7 +44,7 @@ References:
 
 
 
-![image](/content/notes/images/Baeyer-Villiger-Oxidation-(Peracid).png)
+![image](/notes/images/Baeyer-Villiger-Oxidation-(Peracid).png)
 
 #### Dakin-Oxidation-Acid
 
@@ -61,7 +61,7 @@ References:
 
 
 
-![image](/content/notes/images/Dakin-Oxidation-Acid.png)
+![image](/notes/images/Dakin-Oxidation-Acid.png)
 
 #### Prilezhaev-Epoxidation
 
@@ -83,7 +83,7 @@ References:
 
 
 
-![image](/content/notes/images/Prilezhaev-Epoxidation.png)
+![image](/notes/images/Prilezhaev-Epoxidation.png)
 
 #### Dakin-Oxidation-Basic
 
@@ -100,7 +100,7 @@ References:
 
 
 
-![image](/content/notes/images/Dakin-Oxidation-Basic.png)
+![image](/notes/images/Dakin-Oxidation-Basic.png)
 
 #### Oxaziridine-Synthesis
 
@@ -120,5 +120,5 @@ References:
 
 
 
-![image](/content/notes/images/Oxaziridine-Synthesis.png)
+![image](/notes/images/Oxaziridine-Synthesis.png)
 
