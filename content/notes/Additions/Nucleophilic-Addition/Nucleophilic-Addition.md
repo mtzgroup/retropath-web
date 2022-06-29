@@ -18,7 +18,7 @@ References:
 
 
 
-![[content/notes/images/images/Riemschneider-Thiocarbamate-Synthesis-Water.png]]
+![[content/notes/images/Riemschneider-Thiocarbamate-Synthesis-Water.png]]
 
 #### Amide-Carbonyl-Addition
 
@@ -38,25 +38,7 @@ References:
 
 
 
-![[content/notes/images/images/Amide-Carbonyl-Addition.png]]
-
-#### Pinner-Reaction-Sulfur
-
-References:   
- [0] [Thionoester synthesis by thionation](https://www.organic-chemistry.org/synthesis/C2S/thionoesters.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Pinner-Reaction-Sulfur.png]]
+![[content/notes/images/Amide-Carbonyl-Addition.png]]
 
 #### Cannizzaro-Reaction
 
@@ -74,7 +56,42 @@ References:
 
 
 
-![[content/notes/images/images/Cannizzaro-Reaction.png]]
+![[content/notes/images/Cannizzaro-Reaction.png]]
+
+#### Nitrile-to-Amide-Acidic
+
+References:   
+ [0] [The Mechanism of Nitrile Hydrolysis To Carboxylic Acid - Chemistry Steps](https://www.chemistrysteps.com/the-mechanism-of-nitrile-hydrolysis-to-carboxylic-acid/)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Nitrile-to-Amide-Acidic.png]]
+
+#### Pinner-Reaction-Sulfur
+
+References:   
+ [0] [Thionoester synthesis by thionation](https://www.organic-chemistry.org/synthesis/C2S/thionoesters.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Pinner-Reaction-Sulfur.png]]
 
 #### Pinner-Reaction
 
@@ -92,7 +109,7 @@ References:
 
 
 
-![[content/notes/images/images/Pinner-Reaction.png]]
+![[content/notes/images/Pinner-Reaction.png]]
 
 #### Nitrile-to-Amide-Basic
 
@@ -109,22 +126,5 @@ References:
 
 
 
-![[content/notes/images/images/Nitrile-to-Amide-Basic.png]]
-
-#### Nitrile-to-Amide-Acidic
-
-References:   
- [0] [The Mechanism of Nitrile Hydrolysis To Carboxylic Acid - Chemistry Steps](https://www.chemistrysteps.com/the-mechanism-of-nitrile-hydrolysis-to-carboxylic-acid/)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Nitrile-to-Amide-Acidic.png]]
+![[content/notes/images/Nitrile-to-Amide-Basic.png]]
 

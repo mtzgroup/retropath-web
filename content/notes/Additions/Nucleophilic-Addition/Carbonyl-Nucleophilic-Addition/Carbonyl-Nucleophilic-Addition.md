@@ -30,7 +30,7 @@ References:
 
 
 
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile.png]]
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate
 
@@ -58,34 +58,7 @@ References:
 
 
 
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate.png]]
-
-##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate
-
-References:   
- [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
- [1] [19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Athabasca_University/Chemistry_360%3A_Organic_Chemistry_II/Chapter_19%3A_Aldehydes_and_Ketones%3A_Nucleophilic_Addition_Reactions/19.04_Nucleophilic_Addition_Reactions_of_Aldehydes_and_Ketones)  
- [2] [ch17-3-0.html](https://www.chem.ucalgary.ca/courses/351/Carey5th/Ch17/ch17-3-0.html)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
- Avoid formation of: 
-> fragment = 3-membered-ring, 4-membered-ring, A-Cyclobutene-Aromatic, 2-Bridged Benzene  
-> 
-
-
-
-
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Enols-Acidic
 
@@ -121,35 +94,34 @@ References:
 
 
 
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Enols-Acidic.png]]
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Acidic.png]]
 
-##### Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide
+##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate
 
 References:   
- [0] [Leimgruber-Batcho Indole Synthesis](https://synarchive.com/named-reactions/leimgruber-batcho-indole-synthesis)  
+ [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
+ [1] [19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Athabasca_University/Chemistry_360%3A_Organic_Chemistry_II/Chapter_19%3A_Aldehydes_and_Ketones%3A_Nucleophilic_Addition_Reactions/19.04_Nucleophilic_Addition_Reactions_of_Aldehydes_and_Ketones)  
+ [2] [ch17-3-0.html](https://www.chem.ucalgary.ca/courses/351/Carey5th/Ch17/ch17-3-0.html)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
 > R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R6 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
  Avoid formation of: 
-> fragment = 4-membered-ring, A-Cyclobutene-Aromatic  
+> fragment = 3-membered-ring, 4-membered-ring, A-Cyclobutene-Aromatic, 2-Bridged Benzene  
 > 
 
 
 
 
-![[content/notes/images/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
 
 ##### Aldol-Condensation-Basic
 
@@ -183,7 +155,57 @@ References:
 
 
 
-![[content/notes/images/images/Aldol-Condensation-Basic.png]]
+![[content/notes/images/Aldol-Condensation-Basic.png]]
+
+##### Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide
+
+References:   
+ [0] [Leimgruber-Batcho Indole Synthesis](https://synarchive.com/named-reactions/leimgruber-batcho-indole-synthesis)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+ Avoid formation of: 
+> fragment = 4-membered-ring, A-Cyclobutene-Aromatic  
+> 
+
+
+
+
+![[content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
+
+##### Aldol-Condensation-Amide-Basic
+
+References:   
+ [0] [Aldol condensation - Wikipedia](https://en.wikipedia.org/wiki/Aldol_condensation)  
+ [1] [Aldol Addition](https://www.organic-chemistry.org/namedreactions/aldol-addition.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Aldol-Condensation-Amide-Basic.png]]
 
 ##### Henry-Reaction
 
@@ -208,7 +230,7 @@ References:
 
 
 
-![[content/notes/images/images/Henry-Reaction.png]]
+![[content/notes/images/Henry-Reaction.png]]
 
 ##### Prins-Reaction-1
 
@@ -227,29 +249,7 @@ References:
 
 
 
-![[content/notes/images/images/Prins-Reaction-1.png]]
-
-##### Aldol-Condensation-Amide-Basic
-
-References:   
- [0] [Aldol condensation - Wikipedia](https://en.wikipedia.org/wiki/Aldol_condensation)  
- [1] [Aldol Addition](https://www.organic-chemistry.org/namedreactions/aldol-addition.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Aldol-Condensation-Amide-Basic.png]]
+![[content/notes/images/Prins-Reaction-1.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Nitrite
 
@@ -274,55 +274,7 @@ References:
 
 
 
-![[content/notes/images/images/Isocyanate-Carbonyl-Addition-Nu-Nitrite.png]]
-
-##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile
-
-References:   
- [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
- [1] [19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Athabasca_University/Chemistry_360%3A_Organic_Chemistry_II/Chapter_19%3A_Aldehydes_and_Ketones%3A_Nucleophilic_Addition_Reactions/19.04_Nucleophilic_Addition_Reactions_of_Aldehydes_and_Ketones)  
- [2] [ch17-3-0.html](https://www.chem.ucalgary.ca/courses/351/Carey5th/Ch17/ch17-3-0.html)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> 
-
-
-
- Avoid formation of: 
-> fragment = 3-membered-ring, 4-membered-ring, A-Cyclobutene-Aromatic, 2-Bridged Benzene  
-> 
-
-
-
-
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile.png]]
-
-##### Conjugated-Thiophilic-Aldol-Reaction
-
-References:   
- [0] [Carbodithioic Acid Esters | SpringerLink](https://link.springer.com/chapter/10.1007/b101009)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R7 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> 
-
-
-
-
-![[content/notes/images/images/Conjugated-Thiophilic-Aldol-Reaction.png]]
+![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Nitrite.png]]
 
 ##### Aldol-Condensation-Acidic
 
@@ -349,7 +301,33 @@ References:
 
 
 
-![[content/notes/images/images/Aldol-Condensation-Acidic.png]]
+![[content/notes/images/Aldol-Condensation-Acidic.png]]
+
+##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile
+
+References:   
+ [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
+ [1] [19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Athabasca_University/Chemistry_360%3A_Organic_Chemistry_II/Chapter_19%3A_Aldehydes_and_Ketones%3A_Nucleophilic_Addition_Reactions/19.04_Nucleophilic_Addition_Reactions_of_Aldehydes_and_Ketones)  
+ [2] [ch17-3-0.html](https://www.chem.ucalgary.ca/courses/351/Carey5th/Ch17/ch17-3-0.html)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> 
+
+
+
+ Avoid formation of: 
+> fragment = 3-membered-ring, 4-membered-ring, A-Cyclobutene-Aromatic, 2-Bridged Benzene  
+> 
+
+
+
+
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile.png]]
 
 ##### Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl
 
@@ -374,7 +352,29 @@ References:
 
 
 
-![[content/notes/images/images/Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
+![[content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
+
+##### Conjugated-Thiophilic-Aldol-Reaction
+
+References:   
+ [0] [Carbodithioic Acid Esters | SpringerLink](https://link.springer.com/chapter/10.1007/b101009)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R7 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> 
+
+
+
+
+![[content/notes/images/Conjugated-Thiophilic-Aldol-Reaction.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Alkoxide
 
@@ -400,22 +400,23 @@ References:
 
 
 
-![[content/notes/images/images/Isocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
+![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
 
-##### Isothiocyanate-Carbonyl-Addition-Nu-Amino
+##### Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate
 
 References:   
- [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
- [1] [Curtius Rearrangement](https://www.organic-chemistry.org/namedreactions/curtius-rearrangement.shtm)  
- [2] [1](https://www.poliuretanos.net/Ingles/Chapter1/131Isocyanates.htm)  
+ [0] [Leimgruber-Batcho Indole Synthesis](https://synarchive.com/named-reactions/leimgruber-batcho-indole-synthesis)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
@@ -427,24 +428,7 @@ References:
 
 
 
-![[content/notes/images/images/Isothiocyanate-Carbonyl-Addition-Nu-Amino.png]]
-
-##### Knoevenangel-Condensation
-
-References: 0 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Knoevenangel-Condensation.png]]
+![[content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
 
 ##### Iminium-Nucleophilic-Addition-Acidic-Nu-Amino
 
@@ -473,23 +457,22 @@ References:
 
 
 
-![[content/notes/images/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Amino.png]]
+![[content/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Amino.png]]
 
-##### Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate
+##### Isothiocyanate-Carbonyl-Addition-Nu-Amino
 
 References:   
- [0] [Leimgruber-Batcho Indole Synthesis](https://synarchive.com/named-reactions/leimgruber-batcho-indole-synthesis)  
+ [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
+ [1] [Curtius Rearrangement](https://www.organic-chemistry.org/namedreactions/curtius-rearrangement.shtm)  
+ [2] [1](https://www.poliuretanos.net/Ingles/Chapter1/131Isocyanates.htm)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
 > 
 
 
@@ -501,34 +484,7 @@ References:
 
 
 
-![[content/notes/images/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate.png]]
-
-##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide
-
-References:   
- [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
- [1] [19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Athabasca_University/Chemistry_360%3A_Organic_Chemistry_II/Chapter_19%3A_Aldehydes_and_Ketones%3A_Nucleophilic_Addition_Reactions/19.04_Nucleophilic_Addition_Reactions_of_Aldehydes_and_Ketones)  
- [2] [ch17-3-0.html](https://www.chem.ucalgary.ca/courses/351/Carey5th/Ch17/ch17-3-0.html)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
- Avoid formation of: 
-> fragment = 3-membered-ring, 4-membered-ring, A-Cyclobutene-Aromatic, 2-Bridged Benzene  
-> 
-
-
-
-
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
+![[content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Amino.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide
 
@@ -556,7 +512,24 @@ References:
 
 
 
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide.png]]
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide.png]]
+
+##### Knoevenangel-Condensation
+
+References: 0 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Knoevenangel-Condensation.png]]
 
 ##### Cyanomethanide-Carbonyl-Addition
 
@@ -582,7 +555,34 @@ References:
 
 
 
-![[content/notes/images/images/Cyanomethanide-Carbonyl-Addition.png]]
+![[content/notes/images/Cyanomethanide-Carbonyl-Addition.png]]
+
+##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide
+
+References:   
+ [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
+ [1] [19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Athabasca_University/Chemistry_360%3A_Organic_Chemistry_II/Chapter_19%3A_Aldehydes_and_Ketones%3A_Nucleophilic_Addition_Reactions/19.04_Nucleophilic_Addition_Reactions_of_Aldehydes_and_Ketones)  
+ [2] [ch17-3-0.html](https://www.chem.ucalgary.ca/courses/351/Carey5th/Ch17/ch17-3-0.html)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+ Avoid formation of: 
+> fragment = 3-membered-ring, 4-membered-ring, A-Cyclobutene-Aromatic, 2-Bridged Benzene  
+> 
+
+
+
+
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Amino
 
@@ -609,7 +609,7 @@ References:
 
 
 
-![[content/notes/images/images/Isocyanate-Carbonyl-Addition-Nu-Amino.png]]
+![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Amino.png]]
 
 ##### Thiophilic-Aldol-Reaction
 
@@ -629,33 +629,7 @@ References:
 
 
 
-![[content/notes/images/images/Thiophilic-Aldol-Reaction.png]]
-
-##### Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide
-
-References:   
- [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
- [1] [Curtius Rearrangement](https://www.organic-chemistry.org/namedreactions/curtius-rearrangement.shtm)  
- [2] [1](https://www.poliuretanos.net/Ingles/Chapter1/131Isocyanates.htm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
- Avoid formation of: 
-> fragment = 4-membered-ring, A-Cyclobutene-Aromatic  
-> 
-
-
-
-
-![[content/notes/images/images/Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
+![[content/notes/images/Thiophilic-Aldol-Reaction.png]]
 
 ##### Carbonyl-Nucleophilic-Addition-Enols-Basic
 
@@ -693,7 +667,52 @@ References:
 
 
 
-![[content/notes/images/images/Carbonyl-Nucleophilic-Addition-Enols-Basic.png]]
+![[content/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Basic.png]]
+
+##### Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide
+
+References:   
+ [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
+ [1] [Curtius Rearrangement](https://www.organic-chemistry.org/namedreactions/curtius-rearrangement.shtm)  
+ [2] [1](https://www.poliuretanos.net/Ingles/Chapter1/131Isocyanates.htm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+ Avoid formation of: 
+> fragment = 4-membered-ring, A-Cyclobutene-Aromatic  
+> 
+
+
+
+
+![[content/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide.png]]
+
+##### Prins-Reaction-2
+
+References:   
+ [0] [Prins Reaction](https://www.organic-chemistry.org/namedreactions/prins-reaction.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> 
+
+
+
+
+![[content/notes/images/Prins-Reaction-2.png]]
 
 ##### Isocyanate-Carbonyl-Addition-Nu-Hydroxyl
 
@@ -718,26 +737,7 @@ References:
 
 
 
-![[content/notes/images/images/Isocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
-
-##### Prins-Reaction-2
-
-References:   
- [0] [Prins Reaction](https://www.organic-chemistry.org/namedreactions/prins-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> 
-
-
-
-
-![[content/notes/images/images/Prins-Reaction-2.png]]
+![[content/notes/images/Isocyanate-Carbonyl-Addition-Nu-Hydroxyl.png]]
 
 ##### Prins-Reaction-3
 
@@ -758,5 +758,5 @@ References:
 
 
 
-![[content/notes/images/images/Prins-Reaction-3.png]]
+![[content/notes/images/Prins-Reaction-3.png]]
 

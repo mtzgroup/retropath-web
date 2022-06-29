@@ -22,41 +22,7 @@ References:
 
 
 
-![[content/notes/images/images/Halogenation-Allylic-Succinimides-X-Bromine.png]]
-
-#### Halogenation-Benzylic-Succinimides-X-Chlorine
-
-References:   
- [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Halogenation-Benzylic-Succinimides-X-Chlorine.png]]
-
-#### Halogenation-Benzylic-Succinimides-X-Iodine
-
-References:   
- [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aromatic-Carbon  
-> 
-
-
-
-
-![[content/notes/images/images/Halogenation-Benzylic-Succinimides-X-Iodine.png]]
+![[content/notes/images/Halogenation-Allylic-Succinimides-X-Bromine.png]]
 
 #### Halogenation-Allylic-Succinimides-X-Iodine
 
@@ -77,9 +43,9 @@ References:
 
 
 
-![[content/notes/images/images/Halogenation-Allylic-Succinimides-X-Iodine.png]]
+![[content/notes/images/Halogenation-Allylic-Succinimides-X-Iodine.png]]
 
-#### Halogenation-Benzylic-Succinimides-X-Bromine
+#### Halogenation-Benzylic-Succinimides-X-Chlorine
 
 References:   
  [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
@@ -94,7 +60,24 @@ References:
 
 
 
-![[content/notes/images/images/Halogenation-Benzylic-Succinimides-X-Bromine.png]]
+![[content/notes/images/Halogenation-Benzylic-Succinimides-X-Chlorine.png]]
+
+#### Halogenation-Benzylic-Succinimides-X-Iodine
+
+References:   
+ [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Halogenation-Benzylic-Succinimides-X-Iodine.png]]
 
 #### Halogenation-Allylic-Succinimides-X-Chlorine
 
@@ -115,7 +98,24 @@ References:
 
 
 
-![[content/notes/images/images/Halogenation-Allylic-Succinimides-X-Chlorine.png]]
+![[content/notes/images/Halogenation-Allylic-Succinimides-X-Chlorine.png]]
+
+#### Halogenation-Benzylic-Succinimides-X-Bromine
+
+References:   
+ [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/Halogenation-Benzylic-Succinimides-X-Bromine.png]]
 
 #### Payne-Oxidation
 
@@ -136,5 +136,5 @@ References:
 
 
 
-![[content/notes/images/images/Payne-Oxidation.png]]
+![[content/notes/images/Payne-Oxidation.png]]
 
