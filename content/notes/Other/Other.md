@@ -21,7 +21,7 @@ References:
 
 
 
-![[Formylation-Alpha-Bromo.png]]
+![[content/notes/images/images/Formylation-Alpha-Bromo.png]]
 
 ### Ganem-Oxidation-X-Chlorine
 
@@ -42,7 +42,7 @@ References:
 
 
 
-![[Ganem-Oxidation-X-Chlorine.png]]
+![[content/notes/images/images/Ganem-Oxidation-X-Chlorine.png]]
 
 ### Dakin-West-Reaction
 
@@ -61,7 +61,7 @@ References:
 
 
 
-![[Dakin-West-Reaction.png]]
+![[content/notes/images/images/Dakin-West-Reaction.png]]
 
 ### Ganem-Oxidation-X-Sulfonate
 
@@ -83,26 +83,7 @@ References:
 
 
 
-![[Ganem-Oxidation-X-Sulfonate.png]]
-
-### Formylation-Alpha-Iodo
-
-References:   
- [0] [Haloform Reaction](https://www.organic-chemistry.org/namedreactions/haloform-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
-> 
-
-
-
-
-![[Formylation-Alpha-Iodo.png]]
+![[content/notes/images/images/Ganem-Oxidation-X-Sulfonate.png]]
 
 ### Ugi-Reaction
 
@@ -122,7 +103,26 @@ References:
 
 
 
-![[Ugi-Reaction.png]]
+![[content/notes/images/images/Ugi-Reaction.png]]
+
+### Formylation-Alpha-Iodo
+
+References:   
+ [0] [Haloform Reaction](https://www.organic-chemistry.org/namedreactions/haloform-reaction.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
+> 
+
+
+
+
+![[content/notes/images/images/Formylation-Alpha-Iodo.png]]
 
 ### Azo-Coupling
 
@@ -133,7 +133,18 @@ References:
 
  
  
-![[Azo-Coupling.png]]
+![[content/notes/images/images/Azo-Coupling.png]]
+
+### Hydrolysis-Isocyanide
+
+References:   
+ [0] [Isocyanide - Wikipedia](https://en.wikipedia.org/wiki/Isocyanide)  
+ 
+
+
+ 
+ 
+![[content/notes/images/images/Hydrolysis-Isocyanide.png]]
 
 ### Hoffmann-Chloramide-Reaction
 
@@ -150,18 +161,7 @@ References:
 
 
 
-![[Hoffmann-Chloramide-Reaction.png]]
-
-### Hydrolysis-Isocyanide
-
-References:   
- [0] [Isocyanide - Wikipedia](https://en.wikipedia.org/wiki/Isocyanide)  
- 
-
-
- 
- 
-![[Hydrolysis-Isocyanide.png]]
+![[content/notes/images/images/Hoffmann-Chloramide-Reaction.png]]
 
 ### Carbylamine-Reaction
 
@@ -178,46 +178,7 @@ References:
 
 
 
-![[Carbylamine-Reaction.png]]
-
-### Buchner-Curtius-Schlotterbeck-Reaction
-
-References:   
- [0] [Büchner-Curtius-Schlotterbeck Reaction](https://synarchive.com/named-reactions/buechner-curtius-schlotterbeck-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H  
-> R4 = H  
-> 
-
-
-
-
-![[Buchner-Curtius-Schlotterbeck-Reaction.png]]
-
-### Perkin-Reaction
-
-References:   
- [0] [Perkin reaction - Wikipedia](https://en.wikipedia.org/wiki/Perkin_reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Perkin-Reaction.png]]
+![[content/notes/images/images/Carbylamine-Reaction.png]]
 
 ### Ganem-Oxidation-X-Bromine
 
@@ -238,7 +199,63 @@ References:
 
 
 
-![[Ganem-Oxidation-X-Bromine.png]]
+![[content/notes/images/images/Ganem-Oxidation-X-Bromine.png]]
+
+### Buchner-Curtius-Schlotterbeck-Reaction
+
+References:   
+ [0] [Büchner-Curtius-Schlotterbeck Reaction](https://synarchive.com/named-reactions/buechner-curtius-schlotterbeck-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H  
+> R4 = H  
+> 
+
+
+
+
+![[content/notes/images/images/Buchner-Curtius-Schlotterbeck-Reaction.png]]
+
+### Perkin-Reaction
+
+References:   
+ [0] [Perkin reaction - Wikipedia](https://en.wikipedia.org/wiki/Perkin_reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Perkin-Reaction.png]]
+
+### Hoffmann-Bromamide-Reaction
+
+References:   
+ [0] [Hoffmann Bromamide Reaction Mechanism - Explanation of Hoffmann Degradation with Examples](https://byjus.com/chemistry/hoffmann-bromamide-reaction-mechanism/)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Hoffmann-Bromamide-Reaction.png]]
 
 ### Ramberg-Backlund-Reaction
 
@@ -259,7 +276,7 @@ References:
 
 
 
-![[Ramberg-Backlund-Reaction.png]]
+![[content/notes/images/images/Ramberg-Backlund-Reaction.png]]
 
 ### Passerini-Reaction
 
@@ -279,24 +296,7 @@ References:
 
 
 
-![[Passerini-Reaction.png]]
-
-### Hoffmann-Bromamide-Reaction
-
-References:   
- [0] [Hoffmann Bromamide Reaction Mechanism - Explanation of Hoffmann Degradation with Examples](https://byjus.com/chemistry/hoffmann-bromamide-reaction-mechanism/)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Hoffmann-Bromamide-Reaction.png]]
+![[content/notes/images/images/Passerini-Reaction.png]]
 
 ### Isocyanide-Formation
 
@@ -314,7 +314,7 @@ References:
 
 
 
-![[Isocyanide-Formation.png]]
+![[content/notes/images/images/Isocyanide-Formation.png]]
 
 ### Amine-Deprotection
 
@@ -332,7 +332,7 @@ References:
 
 
 
-![[Amine-Deprotection.png]]
+![[content/notes/images/images/Amine-Deprotection.png]]
 
 ### Mannich-Reaction
 
@@ -361,7 +361,7 @@ References:
 
 
 
-![[Mannich-Reaction.png]]
+![[content/notes/images/images/Mannich-Reaction.png]]
 
 ### Ganem-Oxidation-X-Iodine
 
@@ -382,7 +382,7 @@ References:
 
 
 
-![[Ganem-Oxidation-X-Iodine.png]]
+![[content/notes/images/images/Ganem-Oxidation-X-Iodine.png]]
 
 ### Formylation-Alpha-Chloral
 
@@ -401,27 +401,7 @@ References:
 
 
 
-![[Formylation-Alpha-Chloral.png]]
-
-### Polonovski-Reaction
-
-References:   
- [0] [77. Polonovski Reaction](https://www.degruyter.com/document/doi/10.1515/9783110608373-077/html)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Polonovski-Reaction.png]]
+![[content/notes/images/images/Formylation-Alpha-Chloral.png]]
 
 ### Eschenmoser-Fragmentation
 
@@ -442,5 +422,25 @@ References:
 
 
 
-![[Eschenmoser-Fragmentation.png]]
+![[content/notes/images/images/Eschenmoser-Fragmentation.png]]
+
+### Polonovski-Reaction
+
+References:   
+ [0] [77. Polonovski Reaction](https://www.degruyter.com/document/doi/10.1515/9783110608373-077/html)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Polonovski-Reaction.png]]
 

@@ -22,7 +22,7 @@ References:
 
 
 
-![[Horner-Wadsworth-Emmons-Reaction-EWG-Carboxyl.png]]
+![[content/notes/images/images/Horner-Wadsworth-Emmons-Reaction-EWG-Carboxyl.png]]
 
 ### Forster-Docker-Amine-Synthesis-(2)-X-Bromine
 
@@ -41,7 +41,7 @@ References:
 
 
 
-![[Forster-Docker-Amine-Synthesis-(2)-X-Bromine.png]]
+![[content/notes/images/images/Forster-Docker-Amine-Synthesis-(2)-X-Bromine.png]]
 
 ### Sulfonamide-Condensation
 
@@ -59,7 +59,7 @@ References:
 
 
 
-![[Sulfonamide-Condensation.png]]
+![[content/notes/images/images/Sulfonamide-Condensation.png]]
 
 ### Benzoin-Condensation
 
@@ -85,7 +85,7 @@ References:
 
 
 
-![[Benzoin-Condensation.png]]
+![[content/notes/images/images/Benzoin-Condensation.png]]
 
 ### Imidoyl-Chloride-(H2O)
 
@@ -104,27 +104,44 @@ References:
 
 
 
-![[Imidoyl-Chloride-(H2O).png]]
+![[content/notes/images/images/Imidoyl-Chloride-(H2O).png]]
 
-### Schmidt-Reaction-Alkene
+### Carbamoyl-Chloride-Synthesis-(2)
 
 References:   
- [0] [Schmidt Reaction](https://www.organic-chemistry.org/namedreactions/schmidt-reaction.shtm)  
+ [0] [Carbamoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Carbamoyl_chloride)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, Vinyl-Group  
-> R3 = H, A-Aliphatic-Carbon, Vinyl-Group  
-> R4 = H, A-Aliphatic-Carbon, Vinyl-Group  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Schmidt-Reaction-Alkene.png]]
+![[content/notes/images/images/Carbamoyl-Chloride-Synthesis-(2).png]]
+
+### Carbamoyl-Chloride-Synthesis-(1)
+
+References:   
+ [0] [Carbamoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Carbamoyl_chloride)  
+ 
+
+
+ Special Conditions : REACT WITH ITSELF 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Carbamoyl-Chloride-Synthesis-(1).png]]
 
 ### Horner-Wadsworth-Emmons-Reaction-EWG-Phosphonate
 
@@ -146,26 +163,9 @@ References:
 
 
 
-![[Horner-Wadsworth-Emmons-Reaction-EWG-Phosphonate.png]]
+![[content/notes/images/images/Horner-Wadsworth-Emmons-Reaction-EWG-Phosphonate.png]]
 
-### Carbamoyl-Chloride-Synthesis-(2)
-
-References:   
- [0] [Carbamoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Carbamoyl_chloride)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Carbamoyl-Chloride-Synthesis-(2).png]]
-
-### Schmidt-Reaction-Alcohol
+### Schmidt-Reaction-Alkene
 
 References:   
  [0] [Schmidt Reaction](https://www.organic-chemistry.org/namedreactions/schmidt-reaction.shtm)  
@@ -174,73 +174,16 @@ References:
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R1 = H, A-Aliphatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, Vinyl-Group  
+> R3 = H, A-Aliphatic-Carbon, Vinyl-Group  
+> R4 = H, A-Aliphatic-Carbon, Vinyl-Group  
 > 
 
 
 
 
-![[Schmidt-Reaction-Alcohol.png]]
-
-### Carbamoyl-Chloride-Synthesis-(1)
-
-References:   
- [0] [Carbamoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Carbamoyl_chloride)  
- 
-
-
- Special Conditions : REACT WITH ITSELF 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Carbamoyl-Chloride-Synthesis-(1).png]]
-
-### Schmidt-Reaction-Ketone
-
-References:   
- [0] [Schmidt Reaction](https://www.organic-chemistry.org/namedreactions/schmidt-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> 
-
-
-
-
-![[Schmidt-Reaction-Ketone.png]]
-
-### Imidoyl-Chloride-(Nu)-Nu-Alkoxide
-
-References:   
- [0] [Imidoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Imidoyl_chloride)  
- [1] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/jp205909d)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Imidoyl-Chloride-(Nu)-Nu-Alkoxide.png]]
+![[content/notes/images/images/Schmidt-Reaction-Alkene.png]]
 
 ### Horner-Wadsworth-Emmons-Reaction-EWG-Carbonyl
 
@@ -261,7 +204,64 @@ References:
 
 
 
-![[Horner-Wadsworth-Emmons-Reaction-EWG-Carbonyl.png]]
+![[content/notes/images/images/Horner-Wadsworth-Emmons-Reaction-EWG-Carbonyl.png]]
+
+### Schmidt-Reaction-Alcohol
+
+References:   
+ [0] [Schmidt Reaction](https://www.organic-chemistry.org/namedreactions/schmidt-reaction.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> 
+
+
+
+
+![[content/notes/images/images/Schmidt-Reaction-Alcohol.png]]
+
+### Imidoyl-Chloride-(Nu)-Nu-Alkoxide
+
+References:   
+ [0] [Imidoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Imidoyl_chloride)  
+ [1] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/jp205909d)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Imidoyl-Chloride-(Nu)-Nu-Alkoxide.png]]
+
+### Schmidt-Reaction-Ketone
+
+References:   
+ [0] [Schmidt Reaction](https://www.organic-chemistry.org/namedreactions/schmidt-reaction.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> 
+
+
+
+
+![[content/notes/images/images/Schmidt-Reaction-Ketone.png]]
 
 ### Oxazole-Synthesis-EWG-Carbonyl-EWG3-Nitrile
 
@@ -280,7 +280,7 @@ References:
 
 
 
-![[Oxazole-Synthesis-EWG-Carbonyl-EWG3-Nitrile.png]]
+![[content/notes/images/images/Oxazole-Synthesis-EWG-Carbonyl-EWG3-Nitrile.png]]
 
 ### Imine-Formation
 
@@ -305,7 +305,7 @@ References:
 
 
 
-![[Imine-Formation.png]]
+![[content/notes/images/images/Imine-Formation.png]]
 
 ### Hass-Bender-Oxidation-X-Iodine
 
@@ -323,25 +323,7 @@ References:
 
 
 
-![[Hass-Bender-Oxidation-X-Iodine.png]]
-
-### Hass-Bender-Oxidation-X-Chlorine
-
-References:   
- [0] [Hass-Bender Oxidation](https://synarchive.com/named-reactions/hass-bender-oxidation)  
- 
-
-
- 
-  Condition to enforce: 
-> R6 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R7 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Hass-Bender-Oxidation-X-Chlorine.png]]
+![[content/notes/images/images/Hass-Bender-Oxidation-X-Iodine.png]]
 
 ### Thionyl-Bromide-to-Alcohol
 
@@ -360,25 +342,25 @@ References:
 
 
 
-![[Thionyl-Bromide-to-Alcohol.png]]
+![[content/notes/images/images/Thionyl-Bromide-to-Alcohol.png]]
 
-### Oxazole-Synthesis-EWG-Nitrile-EWG3-Nitrile
+### Hass-Bender-Oxidation-X-Chlorine
 
 References:   
- [0] [Direct β-Acyloxylation of Enamines via PhIO-Mediated Intermolecular Oxidative C-O Bond Formation and Its Application to the Synthesis of Oxazoles](https://www.organic-chemistry.org/abstracts/lit3/845.shtm)  
+ [0] [Hass-Bender Oxidation](https://synarchive.com/named-reactions/hass-bender-oxidation)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R7 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Oxazole-Synthesis-EWG-Nitrile-EWG3-Nitrile.png]]
+![[content/notes/images/images/Hass-Bender-Oxidation-X-Chlorine.png]]
 
 ### Oxazole-Synthesis-EWG-Phosphonate-EWG3-Nitrile
 
@@ -398,7 +380,7 @@ References:
 
 
 
-![[Oxazole-Synthesis-EWG-Phosphonate-EWG3-Nitrile.png]]
+![[content/notes/images/images/Oxazole-Synthesis-EWG-Phosphonate-EWG3-Nitrile.png]]
 
 ### Imidoyl-Chloride-Formation
 
@@ -416,7 +398,7 @@ References:
 
 
 
-![[Imidoyl-Chloride-Formation.png]]
+![[content/notes/images/images/Imidoyl-Chloride-Formation.png]]
 
 ### Betti-Reaction
 
@@ -438,26 +420,7 @@ References:
 
 
 
-![[Betti-Reaction.png]]
-
-### Thionyl-Chloride-to-Alcohol
-
-References:   
- [0] [Elimination of Alcohols To Alkenes With POCl3 and Pyridine](https://www.masterorganicchemistry.com/2015/04/28/elimination-of-alcohols-to-alkenes-with-pocl3/)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Thionyl-Chloride-to-Alcohol.png]]
+![[content/notes/images/images/Betti-Reaction.png]]
 
 ### Tishchenko-Reaction
 
@@ -475,27 +438,25 @@ References:
 
 
 
-![[Tishchenko-Reaction.png]]
+![[content/notes/images/images/Tishchenko-Reaction.png]]
 
-### Horner-Wadsworth-Emmons-Reaction-EWG-Nitrile
+### Oxazole-Synthesis-EWG-Nitrile-EWG3-Nitrile
 
 References:   
- [0] [Horner–Wadsworth–Emmons reaction - Wikipedia](https://en.wikipedia.org/wiki/Horner%E2%80%93Wadsworth%E2%80%93Emmons_reaction)  
+ [0] [Direct β-Acyloxylation of Enamines via PhIO-Mediated Intermolecular Oxidative C-O Bond Formation and Its Application to the Synthesis of Oxazoles](https://www.organic-chemistry.org/abstracts/lit3/845.shtm)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Horner-Wadsworth-Emmons-Reaction-EWG-Nitrile.png]]
+![[content/notes/images/images/Oxazole-Synthesis-EWG-Nitrile-EWG3-Nitrile.png]]
 
 ### Imidoyl-Chloride-(Nu)-Nu-Thiolate
 
@@ -515,7 +476,7 @@ References:
 
 
 
-![[Imidoyl-Chloride-(Nu)-Nu-Thiolate.png]]
+![[content/notes/images/images/Imidoyl-Chloride-(Nu)-Nu-Thiolate.png]]
 
 ### 1,2-Amide-Phthalamide-Synthesis
 
@@ -533,12 +494,12 @@ References:
 
 
 
-![[1,2-Amide-Phthalamide-Synthesis.png]]
+![[content/notes/images/images/1,2-Amide-Phthalamide-Synthesis.png]]
 
-### Thionyl-Chloride-to-Amide
+### Thionyl-Chloride-to-Alcohol
 
 References:   
- [0] [Imidoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Imidoyl_chloride)  
+ [0] [Elimination of Alcohols To Alkenes With POCl3 and Pyridine](https://www.masterorganicchemistry.com/2015/04/28/elimination-of-alcohols-to-alkenes-with-pocl3/)  
  
 
 
@@ -546,12 +507,13 @@ References:
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Thionyl-Chloride-to-Amide.png]]
+![[content/notes/images/images/Thionyl-Chloride-to-Alcohol.png]]
 
 ### Einhorn-Brunner-Reaction
 
@@ -570,7 +532,7 @@ References:
 
 
 
-![[Einhorn-Brunner-Reaction.png]]
+![[content/notes/images/images/Einhorn-Brunner-Reaction.png]]
 
 ### Forster-Docker-Amine-Synthesis-(2)-X-Iodine
 
@@ -589,7 +551,44 @@ References:
 
 
 
-![[Forster-Docker-Amine-Synthesis-(2)-X-Iodine.png]]
+![[content/notes/images/images/Forster-Docker-Amine-Synthesis-(2)-X-Iodine.png]]
+
+### Imine-Reverse-Acidic
+
+References:   
+ [0] [Reaction with Primary Amines to form Imines - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Aldehydes_and_Ketones/Reactivity_of_Aldehydes_and_Ketones/Reaction_with_Primary_Amines_to_form_Imines)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> 
+
+
+
+
+![[content/notes/images/images/Imine-Reverse-Acidic.png]]
+
+### Carboximidate-Hydrolysis
+
+References:   
+ [0] [Carboximidate - Wikipedia](https://en.wikipedia.org/wiki/Carboximidate)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Carboximidate-Hydrolysis.png]]
 
 ### Imidoyl-Chloride-(Nu)-Nu-Amino
 
@@ -610,26 +609,7 @@ References:
 
 
 
-![[Imidoyl-Chloride-(Nu)-Nu-Amino.png]]
-
-### Imine-Reverse-Acidic
-
-References:   
- [0] [Reaction with Primary Amines to form Imines - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Aldehydes_and_Ketones/Reactivity_of_Aldehydes_and_Ketones/Reaction_with_Primary_Amines_to_form_Imines)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> 
-
-
-
-
-![[Imine-Reverse-Acidic.png]]
+![[content/notes/images/images/Imidoyl-Chloride-(Nu)-Nu-Amino.png]]
 
 ### Hammick-Reaction
 
@@ -646,45 +626,7 @@ References:
 
 
 
-![[Hammick-Reaction.png]]
-
-### Imine-Reverse-Basic
-
-References:   
- [0] [Reaction with Primary Amines to form Imines - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Aldehydes_and_Ketones/Reactivity_of_Aldehydes_and_Ketones/Reaction_with_Primary_Amines_to_form_Imines)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> 
-
-
-
-
-![[Imine-Reverse-Basic.png]]
-
-### Oxazole-Synthesis-EWG-Alkane-EWG3-Nitrile
-
-References:   
- [0] [Direct β-Acyloxylation of Enamines via PhIO-Mediated Intermolecular Oxidative C-O Bond Formation and Its Application to the Synthesis of Oxazoles](https://www.organic-chemistry.org/abstracts/lit3/845.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![[Oxazole-Synthesis-EWG-Alkane-EWG3-Nitrile.png]]
+![[content/notes/images/images/Hammick-Reaction.png]]
 
 ### Oxazole-Synthesis-EWG-Carboxyl-EWG3-Nitrile
 
@@ -703,25 +645,99 @@ References:
 
 
 
-![[Oxazole-Synthesis-EWG-Carboxyl-EWG3-Nitrile.png]]
+![[content/notes/images/images/Oxazole-Synthesis-EWG-Carboxyl-EWG3-Nitrile.png]]
 
-### Carboximidate-Hydrolysis
+### Isocyanide-Formation
 
 References:   
- [0] [Carboximidate - Wikipedia](https://en.wikipedia.org/wiki/Carboximidate)  
+ [0] [E1cB-elimination reaction - Wikipedia](https://en.wikipedia.org/wiki/E1cB-elimination_reaction)  
  
 
 
  
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Carboximidate-Hydrolysis.png]]
+![[content/notes/images/images/Isocyanide-Formation.png]]
+
+### Imine-Reverse-Basic
+
+References:   
+ [0] [Reaction with Primary Amines to form Imines - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Aldehydes_and_Ketones/Reactivity_of_Aldehydes_and_Ketones/Reaction_with_Primary_Amines_to_form_Imines)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> 
+
+
+
+
+![[content/notes/images/images/Imine-Reverse-Basic.png]]
+
+### Horner-Wadsworth-Emmons-Reaction-EWG-Nitrile
+
+References:   
+ [0] [Horner–Wadsworth–Emmons reaction - Wikipedia](https://en.wikipedia.org/wiki/Horner%E2%80%93Wadsworth%E2%80%93Emmons_reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Horner-Wadsworth-Emmons-Reaction-EWG-Nitrile.png]]
+
+### Oxazole-Synthesis-EWG-Alkane-EWG3-Nitrile
+
+References:   
+ [0] [Direct β-Acyloxylation of Enamines via PhIO-Mediated Intermolecular Oxidative C-O Bond Formation and Its Application to the Synthesis of Oxazoles](https://www.organic-chemistry.org/abstracts/lit3/845.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Oxazole-Synthesis-EWG-Alkane-EWG3-Nitrile.png]]
+
+### Schmidt-Reaction-Carboxylic-Acid
+
+References:   
+ [0] [Schmidt Reaction](https://www.organic-chemistry.org/namedreactions/schmidt-reaction.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Schmidt-Reaction-Carboxylic-Acid.png]]
 
 ### Carboximidate-Aminolysis
 
@@ -741,59 +757,43 @@ References:
 
 
 
-![[Carboximidate-Aminolysis.png]]
+![[content/notes/images/images/Carboximidate-Aminolysis.png]]
 
-### Isocyanide-Formation
+### Thionyl-Chloride-to-Amide
 
 References:   
- [0] [E1cB-elimination reaction - Wikipedia](https://en.wikipedia.org/wiki/E1cB-elimination_reaction)  
+ [0] [Imidoyl chloride - Wikipedia](https://en.wikipedia.org/wiki/Imidoyl_chloride)  
  
 
 
  
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Isocyanide-Formation.png]]
-
-### Oxazole-Synthesis-EWG-Nitrite-EWG3-Nitrile
-
-References:   
- [0] [Direct β-Acyloxylation of Enamines via PhIO-Mediated Intermolecular Oxidative C-O Bond Formation and Its Application to the Synthesis of Oxazoles](https://www.organic-chemistry.org/abstracts/lit3/845.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Oxazole-Synthesis-EWG-Nitrite-EWG3-Nitrile.png]]
+![[content/notes/images/images/Thionyl-Chloride-to-Amide.png]]
 
-### Schmidt-Reaction-Carboxylic-Acid
+### Hass-Bender-Oxidation-X-Bromine
 
 References:   
- [0] [Schmidt Reaction](https://www.organic-chemistry.org/namedreactions/schmidt-reaction.shtm)  
+ [0] [Hass-Bender Oxidation](https://synarchive.com/named-reactions/hass-bender-oxidation)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R7 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Schmidt-Reaction-Carboxylic-Acid.png]]
+![[content/notes/images/images/Hass-Bender-Oxidation-X-Bromine.png]]
 
 ### Chapman-Rearrangement
 
@@ -812,23 +812,23 @@ References:
 
 
 
-![[Chapman-Rearrangement.png]]
+![[content/notes/images/images/Chapman-Rearrangement.png]]
 
-### Hass-Bender-Oxidation-X-Bromine
+### Oxazole-Synthesis-EWG-Nitrite-EWG3-Nitrile
 
 References:   
- [0] [Hass-Bender Oxidation](https://synarchive.com/named-reactions/hass-bender-oxidation)  
+ [0] [Direct β-Acyloxylation of Enamines via PhIO-Mediated Intermolecular Oxidative C-O Bond Formation and Its Application to the Synthesis of Oxazoles](https://www.organic-chemistry.org/abstracts/lit3/845.shtm)  
  
 
 
  
   Condition to enforce: 
-> R6 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R7 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Hass-Bender-Oxidation-X-Bromine.png]]
+![[content/notes/images/images/Oxazole-Synthesis-EWG-Nitrite-EWG3-Nitrile.png]]
 

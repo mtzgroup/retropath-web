@@ -3,7 +3,7 @@ tags: 🚧, 🧪, cody, alessio, samuel, 📁
 
 ---
 
-# Title: **[[named_reactions]]**
+# Title: **[[Named Reactions]]**
 
 [[Libraries]]
 

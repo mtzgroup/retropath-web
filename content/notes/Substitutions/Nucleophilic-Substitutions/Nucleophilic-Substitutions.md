@@ -21,7 +21,7 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Chlorine-acid.png]]
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Chlorine-acid.png]]
 
 #### Aziridine-Ring-Opening-Nu-Hydroxyl-basic
 
@@ -40,7 +40,7 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Hydroxyl-basic.png]]
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Hydroxyl-basic.png]]
 
 #### Aziridine-Ring-Opening-Nu-Thiolate-acid
 
@@ -60,7 +60,7 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Thiolate-acid.png]]
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Thiolate-acid.png]]
 
 #### Amide-Hydrolysis
 
@@ -79,7 +79,7 @@ References:
 
 
 
-![[Amide-Hydrolysis.png]]
+![[content/notes/images/images/Amide-Hydrolysis.png]]
 
 #### Thiourea-Substitution-X-Chlorine
 
@@ -100,7 +100,7 @@ References:
 
 
 
-![[Thiourea-Substitution-X-Chlorine.png]]
+![[content/notes/images/images/Thiourea-Substitution-X-Chlorine.png]]
 
 #### Sulfonamide-Formation
 
@@ -119,7 +119,7 @@ References:
 
 
 
-![[Sulfonamide-Formation.png]]
+![[content/notes/images/images/Sulfonamide-Formation.png]]
 
 #### Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine
 
@@ -141,7 +141,7 @@ References:
 
 
 
-![[Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine.png]]
+![[content/notes/images/images/Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine.png]]
 
 #### Aziridine-Ring-Opening-Nu-Nitrile-basic
 
@@ -160,7 +160,7 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Nitrile-basic.png]]
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Nitrile-basic.png]]
 
 #### Aziridine-Ring-Opening-Nu-Alkoxide-basic
 
@@ -180,27 +180,7 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Alkoxide-basic.png]]
-
-#### Aziridine-Ring-Opening-Nu-Carboxyl-H-basic
-
-References:   
- [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Aziridine-Ring-Opening-Nu-Carboxyl-H-basic.png]]
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Alkoxide-basic.png]]
 
 #### Thiourea-Substitution-X-Bromine
 
@@ -221,7 +201,7 @@ References:
 
 
 
-![[Thiourea-Substitution-X-Bromine.png]]
+![[content/notes/images/images/Thiourea-Substitution-X-Bromine.png]]
 
 #### Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine
 
@@ -243,7 +223,27 @@ References:
 
 
 
-![[Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine.png]]
+![[content/notes/images/images/Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine.png]]
+
+#### Aziridine-Ring-Opening-Nu-Carboxyl-H-basic
+
+References:   
+ [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Carboxyl-H-basic.png]]
 
 #### Alcohol-Bromination
 
@@ -262,28 +262,7 @@ References:
 
 
 
-![[Alcohol-Bromination.png]]
-
-#### Aziridine-Ring-Opening-Nu-Amino-basic
-
-References:   
- [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Aziridine-Ring-Opening-Nu-Amino-basic.png]]
+![[content/notes/images/images/Alcohol-Bromination.png]]
 
 #### Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine
 
@@ -305,7 +284,46 @@ References:
 
 
 
-![[Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine.png]]
+![[content/notes/images/images/Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine.png]]
+
+#### Sulfonate-Formation
+
+References:   
+ [0] [ch8-10-1.html](https://www.chem.ucalgary.ca/courses/353/Carey5th/Ch08/ch8-10-1.html)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = A-Aliphatic-Carbon, A-Aliphatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Sulfonate-Formation.png]]
+
+#### Aziridine-Ring-Opening-Nu-Amino-basic
+
+References:   
+ [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Amino-basic.png]]
 
 #### Aziridine-Ring-Opening-Nu-Hydroxyl-acid
 
@@ -324,7 +342,46 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Hydroxyl-acid.png]]
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Hydroxyl-acid.png]]
+
+#### Aziridine-Ring-Opening-Nu-Thiolate-basic
+
+References:   
+ [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Thiolate-basic.png]]
+
+#### Aziridine-Ring-Opening-Nu-Azide-basic
+
+References:   
+ [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Azide-basic.png]]
 
 #### β-Lactam-Ring-Opening
 
@@ -344,7 +401,44 @@ References:
 
 
 
-![[β-Lactam-Ring-Opening.png]]
+![[content/notes/images/images/β-Lactam-Ring-Opening.png]]
+
+#### Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine
+
+References:   
+ [0] [Carboxylic acid reactions overview (article) | Khan Academy](https://www.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids/a/carboxylic-acid-reactions-overview)  
+ [1] [Conversion of carboxylic acids to acid chlorides - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Carboxylic_Acids/Reactivity_of_Carboxylic_Acids/Conversion_of_carboxylic_acids_to_acid_chlorides)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine.png]]
+
+#### Aziridine-Ring-Opening-Nu-Iodine-acid
+
+References:   
+ [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Iodine-acid.png]]
 
 #### Thiourea-Substitution-X-Sulfonate
 
@@ -366,30 +460,13 @@ References:
 
 
 
-![[Thiourea-Substitution-X-Sulfonate.png]]
+![[content/notes/images/images/Thiourea-Substitution-X-Sulfonate.png]]
 
-#### Sulfonate-Formation
-
-References:   
- [0] [ch8-10-1.html](https://www.chem.ucalgary.ca/courses/353/Carey5th/Ch08/ch8-10-1.html)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aliphatic-Carbon, A-Aliphatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![[Sulfonate-Formation.png]]
-
-#### Aziridine-Ring-Opening-Nu-Iodine-acid
+#### Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine
 
 References:   
- [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
+ [1] [22.3: Alpha Halogenation of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(McMurry)/22%3A_Carbonyl_Alpha-Substitution_Reactions/22.03%3A_Alpha_Halogenation_of_Aldehydes_and_Ketones)  
  
 
 
@@ -403,30 +480,12 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Iodine-acid.png]]
+![[content/notes/images/images/Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine.png]]
 
-#### Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine
-
-References:   
- [0] [Carboxylic acid reactions overview (article) | Khan Academy](https://www.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids/a/carboxylic-acid-reactions-overview)  
- [1] [Conversion of carboxylic acids to acid chlorides - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Carboxylic_Acids/Reactivity_of_Carboxylic_Acids/Conversion_of_carboxylic_acids_to_acid_chlorides)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine.png]]
-
-#### Aziridine-Ring-Opening-Nu-Thiolate-basic
+#### Cyclopropane-Ring-Opening-X-Iodine
 
 References:   
- [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ [0] [Cyclopropane - Wikipedia](https://en.wikipedia.org/wiki/Cyclopropane#Organic_reactions)  
  
 
 
@@ -435,50 +494,13 @@ References:
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Aziridine-Ring-Opening-Nu-Thiolate-basic.png]]
-
-#### Aziridine-Ring-Opening-Nu-Azide-basic
-
-References:   
- [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Aziridine-Ring-Opening-Nu-Azide-basic.png]]
-
-#### Gabriel-Synthesis
-
-References:   
- [0] [The Gabriel Synthesis – Master Organic Chemistry](https://www.masterorganicchemistry.com/2018/01/31/the-gabriel-synthesis/)  
- [1] [Gabriel Phthalimide Synthesis Mechanism - Explanation and Examples](https://byjus.com/chemistry/gabriel-phthalimide-synthesis-mechanism/)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![[Gabriel-Synthesis.png]]
+![[content/notes/images/images/Cyclopropane-Ring-Opening-X-Iodine.png]]
 
 #### Thiourea-Substitution-X-Iodine
 
@@ -499,47 +521,7 @@ References:
 
 
 
-![[Thiourea-Substitution-X-Iodine.png]]
-
-#### Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine
-
-References:   
- [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
- [1] [22.3: Alpha Halogenation of Aldehydes and Ketones - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(McMurry)/22%3A_Carbonyl_Alpha-Substitution_Reactions/22.03%3A_Alpha_Halogenation_of_Aldehydes_and_Ketones)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine.png]]
-
-#### Cyclopropane-Ring-Opening-X-Iodine
-
-References:   
- [0] [Cyclopropane - Wikipedia](https://en.wikipedia.org/wiki/Cyclopropane#Organic_reactions)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Cyclopropane-Ring-Opening-X-Iodine.png]]
+![[content/notes/images/images/Thiourea-Substitution-X-Iodine.png]]
 
 #### Wolff-Kishner-Reduction
 
@@ -557,7 +539,25 @@ References:
 
 
 
-![[Wolff-Kishner-Reduction.png]]
+![[content/notes/images/images/Wolff-Kishner-Reduction.png]]
+
+#### Gabriel-Synthesis
+
+References:   
+ [0] [The Gabriel Synthesis – Master Organic Chemistry](https://www.masterorganicchemistry.com/2018/01/31/the-gabriel-synthesis/)  
+ [1] [Gabriel Phthalimide Synthesis Mechanism - Explanation and Examples](https://byjus.com/chemistry/gabriel-phthalimide-synthesis-mechanism/)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Gabriel-Synthesis.png]]
 
 #### Aziridine-Ring-Opening-Nu-Alkoxide-acid
 
@@ -577,44 +577,7 @@ References:
 
 
 
-![[Aziridine-Ring-Opening-Nu-Alkoxide-acid.png]]
-
-#### Aziridine-Ring-Opening-Nu-Azide-acid
-
-References:   
- [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Aziridine-Ring-Opening-Nu-Azide-acid.png]]
-
-#### Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine
-
-References:   
- [0] [Carboxylic acid reactions overview (article) | Khan Academy](https://www.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids/a/carboxylic-acid-reactions-overview)  
- [1] [Conversion of carboxylic acids to acid chlorides - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Carboxylic_Acids/Reactivity_of_Carboxylic_Acids/Conversion_of_carboxylic_acids_to_acid_chlorides)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine.png]]
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Alkoxide-acid.png]]
 
 #### Cyclopropane-Ring-Opening-X-Chlorine
 
@@ -634,7 +597,44 @@ References:
 
 
 
-![[Cyclopropane-Ring-Opening-X-Chlorine.png]]
+![[content/notes/images/images/Cyclopropane-Ring-Opening-X-Chlorine.png]]
+
+#### Aziridine-Ring-Opening-Nu-Azide-acid
+
+References:   
+ [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Azide-acid.png]]
+
+#### Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine
+
+References:   
+ [0] [Carboxylic acid reactions overview (article) | Khan Academy](https://www.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids/a/carboxylic-acid-reactions-overview)  
+ [1] [Conversion of carboxylic acids to acid chlorides - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Carboxylic_Acids/Reactivity_of_Carboxylic_Acids/Conversion_of_carboxylic_acids_to_acid_chlorides)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine.png]]
 
 #### Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine
 
@@ -654,7 +654,26 @@ References:
 
 
 
-![[Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine.png]]
+![[content/notes/images/images/Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine.png]]
+
+#### Aziridine-Ring-Opening-Nu-Bromine-acid
+
+References:   
+ [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aziridine-Ring-Opening-Nu-Bromine-acid.png]]
 
 #### Cyclopropane-Ring-Opening-X-Bromine
 
@@ -674,26 +693,7 @@ References:
 
 
 
-![[Cyclopropane-Ring-Opening-X-Bromine.png]]
-
-#### Aziridine-Ring-Opening-Nu-Bromine-acid
-
-References:   
- [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Aziridine-Ring-Opening-Nu-Bromine-acid.png]]
+![[content/notes/images/images/Cyclopropane-Ring-Opening-X-Bromine.png]]
 
 #### Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine
 
@@ -713,5 +713,5 @@ References:
 
 
 
-![[Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine.png]]
+![[content/notes/images/images/Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine.png]]
 

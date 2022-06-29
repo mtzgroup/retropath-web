@@ -12,7 +12,7 @@ References:
 
  
  
-![[Reimer-Tiemann-Formylation.png]]
+![[content/notes/images/images/Reimer-Tiemann-Formylation.png]]
 
 #### Benzene-Nitration
 
@@ -43,24 +43,7 @@ References:
 
 
 
-![[Benzene-Nitration.png]]
-
-#### Bradsher-Cyclization-(1)
-
-References:   
- [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
- 
-
-
- 
-  Condition to enforce: 
-> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Bradsher-Cyclization-(1).png]]
+![[content/notes/images/images/Benzene-Nitration.png]]
 
 #### Eschweiler-Clarke-Reaction
 
@@ -79,7 +62,24 @@ References:
 
 
 
-![[Eschweiler-Clarke-Reaction.png]]
+![[content/notes/images/images/Eschweiler-Clarke-Reaction.png]]
+
+#### Bradsher-Cyclization-(1)
+
+References:   
+ [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Bradsher-Cyclization-(1).png]]
 
 #### Bradsher-Cyclization-(2)
 
@@ -96,7 +96,7 @@ References:
 
 
 
-![[Bradsher-Cyclization-(2).png]]
+![[content/notes/images/images/Bradsher-Cyclization-(2).png]]
 
 #### Duff-Reaction
 
@@ -107,5 +107,5 @@ References:
 
  
  
-![[Duff-Reaction.png]]
+![[content/notes/images/images/Duff-Reaction.png]]
 

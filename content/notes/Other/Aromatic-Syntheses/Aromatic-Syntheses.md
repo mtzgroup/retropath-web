@@ -3,25 +3,6 @@ tags: ⚙️
 ---
 [[Other]]
 
-#### Madelung-Indole-Synthesis
-
-References:   
- [0] [Madelung Indole Synthesis](https://synarchive.com/named-reactions/madelung-indole-synthesis)  
- [1] [Madelung synthesis - Wikipedia](https://en.wikipedia.org/wiki/Madelung_synthesis)  
- 
-
-
- 
-  Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon  
-> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Madelung-Indole-Synthesis.png]]
-
 #### Indole-Synthesis-(1)
 
 References:   
@@ -31,25 +12,7 @@ References:
 
  
  
-![[Indole-Synthesis-(1).png]]
-
-#### Iodine-Mediated-Cyclization-Indoline-(1)
-
-References:   
- [0] [Iodine-Mediated Synthesis of 3H-Indoles via Intramolecular Cyclization of Enamines](https://www.organic-chemistry.org/abstracts/lit2/954.shtm)  
- [1] [Just a moment...](https://pubs.acs.org/doi/10.1021/ol303109m)  
- 
-
-
- 
-  Condition to enforce: 
-> R2 = A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Iodine-Mediated-Cyclization-Indoline-(1).png]]
+![[content/notes/images/images/Indole-Synthesis-(1).png]]
 
 #### Indole-Synthesis-(Nenitzescu)
 
@@ -73,7 +36,26 @@ References:
 
 
 
-![[Indole-Synthesis-(Nenitzescu).png]]
+![[content/notes/images/images/Indole-Synthesis-(Nenitzescu).png]]
+
+#### Madelung-Indole-Synthesis
+
+References:   
+ [0] [Madelung Indole Synthesis](https://synarchive.com/named-reactions/madelung-indole-synthesis)  
+ [1] [Madelung synthesis - Wikipedia](https://en.wikipedia.org/wiki/Madelung_synthesis)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R5 = H, A-Aliphatic-Carbon  
+> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Madelung-Indole-Synthesis.png]]
 
 #### Conrad-Limpach-Synthesis-(Thermodynamic)
 
@@ -92,7 +74,43 @@ References:
 
 
 
-![[Conrad-Limpach-Synthesis-(Thermodynamic).png]]
+![[content/notes/images/images/Conrad-Limpach-Synthesis-(Thermodynamic).png]]
+
+#### Carbazole-Synthesis
+
+References:   
+ [0] [Facile Synthesis of Carbazoles via a Tandem Iodocyclization with 1,2-Alkyl Migration and Aromatization](https://www.organic-chemistry.org/abstracts/lit4/998.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Carbazole-Synthesis.png]]
+
+#### Iodine-Mediated-Cyclization-Indoline-(1)
+
+References:   
+ [0] [Iodine-Mediated Synthesis of 3H-Indoles via Intramolecular Cyclization of Enamines](https://www.organic-chemistry.org/abstracts/lit2/954.shtm)  
+ [1] [Just a moment...](https://pubs.acs.org/doi/10.1021/ol303109m)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R2 = A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Iodine-Mediated-Cyclization-Indoline-(1).png]]
 
 #### Cyclopropanation-Part-2
 
@@ -114,25 +132,63 @@ References:
 
 
 
-![[Cyclopropanation-Part-2.png]]
+![[content/notes/images/images/Cyclopropanation-Part-2.png]]
 
-#### Carbazole-Synthesis
+#### Fischer-oxazole-synthesis
 
 References:   
- [0] [Facile Synthesis of Carbazoles via a Tandem Iodocyclization with 1,2-Alkyl Migration and Aromatization](https://www.organic-chemistry.org/abstracts/lit4/998.shtm)  
+ [0] [Fischer oxazole synthesis - Wikipedia](https://en.wikipedia.org/wiki/Fischer_oxazole_synthesis)  
  
 
 
  
   Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R6 = A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Carbazole-Synthesis.png]]
+![[content/notes/images/images/Fischer-oxazole-synthesis.png]]
+
+#### Hantzsch-Thiazole-Synthesis-X-Chlorine
+
+References:   
+ [0] [Hantzsch Thiazole Synthesis](https://synarchive.com/named-reactions/hantzsch-thiazole-synthesis)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A  
+> R2 = L-A  
+> R3 = L-A  
+> 
+
+
+
+
+![[content/notes/images/images/Hantzsch-Thiazole-Synthesis-X-Chlorine.png]]
+
+#### Aryl-Bargellini-Reaction
+
+References:   
+ [0] [Bargellini Reaction](https://synarchive.com/named-reactions/bargellini-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon  
+> R2 = A-Aliphatic-Carbon  
+> R3 = A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Aryl-Bargellini-Reaction.png]]
 
 #### Guareschi-Thorpe-Condensation
 
@@ -152,76 +208,7 @@ References:
 
 
 
-![[Guareschi-Thorpe-Condensation.png]]
-
-#### Hantzsch-Thiazole-Synthesis-X-Chlorine
-
-References:   
- [0] [Hantzsch Thiazole Synthesis](https://synarchive.com/named-reactions/hantzsch-thiazole-synthesis)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A  
-> R2 = L-A  
-> R3 = L-A  
-> 
-
-
-
-
-![[Hantzsch-Thiazole-Synthesis-X-Chlorine.png]]
-
-#### Fischer-oxazole-synthesis
-
-References:   
- [0] [Fischer oxazole synthesis - Wikipedia](https://en.wikipedia.org/wiki/Fischer_oxazole_synthesis)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Fischer-oxazole-synthesis.png]]
-
-#### Indole-Synthesis-(Hemetsberger-Knittel)
-
-References: 0 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Indole-Synthesis-(Hemetsberger-Knittel).png]]
-
-#### Isoindolinone-Synthesis-(1)-X-Bromine
-
-References:   
- [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![[Isoindolinone-Synthesis-(1)-X-Bromine.png]]
+![[content/notes/images/images/Guareschi-Thorpe-Condensation.png]]
 
 #### Knorr-Quinoline-Synthesis
 
@@ -239,26 +226,76 @@ References:
 
 
 
-![[Knorr-Quinoline-Synthesis.png]]
+![[content/notes/images/images/Knorr-Quinoline-Synthesis.png]]
 
-#### Aryl-Bargellini-Reaction
+#### Isoindolinone-Synthesis-(1)-X-Bromine
 
 References:   
- [0] [Bargellini Reaction](https://synarchive.com/named-reactions/bargellini-reaction)  
+ [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon  
-> R2 = A-Aliphatic-Carbon  
-> R3 = A-Aliphatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon  
 > 
 
 
 
 
-![[Aryl-Bargellini-Reaction.png]]
+![[content/notes/images/images/Isoindolinone-Synthesis-(1)-X-Bromine.png]]
+
+#### Conrad-Limpach-Synthesis-(Kinetic)
+
+References:   
+ [0] [Conrad-Limpach Synthesis](https://synarchive.com/named-reactions/conrad-limpach-synthesis)  
+ [1] [Conrad–Limpach synthesis - Wikipedia](https://en.wikipedia.org/wiki/Conrad–Limpach_synthesis)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R5 = H, A-Aliphatic-Carbon  
+> R7 = A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Conrad-Limpach-Synthesis-(Kinetic).png]]
+
+#### Indole-Synthesis-(Hemetsberger-Knittel)
+
+References: 0 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Indole-Synthesis-(Hemetsberger-Knittel).png]]
+
+#### Tetrazole-Formation
+
+References:   
+ [0] [Tetrazole formation by cycloaddition](https://www.chemtube3d.com/tetrazole/)  
+ [1] [1H-Tetrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/tetrazoles.shtm)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Tetrazole-Formation.png]]
 
 #### Imidazole-Synthesis
 
@@ -278,26 +315,24 @@ References:
 
 
 
-![[Imidazole-Synthesis.png]]
+![[content/notes/images/images/Imidazole-Synthesis.png]]
 
-#### Conrad-Limpach-Synthesis-(Kinetic)
+#### VanLeusen-oxazole-synthesis
 
 References:   
- [0] [Conrad-Limpach Synthesis](https://synarchive.com/named-reactions/conrad-limpach-synthesis)  
- [1] [Conrad–Limpach synthesis - Wikipedia](https://en.wikipedia.org/wiki/Conrad–Limpach_synthesis)  
+ [0] [Van Leusen Imidazole Synthesis](https://www.organic-chemistry.org/namedreactions/van-leusen-imidazole-synthesis.shtm)  
  
 
 
  
   Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon  
-> R7 = A-Aliphatic-Carbon  
+> R1 = L-A, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Conrad-Limpach-Synthesis-(Kinetic).png]]
+![[content/notes/images/images/VanLeusen-oxazole-synthesis.png]]
 
 #### Huigsen-Cycloaddition
 
@@ -316,25 +351,7 @@ References:
 
 
 
-![[Huigsen-Cycloaddition.png]]
-
-#### Tetrazole-Formation
-
-References:   
- [0] [Tetrazole formation by cycloaddition](https://www.chemtube3d.com/tetrazole/)  
- [1] [1H-Tetrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/tetrazoles.shtm)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Tetrazole-Formation.png]]
+![[content/notes/images/images/Huigsen-Cycloaddition.png]]
 
 #### Hantzsch-Pyrrole-Synthesis
 
@@ -355,26 +372,7 @@ References:
 
 
 
-![[Hantzsch-Pyrrole-Synthesis.png]]
-
-#### Allan-Robinson-Reaction
-
-References:   
- [0] [Allan–Robinson reaction - Wikipedia](https://en.wikipedia.org/wiki/Allan%E2%80%93Robinson_reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R5 = L-A  
-> R6 = L-A  
-> R7 = L-A  
-> 
-
-
-
-
-![[Allan-Robinson-Reaction.png]]
+![[content/notes/images/images/Hantzsch-Pyrrole-Synthesis.png]]
 
 #### Pomeranz-Fritsch-Reaction
 
@@ -393,24 +391,47 @@ References:
 
 
 
-![[Pomeranz-Fritsch-Reaction.png]]
+![[content/notes/images/images/Pomeranz-Fritsch-Reaction.png]]
 
-#### VanLeusen-oxazole-synthesis
+#### Pyrazole-Synthesis-Beta-Ketoester
 
 References:   
- [0] [Van Leusen Imidazole Synthesis](https://www.organic-chemistry.org/namedreactions/van-leusen-imidazole-synthesis.shtm)  
+ [0] [Knorr pyrazole synthesis from a ketoester - laboratory experiment - YouTube](https://www.youtube.com/watch?v=3y83OXIytw4&t=239s)  
  
 
 
  
   Condition to enforce: 
 > R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[VanLeusen-oxazole-synthesis.png]]
+![[content/notes/images/images/Pyrazole-Synthesis-Beta-Ketoester.png]]
+
+#### Allan-Robinson-Reaction
+
+References:   
+ [0] [Allan–Robinson reaction - Wikipedia](https://en.wikipedia.org/wiki/Allan%E2%80%93Robinson_reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R5 = L-A  
+> R6 = L-A  
+> R7 = L-A  
+> 
+
+
+
+
+![[content/notes/images/images/Allan-Robinson-Reaction.png]]
 
 #### Hemetsberger-Knittel-Indole-Synthesis
 
@@ -431,7 +452,18 @@ References:
 
 
 
-![[Hemetsberger-Knittel-Indole-Synthesis.png]]
+![[content/notes/images/images/Hemetsberger-Knittel-Indole-Synthesis.png]]
+
+#### Pthalimide-Synthesis-(2)
+
+References:   
+ [0] [Phthalimides](https://www.organic-chemistry.org/protectivegroups/amino/phthalimides.htm)  
+ 
+
+
+ 
+ 
+![[content/notes/images/images/Pthalimide-Synthesis-(2).png]]
 
 #### Aliphatic-Bargellini-Reaction-(O)
 
@@ -454,47 +486,27 @@ References:
 
 
 
-![[Aliphatic-Bargellini-Reaction-(O).png]]
+![[content/notes/images/images/Aliphatic-Bargellini-Reaction-(O).png]]
 
-#### Pyrazole-Synthesis-(OO)
+#### Pechmann-Condensation
 
 References:   
- [0] [Pyrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/pyrazoles.shtm)  
+ [0] [Pechmann Condensation](https://synarchive.com/named-reactions/pechmann-condensation)  
+ [1] [Pechmann Condensation](https://www.organic-chemistry.org/namedreactions/pechmann-condensation.shtm)  
  
 
 
  
   Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Pyrazole-Synthesis-(OO).png]]
-
-#### Pyrazole-Synthesis-Beta-Ketoester
-
-References:   
- [0] [Knorr pyrazole synthesis from a ketoester - laboratory experiment - YouTube](https://www.youtube.com/watch?v=3y83OXIytw4&t=239s)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
 > R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = H, A-Aliphatic-Carbon  
+> R7 = A-Aliphatic-Carbon  
 > 
 
 
 
 
-![[Pyrazole-Synthesis-Beta-Ketoester.png]]
+![[content/notes/images/images/Pechmann-Condensation.png]]
 
 #### Skraup-Quinoline-Synthesis
 
@@ -515,38 +527,47 @@ References:
 
 
 
-![[Skraup-Quinoline-Synthesis.png]]
+![[content/notes/images/images/Skraup-Quinoline-Synthesis.png]]
 
-#### Pechmann-Condensation
+#### Pyrazole-Synthesis-(OO)
 
 References:   
- [0] [Pechmann Condensation](https://synarchive.com/named-reactions/pechmann-condensation)  
- [1] [Pechmann Condensation](https://www.organic-chemistry.org/namedreactions/pechmann-condensation.shtm)  
+ [0] [Pyrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/pyrazoles.shtm)  
  
 
 
  
   Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R6 = H, A-Aliphatic-Carbon  
-> R7 = A-Aliphatic-Carbon  
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Pechmann-Condensation.png]]
+![[content/notes/images/images/Pyrazole-Synthesis-(OO).png]]
 
-#### Pthalimide-Synthesis-(2)
+#### Paal-Knorr-Pyrrole-Synthesis
 
 References:   
- [0] [Phthalimides](https://www.organic-chemistry.org/protectivegroups/amino/phthalimides.htm)  
+ [0] [Paal-Knorr Pyrrole Synthesis](https://www.organic-chemistry.org/namedreactions/paal-knorr-pyrrole-synthesis.shtm)  
  
 
 
  
- 
-![[Pthalimide-Synthesis-(2).png]]
+  Condition to enforce: 
+> R1 = L-A  
+> R2 = L-A  
+> R3 = L-A  
+> R4 = L-A  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Paal-Knorr-Pyrrole-Synthesis.png]]
 
 #### Hantzsch-Thiazole-Synthesis-X-Bromine
 
@@ -565,7 +586,24 @@ References:
 
 
 
-![[Hantzsch-Thiazole-Synthesis-X-Bromine.png]]
+![[content/notes/images/images/Hantzsch-Thiazole-Synthesis-X-Bromine.png]]
+
+#### Isoindolinone-Synthesis-(1)-X-Chlorine
+
+References:   
+ [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R5 = H, A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Isoindolinone-Synthesis-(1)-X-Chlorine.png]]
 
 #### Kostaneki-Acylation-(2)
 
@@ -587,7 +625,27 @@ References:
 
 
 
-![[Kostaneki-Acylation-(2).png]]
+![[content/notes/images/images/Kostaneki-Acylation-(2).png]]
+
+#### Gassman-Indole-Synthesis
+
+References:   
+ [0] [Gassman indole synthesis](https://synarchive.com/named-reactions/gassman-indole-synthesis)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
+> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R7 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R8 = A-Aliphatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Gassman-Indole-Synthesis.png]]
 
 #### Kostaneki-Acylation-(1)
 
@@ -609,29 +667,32 @@ References:
 
 
 
-![[Kostaneki-Acylation-(1).png]]
+![[content/notes/images/images/Kostaneki-Acylation-(1).png]]
 
-#### Isoindolinone-Synthesis-(1)-X-Chlorine
+#### Feist-Benary-Synthesis-X1-Bromine
 
 References:   
- [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
+ [0] [Feist-Bénary-Reaktion – Wikipedia](https://de.m.wikipedia.org/wiki/Feist-B%C3%A9nary-Reaktion)  
  
 
 
  
   Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Isoindolinone-Synthesis-(1)-X-Chlorine.png]]
+![[content/notes/images/images/Feist-Benary-Synthesis-X1-Bromine.png]]
 
-#### Paal-Knorr-Pyrrole-Synthesis
+#### Paal-Knorr-Furan-Synthesis
 
 References:   
- [0] [Paal-Knorr Pyrrole Synthesis](https://www.organic-chemistry.org/namedreactions/paal-knorr-pyrrole-synthesis.shtm)  
+ [0] [Paal-Knorr Furan Synthesis](https://www.organic-chemistry.org/namedreactions/paal-knorr-furan-synthesis.shtm)  
  
 
 
@@ -641,13 +702,12 @@ References:
 > R2 = L-A  
 > R3 = L-A  
 > R4 = L-A  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![[Paal-Knorr-Pyrrole-Synthesis.png]]
+![[content/notes/images/images/Paal-Knorr-Furan-Synthesis.png]]
 
 #### Aliphatic-Bargellini-Reaction-(N)
 
@@ -671,27 +731,7 @@ References:
 
 
 
-![[Aliphatic-Bargellini-Reaction-(N).png]]
-
-#### Feist-Benary-Synthesis-X1-Bromine
-
-References:   
- [0] [Feist-Bénary-Reaktion – Wikipedia](https://de.m.wikipedia.org/wiki/Feist-B%C3%A9nary-Reaktion)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Feist-Benary-Synthesis-X1-Bromine.png]]
+![[content/notes/images/images/Aliphatic-Bargellini-Reaction-(N).png]]
 
 #### Staudinger-Synthesis
 
@@ -711,27 +751,7 @@ References:
 
 
 
-![[Staudinger-Synthesis.png]]
-
-#### Gassman-Indole-Synthesis
-
-References:   
- [0] [Gassman indole synthesis](https://synarchive.com/named-reactions/gassman-indole-synthesis)  
- 
-
-
- 
-  Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen  
-> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R7 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R8 = A-Aliphatic-Carbon  
-> 
-
-
-
-
-![[Gassman-Indole-Synthesis.png]]
+![[content/notes/images/images/Staudinger-Synthesis.png]]
 
 #### Hantzsch-Thiazole-Synthesis-X-Sulfonate
 
@@ -751,7 +771,18 @@ References:
 
 
 
-![[Hantzsch-Thiazole-Synthesis-X-Sulfonate.png]]
+![[content/notes/images/images/Hantzsch-Thiazole-Synthesis-X-Sulfonate.png]]
+
+#### Sandmeyer-Isatin-(2)
+
+References:   
+ [0] [Sandmeyer Isatin Synthesis](https://synarchive.com/named-reactions/sandmeyer-isatin-synthesis)  
+ 
+
+
+ 
+ 
+![[content/notes/images/images/Sandmeyer-Isatin-(2).png]]
 
 #### VanLeusen-imidazole-synthesis
 
@@ -770,27 +801,24 @@ References:
 
 
 
-![[VanLeusen-imidazole-synthesis.png]]
+![[content/notes/images/images/VanLeusen-imidazole-synthesis.png]]
 
-#### Paal-Knorr-Furan-Synthesis
+#### Isoindolinone-Synthesis-(1)-X-Fluorine
 
 References:   
- [0] [Paal-Knorr Furan Synthesis](https://www.organic-chemistry.org/namedreactions/paal-knorr-furan-synthesis.shtm)  
+ [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
  
 
 
  
   Condition to enforce: 
-> R1 = L-A  
-> R2 = L-A  
-> R3 = L-A  
-> R4 = L-A  
+> R5 = H, A-Aliphatic-Carbon  
 > 
 
 
 
 
-![[Paal-Knorr-Furan-Synthesis.png]]
+![[content/notes/images/images/Isoindolinone-Synthesis-(1)-X-Fluorine.png]]
 
 #### Hanztch-Pyridine-Synthesis
 
@@ -811,35 +839,7 @@ References:
 
 
 
-![[Hanztch-Pyridine-Synthesis.png]]
-
-#### Isoindolinone-Synthesis-(1)-X-Fluorine
-
-References:   
- [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![[Isoindolinone-Synthesis-(1)-X-Fluorine.png]]
-
-#### Sandmeyer-Isatin-(2)
-
-References:   
- [0] [Sandmeyer Isatin Synthesis](https://synarchive.com/named-reactions/sandmeyer-isatin-synthesis)  
- 
-
-
- 
- 
-![[Sandmeyer-Isatin-(2).png]]
+![[content/notes/images/images/Hanztch-Pyridine-Synthesis.png]]
 
 #### Pyrazole-Synthesis-(SO)
 
@@ -858,7 +858,7 @@ References:
 
 
 
-![[Pyrazole-Synthesis-(SO).png]]
+![[content/notes/images/images/Pyrazole-Synthesis-(SO).png]]
 
 #### VanLeusen-Reaction
 
@@ -878,7 +878,7 @@ References:
 
 
 
-![[VanLeusen-Reaction.png]]
+![[content/notes/images/images/VanLeusen-Reaction.png]]
 
 #### Sandmeyer-Isatin-(1)
 
@@ -889,7 +889,7 @@ References:
 
  
  
-![[Sandmeyer-Isatin-(1).png]]
+![[content/notes/images/images/Sandmeyer-Isatin-(1).png]]
 
 #### Freidlander-Synthesis
 
@@ -907,27 +907,7 @@ References:
 
 
 
-![[Freidlander-Synthesis.png]]
-
-#### Feist-Benary-Synthesis-X1-Chlorine
-
-References:   
- [0] [Feist-Bénary-Reaktion – Wikipedia](https://de.m.wikipedia.org/wiki/Feist-B%C3%A9nary-Reaktion)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Feist-Benary-Synthesis-X1-Chlorine.png]]
+![[content/notes/images/images/Freidlander-Synthesis.png]]
 
 #### Bischler-Napieralski
 
@@ -946,27 +926,7 @@ References:
 
 
 
-![[Bischler-Napieralski.png]]
-
-#### Pellizzari-Reacion
-
-References:   
- [0] [Pellizzari reaction - Wikipedia](https://en.wikipedia.org/wiki/Pellizzari_reaction)  
- [1] [Einhorn–Brunner reaction - Wikipedia](https://en.wikipedia.org/wiki/Einhorn–Brunner_reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A  
-> R2 = L-A  
-> R3 = L-A  
-> 
-
-
-
-
-![[Pellizzari-Reacion.png]]
+![[content/notes/images/images/Bischler-Napieralski.png]]
 
 #### Azaindole-Synthesis
 
@@ -987,26 +947,7 @@ References:
 
 
 
-![[Azaindole-Synthesis.png]]
-
-#### Niementowski-Quinazoline-Synthesis
-
-References:   
- [0] [Niementowski quinazoline synthesis - Wikipedia](https://en.wikipedia.org/wiki/Niementowski_quinazoline_synthesis)  
- [1] [Niementowski Quinazoline Synthesis](https://www.drugfuture.com/OrganicNameReactions/ONR279.htm)  
- 
-
-
- 
-  Condition to enforce: 
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Niementowski-Quinazoline-Synthesis.png]]
+![[content/notes/images/images/Azaindole-Synthesis.png]]
 
 #### Nitrone-Formation
 
@@ -1025,7 +966,66 @@ References:
 
 
 
-![[Nitrone-Formation.png]]
+![[content/notes/images/images/Nitrone-Formation.png]]
+
+#### Feist-Benary-Synthesis-X1-Chlorine
+
+References:   
+ [0] [Feist-Bénary-Reaktion – Wikipedia](https://de.m.wikipedia.org/wiki/Feist-B%C3%A9nary-Reaktion)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Feist-Benary-Synthesis-X1-Chlorine.png]]
+
+#### Niementowski-Quinazoline-Synthesis
+
+References:   
+ [0] [Niementowski quinazoline synthesis - Wikipedia](https://en.wikipedia.org/wiki/Niementowski_quinazoline_synthesis)  
+ [1] [Niementowski Quinazoline Synthesis](https://www.drugfuture.com/OrganicNameReactions/ONR279.htm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Niementowski-Quinazoline-Synthesis.png]]
+
+#### Pellizzari-Reacion
+
+References:   
+ [0] [Pellizzari reaction - Wikipedia](https://en.wikipedia.org/wiki/Pellizzari_reaction)  
+ [1] [Einhorn–Brunner reaction - Wikipedia](https://en.wikipedia.org/wiki/Einhorn–Brunner_reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A  
+> R2 = L-A  
+> R3 = L-A  
+> 
+
+
+
+
+![[content/notes/images/images/Pellizzari-Reacion.png]]
 
 #### Isoindolinone-Synthesis-(1)-X-Iodine
 
@@ -1042,7 +1042,28 @@ References:
 
 
 
-![[Isoindolinone-Synthesis-(1)-X-Iodine.png]]
+![[content/notes/images/images/Isoindolinone-Synthesis-(1)-X-Iodine.png]]
+
+#### Pictet-Gams-Reaction
+
+References:   
+ [0] [Bischler–Napieralski reaction - Wikipedia](https://en.wikipedia.org/wiki/Bischler%E2%80%93Napieralski_reaction#Pictet%E2%80%93Gams_reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A  
+> 
+
+
+
+
+![[content/notes/images/images/Pictet-Gams-Reaction.png]]
 
 #### Doebner-Miller
 
@@ -1065,12 +1086,12 @@ References:
 
 
 
-![[Doebner-Miller.png]]
+![[content/notes/images/images/Doebner-Miller.png]]
 
-#### Pictet-Gams-Reaction
+#### Pyrazole-Synthesis-(SS)
 
 References:   
- [0] [Bischler–Napieralski reaction - Wikipedia](https://en.wikipedia.org/wiki/Bischler%E2%80%93Napieralski_reaction#Pictet%E2%80%93Gams_reaction)  
+ [0] [Pyrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/pyrazoles.shtm)  
  
 
 
@@ -1079,14 +1100,12 @@ References:
 > R1 = L-A, A-Aromatic-Carbon  
 > R2 = L-A, A-Aromatic-Carbon  
 > R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A  
 > 
 
 
 
 
-![[Pictet-Gams-Reaction.png]]
+![[content/notes/images/images/Pyrazole-Synthesis-(SS).png]]
 
 #### Aziridine-1,3-Dipole-Formation
 
@@ -1107,26 +1126,7 @@ References:
 
 
 
-![[Aziridine-1,3-Dipole-Formation.png]]
-
-#### Pyrazole-Synthesis-(SS)
-
-References:   
- [0] [Pyrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/pyrazoles.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Pyrazole-Synthesis-(SS).png]]
+![[content/notes/images/images/Aziridine-1,3-Dipole-Formation.png]]
 
 #### Iodine-Mediated-Cyclization-Indoline-(Dihydroquinolone)
 
@@ -1143,5 +1143,5 @@ References:
 
 
 
-![[Iodine-Mediated-Cyclization-Indoline-(Dihydroquinolone).png]]
+![[content/notes/images/images/Iodine-Mediated-Cyclization-Indoline-(Dihydroquinolone).png]]
 

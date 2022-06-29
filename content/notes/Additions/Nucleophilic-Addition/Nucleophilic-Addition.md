@@ -18,7 +18,7 @@ References:
 
 
 
-![[Riemschneider-Thiocarbamate-Synthesis-Water.png]]
+![[content/notes/images/images/Riemschneider-Thiocarbamate-Synthesis-Water.png]]
 
 #### Amide-Carbonyl-Addition
 
@@ -38,7 +38,7 @@ References:
 
 
 
-![[Amide-Carbonyl-Addition.png]]
+![[content/notes/images/images/Amide-Carbonyl-Addition.png]]
 
 #### Pinner-Reaction-Sulfur
 
@@ -56,25 +56,7 @@ References:
 
 
 
-![[Pinner-Reaction-Sulfur.png]]
-
-#### Pinner-Reaction
-
-References:   
- [0] [Pinner Reaction](https://www.organic-chemistry.org/namedreactions/pinner-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![[Pinner-Reaction.png]]
+![[content/notes/images/images/Pinner-Reaction-Sulfur.png]]
 
 #### Cannizzaro-Reaction
 
@@ -92,7 +74,25 @@ References:
 
 
 
-![[Cannizzaro-Reaction.png]]
+![[content/notes/images/images/Cannizzaro-Reaction.png]]
+
+#### Pinner-Reaction
+
+References:   
+ [0] [Pinner Reaction](https://www.organic-chemistry.org/namedreactions/pinner-reaction.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![[content/notes/images/images/Pinner-Reaction.png]]
 
 #### Nitrile-to-Amide-Basic
 
@@ -109,7 +109,7 @@ References:
 
 
 
-![[Nitrile-to-Amide-Basic.png]]
+![[content/notes/images/images/Nitrile-to-Amide-Basic.png]]
 
 #### Nitrile-to-Amide-Acidic
 
@@ -126,5 +126,5 @@ References:
 
 
 
-![[Nitrile-to-Amide-Acidic.png]]
+![[content/notes/images/images/Nitrile-to-Amide-Acidic.png]]
 
