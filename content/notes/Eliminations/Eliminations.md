@@ -1,7 +1,7 @@
 ---
 tags: ⚙️
 ---
-[named_reactions](/notes/named_reactions/named_reactions.md)
+[named_reactions](/notes/named_reactions.md)
 
 
 
