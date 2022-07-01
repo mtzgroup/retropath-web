@@ -1,4 +1,5 @@
 ---
+title: Other
 tags: ⚙️
 ---
 [named_reactions](/notes/named_reactions.md)

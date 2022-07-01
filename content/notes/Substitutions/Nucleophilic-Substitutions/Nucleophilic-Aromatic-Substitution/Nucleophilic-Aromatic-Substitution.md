@@ -9,16 +9,16 @@ tags: ⚙️
 - Works well with electron withdrawing groups (EWG), such as NO2, since it activates the ring
 - The EWGs work well in the ortho or para positions since the Nu- puts a negative charge on the ring and the EWG can help stabilize it
 
-![NAS](NAS.png)
+![NAS](notes/images/NAS.png)
 
 https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/
 
 
 
-![Ex](example-aromatic-mech-1.png)
+![Ex](/notes/images/example-aromatic-mech-1.png)
 
 
-![Ex](example-aromatic-mech-2.png)
+![Ex](/notes/images/example-aromatic-mech-2.png)
 
 
  https://en.wikipedia.org/wiki/Nucleophilic_aromatic_substitution
