@@ -22,7 +22,7 @@ https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitu
 
 
  https://en.wikipedia.org/wiki/Nucleophilic_aromatic_substitution
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -55,7 +55,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Bromine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -78,7 +78,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Carboxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -102,7 +102,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Sulfonyl.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -113,7 +113,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -145,7 +145,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -156,7 +156,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -177,7 +177,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -198,7 +198,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Alkoxide.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -222,7 +222,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Carboxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -246,7 +246,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Carbonyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -269,7 +269,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Carboxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -303,7 +303,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -338,7 +338,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -360,7 +360,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Amino.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -371,7 +371,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -392,7 +392,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -425,7 +425,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -440,7 +440,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -462,7 +462,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -497,7 +497,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -508,7 +508,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -523,7 +523,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -559,7 +559,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -592,7 +592,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -624,7 +624,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -647,7 +647,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Carboxyl.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -658,7 +658,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -681,7 +681,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -715,7 +715,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -730,7 +730,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Hydroxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -753,7 +753,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -786,7 +786,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -807,7 +807,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -841,7 +841,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -874,7 +874,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -889,7 +889,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -924,7 +924,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -942,7 +942,7 @@ References:
 
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -977,7 +977,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -998,7 +998,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1032,7 +1032,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -1053,7 +1053,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Thiolate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1076,7 +1076,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Carbonyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1098,7 +1098,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1133,7 +1133,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1157,7 +1157,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Carboxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1189,7 +1189,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1223,7 +1223,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -1256,7 +1256,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Alkoxide.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1280,7 +1280,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1313,7 +1313,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -1345,7 +1345,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1368,7 +1368,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1401,7 +1401,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1433,7 +1433,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1466,7 +1466,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1489,7 +1489,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Sulfonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1524,7 +1524,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1557,7 +1557,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Chlorine
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -1588,7 +1588,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -1610,7 +1610,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -1643,7 +1643,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -1675,7 +1675,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1699,7 +1699,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1733,7 +1733,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1757,7 +1757,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Carbonyl.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -1775,7 +1775,7 @@ References:
 
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1799,7 +1799,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Carboxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1823,7 +1823,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Carboxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1846,7 +1846,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Sulfonyl.png)
 
-##### Chihibabin-Reaction
+### Chihibabin-Reaction
 
 References:   
  [0] [Chichibabin reaction - Wikipedia](https://en.wikipedia.org/wiki/Chichibabin_reaction)  
@@ -1866,7 +1866,7 @@ References:
 
 ![image](/notes/images/Chihibabin-Reaction.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -1889,7 +1889,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -1923,7 +1923,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1956,7 +1956,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1991,7 +1991,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Bromine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2013,7 +2013,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -2034,7 +2034,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2069,7 +2069,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Alkane-Lg-Iodine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2092,7 +2092,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -2125,7 +2125,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate.png)
 
-##### Pyridine-N-Oxide-Chlorination-Ortho
+### Pyridine-N-Oxide-Chlorination-Ortho
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -2136,7 +2136,7 @@ References:
  
 ![image](/notes/images/Pyridine-N-Oxide-Chlorination-Ortho.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -2170,7 +2170,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2206,7 +2206,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Pyridine-N-Oxide-Chlorination-Para
+### Pyridine-N-Oxide-Chlorination-Para
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -2217,7 +2217,7 @@ References:
  
 ![image](/notes/images/Pyridine-N-Oxide-Chlorination-Para.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2239,7 +2239,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Nitrile.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2261,7 +2261,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2294,7 +2294,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2328,7 +2328,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2362,7 +2362,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -2384,7 +2384,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2417,7 +2417,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2450,7 +2450,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2484,7 +2484,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2516,7 +2516,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2550,7 +2550,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2574,7 +2574,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Sulfonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -2595,7 +2595,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -2617,7 +2617,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Bromine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2650,7 +2650,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2683,7 +2683,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2716,7 +2716,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2739,7 +2739,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2773,7 +2773,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2807,7 +2807,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2841,7 +2841,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2873,7 +2873,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2908,7 +2908,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2930,7 +2930,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -2945,7 +2945,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Hydroxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -2968,7 +2968,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Carboxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -3001,7 +3001,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3033,7 +3033,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -3044,7 +3044,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Alkoxide.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3067,7 +3067,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -3088,7 +3088,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Fluorine
+### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Fluorine
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -3119,7 +3119,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Fluorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -3140,7 +3140,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Alkoxide.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3163,7 +3163,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Bromine-and-EWG-Sulfonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3197,7 +3197,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Iodine.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -3208,7 +3208,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3241,7 +3241,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3274,7 +3274,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Sulfonate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3297,7 +3297,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Iodine-and-EWG-Sulfonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3333,7 +3333,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3367,7 +3367,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3399,7 +3399,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3431,7 +3431,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3464,7 +3464,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -3482,7 +3482,7 @@ References:
 
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3505,7 +3505,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Iodine-and-EWG-Sulfonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -3539,7 +3539,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Amino.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3563,7 +3563,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Sulfonate-and-EWG-Sulfonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Iodine
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -3594,7 +3594,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Iodine.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -3605,7 +3605,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3629,7 +3629,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Carboxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3663,7 +3663,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3687,7 +3687,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Sulfonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3721,7 +3721,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3755,7 +3755,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3789,7 +3789,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Alkane-Lg-Sulfonate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3812,7 +3812,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -3827,7 +3827,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -3848,7 +3848,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Chlorine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3883,7 +3883,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3907,7 +3907,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3941,7 +3941,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3974,7 +3974,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Alkane-Lg-Chlorine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -3997,7 +3997,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -4018,7 +4018,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Fluorine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4051,7 +4051,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Alkoxide
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -4072,7 +4072,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Iodine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4106,7 +4106,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Alkane-Lg-Iodine.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -4117,7 +4117,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4152,7 +4152,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -4176,7 +4176,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Alkoxide-and-EWG-Sulfonyl.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -4187,7 +4187,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -4220,7 +4220,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Alkoxide.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -4244,7 +4244,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Alkoxide-and-EWG-Carboxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -4278,7 +4278,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Amino.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -4289,7 +4289,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -4322,7 +4322,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4355,7 +4355,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4391,7 +4391,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -4412,7 +4412,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -4433,7 +4433,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Thiolate.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -4444,7 +4444,7 @@ References:
  
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Iodine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4476,7 +4476,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4510,7 +4510,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4545,7 +4545,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4578,7 +4578,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Alkane-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4610,7 +4610,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Thiolate
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -4631,7 +4631,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4665,7 +4665,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4699,7 +4699,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4731,7 +4731,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -4754,7 +4754,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Carbonyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -4777,7 +4777,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Sulfonate-and-EWG-Nitrile.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -4800,7 +4800,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Carboxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -4833,7 +4833,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -4865,7 +4865,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Hydroxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Nitrile
+### Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Nitrile
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -4887,7 +4887,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Chlorine-and-EWG-Nitrile.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -4919,7 +4919,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Fluorine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -4941,7 +4941,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Fluorine-and-Nu-Amino.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -4964,7 +4964,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Chlorine-and-EWG-Sulfonyl.png)
 
-##### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino
+### Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -4982,7 +4982,7 @@ References:
 
 ![image](/notes/images/Substituted-Pyridine-Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -5016,7 +5016,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Carboxyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Carboxyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -5039,7 +5039,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Ortho-X-Bromine-and-EWG-Carboxyl.png)
 
-##### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Carbonyl
+### Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Carbonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  
@@ -5063,7 +5063,7 @@ References:
 
 ![image](/notes/images/Vicarious-Nucleophilic-Substitution-Para-X-Thiolate-and-EWG-Carbonyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -5078,7 +5078,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Iodine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Hydroxyl
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Hydroxyl
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -5093,7 +5093,7 @@ References:
  
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -5115,7 +5115,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Para-Lg-Chlorine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -5149,7 +5149,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide
+### Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -5182,7 +5182,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Chlorine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -5216,7 +5216,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Bromine
+### Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Bromine
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -5247,7 +5247,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Nitric-Acid-Lg-Bromine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate
+### Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate
 
 References:   
  [0] [Nucleophilic Aromatic Substitution: Introduction and Mechanism](https://www.masterorganicchemistry.com/2018/08/20/nucleophilic-aromatic-substitution-nas/)  
@@ -5280,7 +5280,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Lg-Bromine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -5314,7 +5314,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Alpha-Acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Amino
+### Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Amino
 
 References:   
  [0] [organic chemistry - Why does nucleophilic aromatic substitution occur at C-2 and C-4 of pyridine? - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/103097/why-does-nucleophilic-aromatic-substitution-occur-at-c-2-and-c-4-of-pyridine)  
@@ -5336,7 +5336,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aromatic-Substitution-Pyridine-Ortho-Lg-Bromine-and-Nu-Amino.png)
 
-##### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Sulfonyl
+### Vicarious-Nucleophilic-Substitution-Ortho-X-Thiolate-and-EWG-Sulfonyl
 
 References:   
  [0] [Vicarious nucleophilic substitution - Wikipedia](https://en.wikipedia.org/wiki/Vicarious_nucleophilic_substitution)  

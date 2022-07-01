@@ -5,7 +5,7 @@ tags: ⚙️
 [named_reactions](/notes/named_reactions.md)
 
 
-### Formylation-Alpha-Bromo
+## Formylation-Alpha-Bromo
 
 References:   
  [0] [Haloform Reaction](https://www.organic-chemistry.org/namedreactions/haloform-reaction.shtm)  
@@ -24,7 +24,7 @@ References:
 
 ![image](/notes/images/Formylation-Alpha-Bromo.png)
 
-### Dakin-West-Reaction
+## Dakin-West-Reaction
 
 References:   
  [0] [Dakin-West Reaction](https://synarchive.com/named-reactions/dakin-west-reaction)  
@@ -43,7 +43,7 @@ References:
 
 ![image](/notes/images/Dakin-West-Reaction.png)
 
-### Ganem-Oxidation-X-Chlorine
+## Ganem-Oxidation-X-Chlorine
 
 References:   
  [0] [Ganem Oxidation](https://synarchive.com/named-reactions/ganem-oxidation)  
@@ -64,7 +64,7 @@ References:
 
 ![image](/notes/images/Ganem-Oxidation-X-Chlorine.png)
 
-### Ganem-Oxidation-X-Sulfonate
+## Ganem-Oxidation-X-Sulfonate
 
 References:   
  [0] [Ganem Oxidation](https://synarchive.com/named-reactions/ganem-oxidation)  
@@ -86,7 +86,7 @@ References:
 
 ![image](/notes/images/Ganem-Oxidation-X-Sulfonate.png)
 
-### Ugi-Reaction
+## Ugi-Reaction
 
 References:   
  [0] [Ugi Reaction](https://www.organic-chemistry.org/namedreactions/ugi-reaction.shtm)  
@@ -106,7 +106,7 @@ References:
 
 ![image](/notes/images/Ugi-Reaction.png)
 
-### Formylation-Alpha-Iodo
+## Formylation-Alpha-Iodo
 
 References:   
  [0] [Haloform Reaction](https://www.organic-chemistry.org/namedreactions/haloform-reaction.shtm)  
@@ -125,7 +125,7 @@ References:
 
 ![image](/notes/images/Formylation-Alpha-Iodo.png)
 
-### Azo-Coupling
+## Azo-Coupling
 
 References:   
  [0] [Azo Coupling](https://www.organic-chemistry.org/namedreactions/azo-coupling.shtm)  
@@ -136,7 +136,7 @@ References:
  
 ![image](/notes/images/Azo-Coupling.png)
 
-### Hoffmann-Chloramide-Reaction
+## Hoffmann-Chloramide-Reaction
 
 References:   
  [0] [Schotten-Baumann Reaction](https://synarchive.com/named-reactions/schotten-baumann-reaction)  
@@ -153,7 +153,7 @@ References:
 
 ![image](/notes/images/Hoffmann-Chloramide-Reaction.png)
 
-### Hydrolysis-Isocyanide
+## Hydrolysis-Isocyanide
 
 References:   
  [0] [Isocyanide - Wikipedia](https://en.wikipedia.org/wiki/Isocyanide)  
@@ -164,7 +164,7 @@ References:
  
 ![image](/notes/images/Hydrolysis-Isocyanide.png)
 
-### Carbylamine-Reaction
+## Carbylamine-Reaction
 
 References:   
  [0] [Carbylamine Reaction Mechanism - Detailed Explanation with Example Reactions](https://byjus.com/chemistry/carbylamine-reaction-mechanism/)  
@@ -181,7 +181,7 @@ References:
 
 ![image](/notes/images/Carbylamine-Reaction.png)
 
-### Buchner-Curtius-Schlotterbeck-Reaction
+## Buchner-Curtius-Schlotterbeck-Reaction
 
 References:   
  [0] [Büchner-Curtius-Schlotterbeck Reaction](https://synarchive.com/named-reactions/buechner-curtius-schlotterbeck-reaction)  
@@ -201,7 +201,7 @@ References:
 
 ![image](/notes/images/Buchner-Curtius-Schlotterbeck-Reaction.png)
 
-### Hoffmann-Bromamide-Reaction
+## Hoffmann-Bromamide-Reaction
 
 References:   
  [0] [Hoffmann Bromamide Reaction Mechanism - Explanation of Hoffmann Degradation with Examples](https://byjus.com/chemistry/hoffmann-bromamide-reaction-mechanism/)  
@@ -218,7 +218,7 @@ References:
 
 ![image](/notes/images/Hoffmann-Bromamide-Reaction.png)
 
-### Ganem-Oxidation-X-Bromine
+## Ganem-Oxidation-X-Bromine
 
 References:   
  [0] [Ganem Oxidation](https://synarchive.com/named-reactions/ganem-oxidation)  
@@ -239,7 +239,7 @@ References:
 
 ![image](/notes/images/Ganem-Oxidation-X-Bromine.png)
 
-### Perkin-Reaction
+## Perkin-Reaction
 
 References:   
  [0] [Perkin reaction - Wikipedia](https://en.wikipedia.org/wiki/Perkin_reaction)  
@@ -258,7 +258,7 @@ References:
 
 ![image](/notes/images/Perkin-Reaction.png)
 
-### Amine-Deprotection
+## Amine-Deprotection
 
 References:   
  [0] [Amine Protection / Deprotection](https://www.fishersci.co.uk/gb/en/scientific-products/lab-reporter-europe/chemicals/amine-protection-deprotection.html)  
@@ -276,7 +276,7 @@ References:
 
 ![image](/notes/images/Amine-Deprotection.png)
 
-### Passerini-Reaction
+## Passerini-Reaction
 
 References:   
  [0] [Passerini reaction - Wikipedia](https://en.wikipedia.org/wiki/Passerini_reaction)  
@@ -296,7 +296,7 @@ References:
 
 ![image](/notes/images/Passerini-Reaction.png)
 
-### Ramberg-Backlund-Reaction
+## Ramberg-Backlund-Reaction
 
 References:   
  [0] [Ramberg-Bäcklund Reaction](https://www.organic-chemistry.org/namedreactions/ramberg-baecklund-reaction.shtm)  
@@ -317,7 +317,7 @@ References:
 
 ![image](/notes/images/Ramberg-Backlund-Reaction.png)
 
-### Isocyanide-Formation
+## Isocyanide-Formation
 
 References:   
  [0] [organic chemistry - Conversion of formamide to isocyanide - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/60290/conversion-of-formamide-to-isocyanide)  
@@ -335,7 +335,7 @@ References:
 
 ![image](/notes/images/Isocyanide-Formation.png)
 
-### Mannich-Reaction
+## Mannich-Reaction
 
 References:   
  [0] [Mannich Reaction](https://www.organic-chemistry.org/namedreactions/mannich-reaction.shtm)  
@@ -364,7 +364,7 @@ References:
 
 ![image](/notes/images/Mannich-Reaction.png)
 
-### Formylation-Alpha-Chloral
+## Formylation-Alpha-Chloral
 
 References:   
  [0] [Haloform Reaction](https://www.organic-chemistry.org/namedreactions/haloform-reaction.shtm)  
@@ -383,7 +383,7 @@ References:
 
 ![image](/notes/images/Formylation-Alpha-Chloral.png)
 
-### Ganem-Oxidation-X-Iodine
+## Ganem-Oxidation-X-Iodine
 
 References:   
  [0] [Ganem Oxidation](https://synarchive.com/named-reactions/ganem-oxidation)  
@@ -404,7 +404,7 @@ References:
 
 ![image](/notes/images/Ganem-Oxidation-X-Iodine.png)
 
-### Eschenmoser-Fragmentation
+## Eschenmoser-Fragmentation
 
 References:   
  [0] [Eschenmoser Fragmentation](https://synarchive.com/named-reactions/eschenmoser-fragmentation)  
@@ -425,7 +425,7 @@ References:
 
 ![image](/notes/images/Eschenmoser-Fragmentation.png)
 
-### Polonovski-Reaction
+## Polonovski-Reaction
 
 References:   
  [0] [77. Polonovski Reaction](https://www.degruyter.com/document/doi/10.1515/9783110608373-077/html)  

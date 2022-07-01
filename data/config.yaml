@@ -12,6 +12,8 @@ description:
 page_title:
   "🧪 Retropath-Web"
 links:
+  - link_name: Home
+    link: https://mtzweb.stanford.edu
   - link_name: Twitter
     link: https://twitter.com/mtzlab
   - link_name: Github

@@ -5,7 +5,7 @@ tags: ⚙️
 
 [Other](/notes/Other/Other.md)
 
-#### Ozonolysis-Alkyne
+## Ozonolysis-Alkyne
 
 References:   
  [0] [Ozonolysis - Criegee Mechanism](https://www.organic-chemistry.org/namedreactions/ozonolysis-criegee-mechanism.shtm)  
@@ -28,7 +28,7 @@ References:
 
 ![image](/notes/images/Ozonolysis-Alkyne.png)
 
-#### Wharton-Reaction
+## Wharton-Reaction
 
 References:   
  [0] [Wharton Reaction](https://synarchive.com/named-reactions/wharton-reaction)  
@@ -48,7 +48,7 @@ References:
 
 ![image](/notes/images/Wharton-Reaction.png)
 
-#### Ozonolysis-Alkene-Oxidative
+## Ozonolysis-Alkene-Oxidative
 
 References:   
  [0] [Ozonolysis - Criegee Mechanism](https://www.organic-chemistry.org/namedreactions/ozonolysis-criegee-mechanism.shtm)  
@@ -71,7 +71,7 @@ References:
 
 ![image](/notes/images/Ozonolysis-Alkene-Oxidative.png)
 
-#### Ozonolysis-Alkyne-Terminal
+## Ozonolysis-Alkyne-Terminal
 
 References:   
  [0] [Ozonolysis - Criegee Mechanism](https://www.organic-chemistry.org/namedreactions/ozonolysis-criegee-mechanism.shtm)  

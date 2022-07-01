@@ -4,7 +4,7 @@ tags: ⚙️
 ---
 
 [Additions](/notes/Additions/Additions.md)
-#### Halogenation-Allylic-Succinimides-X-Bromine
+## Halogenation-Allylic-Succinimides-X-Bromine
 
 References:   
  [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
@@ -25,7 +25,7 @@ References:
 
 ![image](/notes/images/Halogenation-Allylic-Succinimides-X-Bromine.png)
 
-#### Halogenation-Benzylic-Succinimides-X-Chlorine
+## Halogenation-Benzylic-Succinimides-X-Chlorine
 
 References:   
  [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
@@ -42,7 +42,7 @@ References:
 
 ![image](/notes/images/Halogenation-Benzylic-Succinimides-X-Chlorine.png)
 
-#### Halogenation-Benzylic-Succinimides-X-Iodine
+## Halogenation-Benzylic-Succinimides-X-Iodine
 
 References:   
  [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
@@ -59,7 +59,7 @@ References:
 
 ![image](/notes/images/Halogenation-Benzylic-Succinimides-X-Iodine.png)
 
-#### Halogenation-Allylic-Succinimides-X-Chlorine
+## Halogenation-Allylic-Succinimides-X-Chlorine
 
 References:   
  [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
@@ -80,7 +80,7 @@ References:
 
 ![image](/notes/images/Halogenation-Allylic-Succinimides-X-Chlorine.png)
 
-#### Halogenation-Allylic-Succinimides-X-Iodine
+## Halogenation-Allylic-Succinimides-X-Iodine
 
 References:   
  [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  
@@ -101,7 +101,7 @@ References:
 
 ![image](/notes/images/Halogenation-Allylic-Succinimides-X-Iodine.png)
 
-#### Payne-Oxidation
+## Payne-Oxidation
 
 References:   
  [0] [Payne Epoxidation](https://synarchive.com/named-reactions/payne-epoxidation)  
@@ -122,7 +122,7 @@ References:
 
 ![image](/notes/images/Payne-Oxidation.png)
 
-#### Halogenation-Benzylic-Succinimides-X-Bromine
+## Halogenation-Benzylic-Succinimides-X-Bromine
 
 References:   
  [0] [N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry](https://www.masterorganicchemistry.com/2011/06/10/reagent-friday-nbs-n-bromo-succinimide/)  

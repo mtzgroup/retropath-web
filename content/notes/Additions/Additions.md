@@ -3,7 +3,7 @@ title: Additions
 tags: ⚙️
 ---
 [named_reactions](/notes/named_reactions.md)
-### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl
+## Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -23,7 +23,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl.png)
 
-### Thorpe-Ziegler-Reaction
+## Thorpe-Ziegler-Reaction
 
 References:   
  [0] [Thorpe-Ziegler Reaction](https://synarchive.com/named-reactions/thorpe-ziegler-reaction)  
@@ -41,7 +41,7 @@ References:
 
 ![image](/notes/images/Thorpe-Ziegler-Reaction.png)
 
-### Ketene-Nu-Carboxyl-H
+## Ketene-Nu-Carboxyl-H
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -60,7 +60,7 @@ References:
 
 ![image](/notes/images/Ketene-Nu-Carboxyl-H.png)
 
-### Favorskii-Reaction
+## Favorskii-Reaction
 
 References:   
  [0] [Reactions of Ylides - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Organo-phosphorus_Compounds/Reactivity_of_Phosphorus_Compounds/Reactions_of_Ylides)  
@@ -81,7 +81,7 @@ References:
 
 ![image](/notes/images/Favorskii-Reaction.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl
+## Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -101,7 +101,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl.png)
 
-### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Phosphonate
+## Amidine-Condensation-EWG1-Nitrile-and-EWG2-Phosphonate
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -121,7 +121,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Phosphonate.png)
 
-### Ketene-Cycloaddition-3+2
+## Ketene-Cycloaddition-3+2
 
 References:   
  [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
@@ -145,7 +145,7 @@ References:
 
 ![image](/notes/images/Ketene-Cycloaddition-3+2.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl
+## Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -165,7 +165,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile
+## Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -184,7 +184,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile.png)
 
-### Ketene-Nu-Hydroxyl
+## Ketene-Nu-Hydroxyl
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -202,7 +202,7 @@ References:
 
 ![image](/notes/images/Ketene-Nu-Hydroxyl.png)
 
-### Piperidine-Ring-Synthesis-N-Nu-Carboxyl-H
+## Piperidine-Ring-Synthesis-N-Nu-Carboxyl-H
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -229,7 +229,7 @@ References:
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Carboxyl-H.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate
+## Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -250,7 +250,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate.png)
 
-### Ketene-Cycloaddition-4+2
+## Ketene-Cycloaddition-4+2
 
 References:   
  [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
@@ -272,7 +272,7 @@ References:
 
 ![image](/notes/images/Ketene-Cycloaddition-4+2.png)
 
-### Piperidine-Ring-Synthesis-N-Nu-Alkoxide
+## Piperidine-Ring-Synthesis-N-Nu-Alkoxide
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -299,7 +299,7 @@ References:
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Alkoxide.png)
 
-### Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl
+## Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -325,7 +325,7 @@ References:
 
 ![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl.png)
 
-### Piperidine-Ring-Synthesis-N-Nu-Amino
+## Piperidine-Ring-Synthesis-N-Nu-Amino
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -353,7 +353,7 @@ References:
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Amino.png)
 
-### Thiane-Ring-Synthesis-S-Nu-Hydroxyl
+## Thiane-Ring-Synthesis-S-Nu-Hydroxyl
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -379,7 +379,7 @@ References:
 
 ![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Hydroxyl.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite
+## Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -398,7 +398,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite.png)
 
-### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite
+## Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -417,7 +417,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite.png)
 
-### Nef-Isocyanide-Reaction
+## Nef-Isocyanide-Reaction
 
 References:   
  [0] [Nef isocyanide reaction - Wikipedia](https://en.wikipedia.org/wiki/Nef_isocyanide_reaction)  
@@ -435,7 +435,7 @@ References:
 
 ![image](/notes/images/Nef-Isocyanide-Reaction.png)
 
-### Nitrone-Olefin-3+2-Cycloaddition
+## Nitrone-Olefin-3+2-Cycloaddition
 
 References:   
  [0] [Nitrone-olefin (3+2) cycloaddition - Wikipedia](https://en.wikipedia.org/wiki/Nitrone-olefin_(3%2B2)_cycloaddition)  
@@ -455,7 +455,7 @@ References:
 
 ![image](/notes/images/Nitrone-Olefin-3+2-Cycloaddition.png)
 
-### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile
+## Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -473,7 +473,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile.png)
 
-### Pictet-Spengler
+## Pictet-Spengler
 
 References:   
  [0] [Pictet-Spengler reaction ~ Name-Reaction.com](https://www.name-reaction.com/pictet-spengler-reaction)  
@@ -495,7 +495,7 @@ References:
 
 ![image](/notes/images/Pictet-Spengler.png)
 
-### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrite
+## Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrite
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -513,7 +513,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrite.png)
 
-### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile
+## Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -532,7 +532,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile.png)
 
-### Sulfide-Oxidation-H2O2
+## Sulfide-Oxidation-H2O2
 
 References:   
  [0] [Oxidation of Sulfides - YouTube](https://www.youtube.com/watch?v=-Dyoxm_MKXs&ab_channel=ClutchPrep)  
@@ -543,7 +543,7 @@ References:
  
 ![image](/notes/images/Sulfide-Oxidation-H2O2.png)
 
-### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate
+## Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -563,7 +563,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate.png)
 
-### Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H
+## Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -590,7 +590,7 @@ References:
 
 ![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H.png)
 
-### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Phosphonate
+## Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Phosphonate
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -611,7 +611,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Phosphonate.png)
 
-### Ketene-Nu-Amino
+## Ketene-Nu-Amino
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -631,7 +631,7 @@ References:
 
 ![image](/notes/images/Ketene-Nu-Amino.png)
 
-### Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate
+## Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -653,7 +653,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate.png)
 
-### Pyridine-N-Oxide-Synthesis-mCPBA
+## Pyridine-N-Oxide-Synthesis-mCPBA
 
 References:   
  [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
@@ -664,7 +664,7 @@ References:
  
 ![image](/notes/images/Pyridine-N-Oxide-Synthesis-mCPBA.png)
 
-### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite
+## Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -682,7 +682,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite.png)
 
-### Ketene-Cycloaddition-2+2
+## Ketene-Cycloaddition-2+2
 
 References:   
  [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
@@ -704,7 +704,7 @@ References:
 
 ![image](/notes/images/Ketene-Cycloaddition-2+2.png)
 
-### Piperidine-Ring-Synthesis-N-Nu-Hydroxyl
+## Piperidine-Ring-Synthesis-N-Nu-Hydroxyl
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -730,7 +730,7 @@ References:
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Hydroxyl.png)
 
-### Thiane-Ring-Synthesis-S-Nu-Alkoxide
+## Thiane-Ring-Synthesis-S-Nu-Alkoxide
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -757,7 +757,7 @@ References:
 
 ![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Alkoxide.png)
 
-### Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide
+## Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -784,7 +784,7 @@ References:
 
 ![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide.png)
 
-### Thiane-Ring-Synthesis-S-Nu-Carboxyl-H
+## Thiane-Ring-Synthesis-S-Nu-Carboxyl-H
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -811,7 +811,7 @@ References:
 
 ![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Carboxyl-H.png)
 
-### Sulfoxide-Oxidation-H2O2
+## Sulfoxide-Oxidation-H2O2
 
 References:   
  [0] [Oxidation of Sulfides - YouTube](https://www.youtube.com/watch?v=-Dyoxm_MKXs&ab_channel=ClutchPrep)  
@@ -822,7 +822,7 @@ References:
  
 ![image](/notes/images/Sulfoxide-Oxidation-H2O2.png)
 
-### Tetrahydropyran-Ring-Synthesis-Nu-Amino
+## Tetrahydropyran-Ring-Synthesis-Nu-Amino
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -850,7 +850,7 @@ References:
 
 ![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Amino.png)
 
-### Ketene-Nu-Alkoxide
+## Ketene-Nu-Alkoxide
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -869,7 +869,7 @@ References:
 
 ![image](/notes/images/Ketene-Nu-Alkoxide.png)
 
-### Thiane-Ring-Synthesis-S-Nu-Amino
+## Thiane-Ring-Synthesis-S-Nu-Amino
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  

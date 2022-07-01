@@ -5,7 +5,7 @@ tags: ⚙️
 
 
 
-### Krapcho-Decarboxylation-GWE-Carboxyl
+## Krapcho-Decarboxylation-GWE-Carboxyl
 
 References:   
  [0] [Krapcho Decarboxylation](https://synarchive.com/named-reactions/krapcho-decarboxylation)  
@@ -24,7 +24,7 @@ References:
 
 ![image](/notes/images/Krapcho-Decarboxylation-GWE-Carboxyl.png)
 
-### Benzimidazolone-Synthesis-1-X-Iodine
+## Benzimidazolone-Synthesis-1-X-Iodine
 
 References:   
  [0] [Potassium Hydroxide/Dimethyl Sulfoxide Promoted Intramolecular Cyclization for the Synthesis of Benzimidazol-2-ones](https://www.organic-chemistry.org/abstracts/lit3/291.shtm)  
@@ -42,7 +42,7 @@ References:
 
 ![image](/notes/images/Benzimidazolone-Synthesis-1-X-Iodine.png)
 
-### Semmler-Wolff-Reaction
+## Semmler-Wolff-Reaction
 
 References:   
  [0] [Semmler-Wolff Reaction](https://synarchive.com/named-reactions/semmler-wolff-reaction)  
@@ -53,7 +53,7 @@ References:
  
 ![image](/notes/images/Semmler-Wolff-Reaction.png)
 
-### Jocic-Reaction-pt1-Nu-Hydroxyl
+## Jocic-Reaction-pt1-Nu-Hydroxyl
 
 References:   
  [0] [Jocic Reaction](https://www.organic-chemistry.org/namedreactions/jocic-reaction.shtm)  
@@ -71,7 +71,7 @@ References:
 
 ![image](/notes/images/Jocic-Reaction-pt1-Nu-Hydroxyl.png)
 
-### Aza-Grob-Fragmentation-X-Chlorine
+## Aza-Grob-Fragmentation-X-Chlorine
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -82,7 +82,7 @@ References:
  
 ![image](/notes/images/Aza-Grob-Fragmentation-X-Chlorine.png)
 
-### Jocic-Reaction-pt1-Nu-Thiolate
+## Jocic-Reaction-pt1-Nu-Thiolate
 
 References:   
  [0] [Jocic Reaction](https://www.organic-chemistry.org/namedreactions/jocic-reaction.shtm)  
@@ -101,7 +101,7 @@ References:
 
 ![image](/notes/images/Jocic-Reaction-pt1-Nu-Thiolate.png)
 
-### Elimination-Lg-Hydroxyl
+## Elimination-Lg-Hydroxyl
 
 References:   
  [0] [27.3: Introduction to Elimination Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/27%3A_Reactions_of_Organic_Compounds/27.03%3A_Introduction_to_Elimination_Reactions)  
@@ -117,7 +117,7 @@ References:
  
 ![image](/notes/images/Elimination-Lg-Hydroxyl.png)
 
-### Decarboxylation-Carbamic-Acid
+## Decarboxylation-Carbamic-Acid
 
 References:   
  [0] [Decarboxylation - Wikipedia](https://en.wikipedia.org/wiki/Decarboxylation)  
@@ -136,7 +136,7 @@ References:
 
 ![image](/notes/images/Decarboxylation-Carbamic-Acid.png)
 
-### Elimination-with-Alkyl-Shift-Lg-Bromine
+## Elimination-with-Alkyl-Shift-Lg-Bromine
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -157,7 +157,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Alkyl-Shift-Lg-Bromine.png)
 
-### Oxindole-Synthesis-X-Bromine
+## Oxindole-Synthesis-X-Bromine
 
 References:   
  [0] [Transition-Metal-Free Synthesis of Oxindoles by Potassium tert-Butoxide-Promoted Intramolecular α-Arylation](https://www.organic-chemistry.org/abstracts/lit3/740.shtm)  
@@ -175,7 +175,7 @@ References:
 
 ![image](/notes/images/Oxindole-Synthesis-X-Bromine.png)
 
-### Aza-Grob-Fragmentation-X-Sulfonate
+## Aza-Grob-Fragmentation-X-Sulfonate
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -186,7 +186,7 @@ References:
  
 ![image](/notes/images/Aza-Grob-Fragmentation-X-Sulfonate.png)
 
-### Elimination-Water-Imine
+## Elimination-Water-Imine
 
 References:   
  [0] [Enamines](https://www.masterorganicchemistry.com/2010/05/24/imines-and-enamines/)  
@@ -204,7 +204,7 @@ References:
 
 ![image](/notes/images/Elimination-Water-Imine.png)
 
-### Acetal-Degradation
+## Acetal-Degradation
 
 References:   
  [0] [14.3: Acetal Formation - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue%3A_Chem_26605%3A_Organic_Chemistry_II_(Lipton)/Chapter_14.__Complex_Reaction_Mechanisms/14.3%3A_Acetal_Formation)  
@@ -225,7 +225,7 @@ References:
 
 ![image](/notes/images/Acetal-Degradation.png)
 
-### Elimination-with-Hydride-Shift-Lg-Sulfonate
+## Elimination-with-Hydride-Shift-Lg-Sulfonate
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -248,7 +248,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Hydride-Shift-Lg-Sulfonate.png)
 
-### Elimination-To-Form-Cyclopropanone-Sulfonate
+## Elimination-To-Form-Cyclopropanone-Sulfonate
 
 References:   
  [0] [Favorskii Reaction](https://www.organic-chemistry.org/namedreactions/favorsky-reaction.shtm)  
@@ -268,7 +268,7 @@ References:
 
 ![image](/notes/images/Elimination-To-Form-Cyclopropanone-Sulfonate.png)
 
-### Elimination-with-Hydride-Shift-Lg-Chlorine
+## Elimination-with-Hydride-Shift-Lg-Chlorine
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -290,7 +290,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Hydride-Shift-Lg-Chlorine.png)
 
-### Krapcho-Decarboxylation-GWE-Amide
+## Krapcho-Decarboxylation-GWE-Amide
 
 References:   
  [0] [Krapcho Decarboxylation](https://synarchive.com/named-reactions/krapcho-decarboxylation)  
@@ -310,7 +310,7 @@ References:
 
 ![image](/notes/images/Krapcho-Decarboxylation-GWE-Amide.png)
 
-### Elimination-with-Alkyl-Shift-Lg-Chlorine
+## Elimination-with-Alkyl-Shift-Lg-Chlorine
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -331,7 +331,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Alkyl-Shift-Lg-Chlorine.png)
 
-### Elimination-with-Alkyl-Shift-Lg-Iodine
+## Elimination-with-Alkyl-Shift-Lg-Iodine
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -352,7 +352,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Alkyl-Shift-Lg-Iodine.png)
 
-### Elimination-To-Form-Cyclopropanone-Chlorine
+## Elimination-To-Form-Cyclopropanone-Chlorine
 
 References:   
  [0] [Favorskii Reaction](https://www.organic-chemistry.org/namedreactions/favorsky-reaction.shtm)  
@@ -372,7 +372,7 @@ References:
 
 ![image](/notes/images/Elimination-To-Form-Cyclopropanone-Chlorine.png)
 
-### Aza-Grob-Fragmentation-X-Iodine
+## Aza-Grob-Fragmentation-X-Iodine
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -383,7 +383,7 @@ References:
  
 ![image](/notes/images/Aza-Grob-Fragmentation-X-Iodine.png)
 
-### Alcohol-Elimination-POCl3
+## Alcohol-Elimination-POCl3
 
 References:   
  [0] [Elimination of Alcohols To Alkenes With POCl3 and Pyridine](https://www.masterorganicchemistry.com/2015/04/28/elimination-of-alcohols-to-alkenes-with-pocl3/)  
@@ -403,7 +403,7 @@ References:
 
 ![image](/notes/images/Alcohol-Elimination-POCl3.png)
 
-### Krapcho-Decarboxylation-GWE-Carbonyl
+## Krapcho-Decarboxylation-GWE-Carbonyl
 
 References:   
  [0] [Krapcho Decarboxylation](https://synarchive.com/named-reactions/krapcho-decarboxylation)  
@@ -422,7 +422,7 @@ References:
 
 ![image](/notes/images/Krapcho-Decarboxylation-GWE-Carbonyl.png)
 
-### Robinson-Gabriel-Synthesis
+## Robinson-Gabriel-Synthesis
 
 References:   
  [0] [Robinson–Gabriel synthesis - Wikipedia](https://en.wikipedia.org/wiki/Robinson–Gabriel_synthesis)  
@@ -441,7 +441,7 @@ References:
 
 ![image](/notes/images/Robinson-Gabriel-Synthesis.png)
 
-### Elimination-Acyl-Bromine
+## Elimination-Acyl-Bromine
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -459,7 +459,7 @@ References:
 
 ![image](/notes/images/Elimination-Acyl-Bromine.png)
 
-### Quinone-to-Benzene
+## Quinone-to-Benzene
 
 References:   
  [0] [26.2: Quinones - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/26%3A_More_on_Aromatic_Compounds/26.02%3A_Quinones)  
@@ -478,7 +478,7 @@ References:
 
 ![image](/notes/images/Quinone-to-Benzene.png)
 
-### Elimination-with-Alkyl-Shift-Lg-Ammonia
+## Elimination-with-Alkyl-Shift-Lg-Ammonia
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -502,7 +502,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Alkyl-Shift-Lg-Ammonia.png)
 
-### Elimination-Acyl-Sulfonate
+## Elimination-Acyl-Sulfonate
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -521,7 +521,7 @@ References:
 
 ![image](/notes/images/Elimination-Acyl-Sulfonate.png)
 
-### Grob-Fragmentation-X-Iodine
+## Grob-Fragmentation-X-Iodine
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -532,7 +532,7 @@ References:
  
 ![image](/notes/images/Grob-Fragmentation-X-Iodine.png)
 
-### Elimination-Lg-Iodine
+## Elimination-Lg-Iodine
 
 References:   
  [0] [27.3: Introduction to Elimination Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/27%3A_Reactions_of_Organic_Compounds/27.03%3A_Introduction_to_Elimination_Reactions)  
@@ -548,7 +548,7 @@ References:
  
 ![image](/notes/images/Elimination-Lg-Iodine.png)
 
-### Oxindole-Synthesis-X-Iodine
+## Oxindole-Synthesis-X-Iodine
 
 References:   
  [0] [Transition-Metal-Free Synthesis of Oxindoles by Potassium tert-Butoxide-Promoted Intramolecular α-Arylation](https://www.organic-chemistry.org/abstracts/lit3/740.shtm)  
@@ -566,7 +566,7 @@ References:
 
 ![image](/notes/images/Oxindole-Synthesis-X-Iodine.png)
 
-### Oxindole-Synthesis-X-Chlorine
+## Oxindole-Synthesis-X-Chlorine
 
 References:   
  [0] [Transition-Metal-Free Synthesis of Oxindoles by Potassium tert-Butoxide-Promoted Intramolecular α-Arylation](https://www.organic-chemistry.org/abstracts/lit3/740.shtm)  
@@ -584,7 +584,7 @@ References:
 
 ![image](/notes/images/Oxindole-Synthesis-X-Chlorine.png)
 
-### Jocic-Reaction-pt1-Nu-Amino
+## Jocic-Reaction-pt1-Nu-Amino
 
 References:   
  [0] [Jocic Reaction](https://www.organic-chemistry.org/namedreactions/jocic-reaction.shtm)  
@@ -604,7 +604,7 @@ References:
 
 ![image](/notes/images/Jocic-Reaction-pt1-Nu-Amino.png)
 
-### Decarboxylation-CG-Nitrite
+## Decarboxylation-CG-Nitrite
 
 References:   
  [0] [Decarboxylation - Wikipedia](https://en.wikipedia.org/wiki/Decarboxylation)  
@@ -622,7 +622,7 @@ References:
 
 ![image](/notes/images/Decarboxylation-CG-Nitrite.png)
 
-### Elimination-with-Hydride-Shift-Lg-Bromine
+## Elimination-with-Hydride-Shift-Lg-Bromine
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -644,7 +644,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Hydride-Shift-Lg-Bromine.png)
 
-### Elimination-with-Hydride-Shift-Lg-Iodine
+## Elimination-with-Hydride-Shift-Lg-Iodine
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -666,7 +666,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Hydride-Shift-Lg-Iodine.png)
 
-### Chugaev-Elimination
+## Chugaev-Elimination
 
 References:   
  [0] [Chugaev Elimination](https://synarchive.com/named-reactions/chugaev-elimination)  
@@ -686,7 +686,7 @@ References:
 
 ![image](/notes/images/Chugaev-Elimination.png)
 
-### Elimination-Lg-Alkoxide
+## Elimination-Lg-Alkoxide
 
 References:   
  [0] [27.3: Introduction to Elimination Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/27%3A_Reactions_of_Organic_Compounds/27.03%3A_Introduction_to_Elimination_Reactions)  
@@ -708,7 +708,7 @@ References:
 
 ![image](/notes/images/Elimination-Lg-Alkoxide.png)
 
-### Bamford-Stevens-Reaction
+## Bamford-Stevens-Reaction
 
 References:   
  [0] [Bamford-Stevens Reaction](https://www.organic-chemistry.org/namedreactions/bamford-stevens-reaction.shtm)  
@@ -726,7 +726,7 @@ References:
 
 ![image](/notes/images/Bamford-Stevens-Reaction.png)
 
-### Decarboxylation-CG-Carbonyl
+## Decarboxylation-CG-Carbonyl
 
 References:   
  [0] [Decarboxylation - Wikipedia](https://en.wikipedia.org/wiki/Decarboxylation)  
@@ -745,7 +745,7 @@ References:
 
 ![image](/notes/images/Decarboxylation-CG-Carbonyl.png)
 
-### Elimination-with-Alkyl-Shift-Lg-Sulfonate
+## Elimination-with-Alkyl-Shift-Lg-Sulfonate
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -767,7 +767,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Alkyl-Shift-Lg-Sulfonate.png)
 
-### Jocic-Reaction-pt1-Nu-Alkoxide
+## Jocic-Reaction-pt1-Nu-Alkoxide
 
 References:   
  [0] [Jocic Reaction](https://www.organic-chemistry.org/namedreactions/jocic-reaction.shtm)  
@@ -786,7 +786,7 @@ References:
 
 ![image](/notes/images/Jocic-Reaction-pt1-Nu-Alkoxide.png)
 
-### Jocic-Reaction-pt1-Nu-Azide
+## Jocic-Reaction-pt1-Nu-Azide
 
 References:   
  [0] [Jocic Reaction](https://www.organic-chemistry.org/namedreactions/jocic-reaction.shtm)  
@@ -804,7 +804,7 @@ References:
 
 ![image](/notes/images/Jocic-Reaction-pt1-Nu-Azide.png)
 
-### Grob-Fragmentation-X-Bromine
+## Grob-Fragmentation-X-Bromine
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -815,7 +815,7 @@ References:
  
 ![image](/notes/images/Grob-Fragmentation-X-Bromine.png)
 
-### Elimination-Lg-Sulfonate
+## Elimination-Lg-Sulfonate
 
 References:   
  [0] [27.3: Introduction to Elimination Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/27%3A_Reactions_of_Organic_Compounds/27.03%3A_Introduction_to_Elimination_Reactions)  
@@ -837,7 +837,7 @@ References:
 
 ![image](/notes/images/Elimination-Lg-Sulfonate.png)
 
-### Elimination-Alkene-Lg-Sulfonate
+## Elimination-Alkene-Lg-Sulfonate
 
 References:   
  [0] [Ch9-alkynes.pdf](https://mysite.science.uottawa.ca/sgambarotta/sites/default/files/chm%201321-B/lectures/Ch9-alkynes.pdf)  
@@ -848,7 +848,7 @@ References:
  
 ![image](/notes/images/Elimination-Alkene-Lg-Sulfonate.png)
 
-### Benzimidazolone-Synthesis-1-X-Bromine
+## Benzimidazolone-Synthesis-1-X-Bromine
 
 References:   
  [0] [Potassium Hydroxide/Dimethyl Sulfoxide Promoted Intramolecular Cyclization for the Synthesis of Benzimidazol-2-ones](https://www.organic-chemistry.org/abstracts/lit3/291.shtm)  
@@ -866,7 +866,7 @@ References:
 
 ![image](/notes/images/Benzimidazolone-Synthesis-1-X-Bromine.png)
 
-### Amide-Dehydration-SOBr2
+## Amide-Dehydration-SOBr2
 
 References:   
  [0] [Amide Dehydration Mechanism by SOCl2, POCl3, and P2O5 - Chemistry Steps](https://www.chemistrysteps.com/amide-dehydration-mechanism-by-socl2-pocl3-and-p2o5/)  
@@ -883,7 +883,7 @@ References:
 
 ![image](/notes/images/Amide-Dehydration-SOBr2.png)
 
-### Elimination-Lg-Ammonia
+## Elimination-Lg-Ammonia
 
 References:   
  [0] [27.3: Introduction to Elimination Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/27%3A_Reactions_of_Organic_Compounds/27.03%3A_Introduction_to_Elimination_Reactions)  
@@ -907,7 +907,7 @@ References:
 
 ![image](/notes/images/Elimination-Lg-Ammonia.png)
 
-### Ester-Pyrolysis
+## Ester-Pyrolysis
 
 References:   
  [0] [Ester Pyrolysis](https://www.organic-chemistry.org/namedreactions/ester-pyrolysis.shtm)  
@@ -928,7 +928,7 @@ References:
 
 ![image](/notes/images/Ester-Pyrolysis.png)
 
-### Elimination-Amine-Imine
+## Elimination-Amine-Imine
 
 References:   
  [0] [Enamines](https://www.masterorganicchemistry.com/2010/05/24/imines-and-enamines/)  
@@ -948,7 +948,7 @@ References:
 
 ![image](/notes/images/Elimination-Amine-Imine.png)
 
-### Aza-Grob-Fragmentation-X-Bromine
+## Aza-Grob-Fragmentation-X-Bromine
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -959,7 +959,7 @@ References:
  
 ![image](/notes/images/Aza-Grob-Fragmentation-X-Bromine.png)
 
-### Elimination-Acyl-Iodine
+## Elimination-Acyl-Iodine
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -977,7 +977,7 @@ References:
 
 ![image](/notes/images/Elimination-Acyl-Iodine.png)
 
-### Elimination-Lg-Chlorine
+## Elimination-Lg-Chlorine
 
 References:   
  [0] [27.3: Introduction to Elimination Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/27%3A_Reactions_of_Organic_Compounds/27.03%3A_Introduction_to_Elimination_Reactions)  
@@ -993,7 +993,7 @@ References:
  
 ![image](/notes/images/Elimination-Lg-Chlorine.png)
 
-### Oxindole-Synthesis-X-Fluorine
+## Oxindole-Synthesis-X-Fluorine
 
 References:   
  [0] [Transition-Metal-Free Synthesis of Oxindoles by Potassium tert-Butoxide-Promoted Intramolecular α-Arylation](https://www.organic-chemistry.org/abstracts/lit3/740.shtm)  
@@ -1011,7 +1011,7 @@ References:
 
 ![image](/notes/images/Oxindole-Synthesis-X-Fluorine.png)
 
-### Krapcho-Decarboxylation-GWE-Sulfonyl
+## Krapcho-Decarboxylation-GWE-Sulfonyl
 
 References:   
  [0] [Krapcho Decarboxylation](https://synarchive.com/named-reactions/krapcho-decarboxylation)  
@@ -1030,7 +1030,7 @@ References:
 
 ![image](/notes/images/Krapcho-Decarboxylation-GWE-Sulfonyl.png)
 
-### Elimination-To-Form-Cyclopropanone-Iodine
+## Elimination-To-Form-Cyclopropanone-Iodine
 
 References:   
  [0] [Favorskii Reaction](https://www.organic-chemistry.org/namedreactions/favorsky-reaction.shtm)  
@@ -1050,7 +1050,7 @@ References:
 
 ![image](/notes/images/Elimination-To-Form-Cyclopropanone-Iodine.png)
 
-### Hofmann Elimination
+## Hofmann Elimination
 
 References:   
  [0] [Hofmann Elimination](https://www.organic-chemistry.org/namedreactions/hofmann-elimination.shtm)  
@@ -1073,7 +1073,7 @@ References:
 
 ![image](/notes/images/Hofmann Elimination.png)
 
-### Elimination-Alkene-Lg-Bromine
+## Elimination-Alkene-Lg-Bromine
 
 References:   
  [0] [Ch9-alkynes.pdf](https://mysite.science.uottawa.ca/sgambarotta/sites/default/files/chm%201321-B/lectures/Ch9-alkynes.pdf)  
@@ -1084,7 +1084,7 @@ References:
  
 ![image](/notes/images/Elimination-Alkene-Lg-Bromine.png)
 
-### Elimination-Alkene-Lg-Iodine
+## Elimination-Alkene-Lg-Iodine
 
 References:   
  [0] [Ch9-alkynes.pdf](https://mysite.science.uottawa.ca/sgambarotta/sites/default/files/chm%201321-B/lectures/Ch9-alkynes.pdf)  
@@ -1095,7 +1095,7 @@ References:
  
 ![image](/notes/images/Elimination-Alkene-Lg-Iodine.png)
 
-### Elimination-To-Form-Cyclopropanone-Bromine
+## Elimination-To-Form-Cyclopropanone-Bromine
 
 References:   
  [0] [Favorskii Reaction](https://www.organic-chemistry.org/namedreactions/favorsky-reaction.shtm)  
@@ -1115,7 +1115,7 @@ References:
 
 ![image](/notes/images/Elimination-To-Form-Cyclopropanone-Bromine.png)
 
-### Amide-Dehydration-POCl3
+## Amide-Dehydration-POCl3
 
 References:   
  [0] [Amide Dehydration Mechanism by SOCl2, POCl3, and P2O5 - Chemistry Steps](https://www.chemistrysteps.com/amide-dehydration-mechanism-by-socl2-pocl3-and-p2o5/)  
@@ -1132,7 +1132,7 @@ References:
 
 ![image](/notes/images/Amide-Dehydration-POCl3.png)
 
-### Krapcho-Decarboxylation-GWE-Nitrile
+## Krapcho-Decarboxylation-GWE-Nitrile
 
 References:   
  [0] [Krapcho Decarboxylation](https://synarchive.com/named-reactions/krapcho-decarboxylation)  
@@ -1150,7 +1150,7 @@ References:
 
 ![image](/notes/images/Krapcho-Decarboxylation-GWE-Nitrile.png)
 
-### Decarboxylation-CG-Carboxyl
+## Decarboxylation-CG-Carboxyl
 
 References:   
  [0] [Decarboxylation - Wikipedia](https://en.wikipedia.org/wiki/Decarboxylation)  
@@ -1169,7 +1169,7 @@ References:
 
 ![image](/notes/images/Decarboxylation-CG-Carboxyl.png)
 
-### Elimination-Alkene-Lg-Chlorine
+## Elimination-Alkene-Lg-Chlorine
 
 References:   
  [0] [Ch9-alkynes.pdf](https://mysite.science.uottawa.ca/sgambarotta/sites/default/files/chm%201321-B/lectures/Ch9-alkynes.pdf)  
@@ -1180,7 +1180,7 @@ References:
  
 ![image](/notes/images/Elimination-Alkene-Lg-Chlorine.png)
 
-### Amide-Dehydration-SOCl2
+## Amide-Dehydration-SOCl2
 
 References:   
  [0] [Amide Dehydration Mechanism by SOCl2, POCl3, and P2O5 - Chemistry Steps](https://www.chemistrysteps.com/amide-dehydration-mechanism-by-socl2-pocl3-and-p2o5/)  
@@ -1197,7 +1197,7 @@ References:
 
 ![image](/notes/images/Amide-Dehydration-SOCl2.png)
 
-### Elimination-Hemiacetal
+## Elimination-Hemiacetal
 
 References:   
  [0] [14.3: Acetal Formation - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue%3A_Chem_26605%3A_Organic_Chemistry_II_(Lipton)/Chapter_14.__Complex_Reaction_Mechanisms/14.3%3A_Acetal_Formation)  
@@ -1209,7 +1209,7 @@ References:
  
 ![image](/notes/images/Elimination-Hemiacetal.png)
 
-### Hemi-Acetal-Degradation
+## Hemi-Acetal-Degradation
 
 References:   
  [0] [14.3: Acetal Formation - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue%3A_Chem_26605%3A_Organic_Chemistry_II_(Lipton)/Chapter_14.__Complex_Reaction_Mechanisms/14.3%3A_Acetal_Formation)  
@@ -1229,7 +1229,7 @@ References:
 
 ![image](/notes/images/Hemi-Acetal-Degradation.png)
 
-### Elimination-Lg-Bromine
+## Elimination-Lg-Bromine
 
 References:   
  [0] [27.3: Introduction to Elimination Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/27%3A_Reactions_of_Organic_Compounds/27.03%3A_Introduction_to_Elimination_Reactions)  
@@ -1245,7 +1245,7 @@ References:
  
 ![image](/notes/images/Elimination-Lg-Bromine.png)
 
-### Elimination-with-Alkyl-Shift-Lg-Hydroxyl
+## Elimination-with-Alkyl-Shift-Lg-Hydroxyl
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -1266,7 +1266,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Alkyl-Shift-Lg-Hydroxyl.png)
 
-### Grob-Fragmentation-X-Chlorine
+## Grob-Fragmentation-X-Chlorine
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -1277,7 +1277,7 @@ References:
  
 ![image](/notes/images/Grob-Fragmentation-X-Chlorine.png)
 
-### Krapcho-Decarboxylation-GWE-Nitrite
+## Krapcho-Decarboxylation-GWE-Nitrite
 
 References:   
  [0] [Krapcho Decarboxylation](https://synarchive.com/named-reactions/krapcho-decarboxylation)  
@@ -1295,7 +1295,7 @@ References:
 
 ![image](/notes/images/Krapcho-Decarboxylation-GWE-Nitrite.png)
 
-### Elimination-with-Hydride-Shift-Lg-Ammonia
+## Elimination-with-Hydride-Shift-Lg-Ammonia
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -1320,7 +1320,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Hydride-Shift-Lg-Ammonia.png)
 
-### Elimination-Acyl-Chlorine
+## Elimination-Acyl-Chlorine
 
 References:   
  [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
@@ -1338,7 +1338,7 @@ References:
 
 ![image](/notes/images/Elimination-Acyl-Chlorine.png)
 
-### Grob-Fragmentation-X-Sulfonate
+## Grob-Fragmentation-X-Sulfonate
 
 References:   
  [0] [Grob fragmentation - Wikipedia](https://en.wikipedia.org/wiki/Grob_fragmentation)  
@@ -1349,7 +1349,7 @@ References:
  
 ![image](/notes/images/Grob-Fragmentation-X-Sulfonate.png)
 
-### Elimination-with-Hydride-Shift-Lg-Hydroxyl
+## Elimination-with-Hydride-Shift-Lg-Hydroxyl
 
 References:   
  [0] [E1 Reactions With Rearrangement - Alkyl and Hyride Shifts](https://www.masterorganicchemistry.com/2012/11/09/e1-reaction-rearrangement/)  
@@ -1371,7 +1371,7 @@ References:
 
 ![image](/notes/images/Elimination-with-Hydride-Shift-Lg-Hydroxyl.png)
 
-### Cope-Elimination
+## Cope-Elimination
 
 References:   
  [0] [Cope Elimination](https://www.organic-chemistry.org/namedreactions/cope-elimination.shtm)  

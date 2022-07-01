@@ -5,7 +5,7 @@ tags: ⚙️
 
 
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -28,7 +28,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -50,7 +50,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Iodine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Iodine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -71,7 +71,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -94,7 +94,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -117,7 +117,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
-##### Epoxide-Ring-Opening-Nu-Thiolate-acid
+### Epoxide-Ring-Opening-Nu-Thiolate-acid
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -139,7 +139,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Thiolate-acid.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -162,7 +162,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Chlorine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -183,7 +183,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Iodine
 
 References:   
  [0] [Alkylation of Amines (Sucks!) – Master Organic Chemistry](https://www.masterorganicchemistry.com/2017/05/26/alkylation-of-amines-is-generally-a-crap-reaction/)  
@@ -205,7 +205,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -230,7 +230,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Amide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Amide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -251,7 +251,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Amide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -272,7 +272,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -295,7 +295,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -318,7 +318,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Amino
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Amino
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -343,7 +343,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Iodine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Iodine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -363,7 +363,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Thiolate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Thiolate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -383,7 +383,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-ONO
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-ONO
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -404,7 +404,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-ONO.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -426,7 +426,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Sulfonamide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Sulfonamide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -447,7 +447,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Sulfonamide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Amide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Amide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -468,7 +468,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Amide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfate-and-Nu-Nitrile
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfate-and-Nu-Nitrile
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -489,7 +489,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfate-and-Nu-Nitrile.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Amide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Amide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -511,7 +511,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Amide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -533,7 +533,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-N-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -557,7 +557,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -577,7 +577,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Azide.png)
 
-##### Epoxide-Ring-Opening-Nu-Chlorine-acid
+### Epoxide-Ring-Opening-Nu-Chlorine-acid
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -598,7 +598,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Chlorine-acid.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-O-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-O-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -619,7 +619,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-O-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -640,7 +640,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -663,7 +663,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -684,7 +684,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -705,7 +705,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Azide.png)
 
-##### Epoxide-Ring-Opening-Nu-Amino-basic
+### Epoxide-Ring-Opening-Nu-Amino-basic
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -728,7 +728,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Amino-basic.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -752,7 +752,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -775,7 +775,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Carboxyl-H
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Carboxyl-H
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -796,7 +796,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Carboxyl-H.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -821,7 +821,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -842,7 +842,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-N-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Hydroxyl
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Hydroxyl
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -862,7 +862,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -885,7 +885,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Hydroxyl
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Hydroxyl
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -904,7 +904,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Nitrate-and-Nu-Hydroxyl
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Nitrate-and-Nu-Hydroxyl
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -924,7 +924,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Nitrate-and-Nu-Hydroxyl.png)
 
-##### Epoxide-Ring-Opening-Nu-Iodine-acid
+### Epoxide-Ring-Opening-Nu-Iodine-acid
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -945,7 +945,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Iodine-acid.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-ONO
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-ONO
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -966,7 +966,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-ONO.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Bromine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Bromine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -987,7 +987,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1011,7 +1011,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Epoxide-Ring-Opening-Nu-Nitrile-basic
+### Epoxide-Ring-Opening-Nu-Nitrile-basic
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -1032,7 +1032,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Nitrile-basic.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Chlorine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1053,7 +1053,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1076,7 +1076,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Chlorine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1095,7 +1095,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1117,7 +1117,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Carboxyl-H
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Carboxyl-H
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1138,7 +1138,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Carboxyl-H.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1160,7 +1160,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1186,7 +1186,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1210,7 +1210,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1234,7 +1234,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1258,7 +1258,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1280,7 +1280,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrile
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrile
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1301,7 +1301,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrile.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1323,7 +1323,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-ONO
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-ONO
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1345,7 +1345,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-ONO.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrile
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrile
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1366,7 +1366,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrile.png)
 
-##### Epoxide-Ring-Opening-Nu-Thiolate-basic
+### Epoxide-Ring-Opening-Nu-Thiolate-basic
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -1388,7 +1388,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Thiolate-basic.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Carboxyl-H
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Carboxyl-H
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1410,7 +1410,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Carboxyl-H.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1434,7 +1434,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
-##### Epoxide-Ring-Opening-Nu-Hydroxyl-acid
+### Epoxide-Ring-Opening-Nu-Hydroxyl-acid
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -1455,7 +1455,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Hydroxyl-acid.png)
 
-##### Nucleophilic-Substitution-Enamine-Lg-Chlorine
+### Nucleophilic-Substitution-Enamine-Lg-Chlorine
 
 References:   
  [0] [Enamine - Wikipedia](https://en.wikipedia.org/wiki/Enamine)  
@@ -1476,7 +1476,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Substitution-Enamine-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Bromine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Bromine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1495,7 +1495,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1517,7 +1517,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-O-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-O-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1539,7 +1539,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-O-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1561,7 +1561,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1581,7 +1581,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Azide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1601,7 +1601,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Azide.png)
 
-##### Epoxide-Ring-Opening-Nu-Azide-basic
+### Epoxide-Ring-Opening-Nu-Azide-basic
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -1622,7 +1622,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Azide-basic.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1645,7 +1645,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1668,7 +1668,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1690,7 +1690,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Alkoxide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Alkoxide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1711,7 +1711,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1730,7 +1730,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrate.png)
 
-##### Epoxide-Ring-Opening-Nu-Azide-acid
+### Epoxide-Ring-Opening-Nu-Azide-acid
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -1751,7 +1751,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Azide-acid.png)
 
-##### Nucleophilic-Substitution-Enamine-Lg-Sulfonate
+### Nucleophilic-Substitution-Enamine-Lg-Sulfonate
 
 References:   
  [0] [Enamine - Wikipedia](https://en.wikipedia.org/wiki/Enamine)  
@@ -1773,7 +1773,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Substitution-Enamine-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrile
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrile
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1795,7 +1795,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrile.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-O-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-O-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1816,7 +1816,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-O-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1839,7 +1839,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1861,7 +1861,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Amino
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Amino
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1886,7 +1886,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1908,7 +1908,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1930,7 +1930,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1954,7 +1954,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -1976,7 +1976,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -1997,7 +1997,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2017,7 +2017,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Azide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2038,7 +2038,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Azide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-ONO
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-ONO
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2059,7 +2059,7 @@ chief product.](http://www.organicmystery.com/HaloGroup/halo-group-question-10.p
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-ONO.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Amino
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Amino
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2084,7 +2084,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Amino.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Thiolate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Thiolate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2105,7 +2105,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Alkoxide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Alkoxide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2126,7 +2126,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Sulfonate
 
 References:   
  [0] [Alkylation of Amines (Sucks!) – Master Organic Chemistry](https://www.masterorganicchemistry.com/2017/05/26/alkylation-of-amines-is-generally-a-crap-reaction/)  
@@ -2149,7 +2149,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Chlorine
 
 References:   
  [0] [Alkylation of Amines (Sucks!) – Master Organic Chemistry](https://www.masterorganicchemistry.com/2017/05/26/alkylation-of-amines-is-generally-a-crap-reaction/)  
@@ -2171,7 +2171,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2193,7 +2193,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Amide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Amide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2214,7 +2214,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-N-Amide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2239,7 +2239,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2262,7 +2262,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Chlorine-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Chlorine-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2282,7 +2282,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Chlorine-and-Nu-Azide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2305,7 +2305,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Iodine.png)
 
-##### Nucleophilic-Substitution-Enamine-Lg-Bromine
+### Nucleophilic-Substitution-Enamine-Lg-Bromine
 
 References:   
  [0] [Enamine - Wikipedia](https://en.wikipedia.org/wiki/Enamine)  
@@ -2326,7 +2326,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Substitution-Enamine-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Carboxyl-H
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Carboxyl-H
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2347,7 +2347,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Carboxyl-H.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2370,7 +2370,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Sulfonamide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Sulfonamide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2391,7 +2391,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Sulfonamide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2415,7 +2415,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2436,7 +2436,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Epoxide-Ring-Opening-Nu-Carboxyl-H-basic
+### Epoxide-Ring-Opening-Nu-Carboxyl-H-basic
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -2458,7 +2458,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Carboxyl-H-basic.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2479,7 +2479,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2501,7 +2501,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2524,7 +2524,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2547,7 +2547,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Bromine.png)
 
-##### Epoxide-Ring-Opening-Nu-Alkoxide-acid
+### Epoxide-Ring-Opening-Nu-Alkoxide-acid
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -2569,7 +2569,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Alkoxide-acid.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Alkoxide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Alkoxide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2590,7 +2590,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2612,7 +2612,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrite-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2633,7 +2633,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-N-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2656,7 +2656,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Chlorine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2675,7 +2675,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Iodine-and-Nu-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2696,7 +2696,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Epoxide-Ring-Opening-Nu-Alkoxide-basic
+### Epoxide-Ring-Opening-Nu-Alkoxide-basic
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -2718,7 +2718,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Alkoxide-basic.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2742,7 +2742,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Iodine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Iodine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2763,7 +2763,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2786,7 +2786,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carboxyl-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2809,7 +2809,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2834,7 +2834,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2858,7 +2858,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Sulfonamide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Sulfonamide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2880,7 +2880,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Sulfonamide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Thiolate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Thiolate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2900,7 +2900,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Bromine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Bromine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2921,7 +2921,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Thiolate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Thiolate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2941,7 +2941,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Thiolate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Amino
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Amino
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -2967,7 +2967,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Amino.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -2990,7 +2990,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3013,7 +3013,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carboxyl-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3035,7 +3035,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Nitrite-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrile
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrile
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3056,7 +3056,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Nitrile.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3079,7 +3079,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrite-and-EWG2-Phosphonate-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3100,7 +3100,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Bromine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Bromine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3120,7 +3120,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3144,7 +3144,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Carboxyl-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3164,7 +3164,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Nitrate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3186,7 +3186,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3210,7 +3210,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3233,7 +3233,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3256,7 +3256,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Alkoxide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Alkoxide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3278,7 +3278,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Sulfonate-and-Nu-Alkoxide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3297,7 +3297,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-Nitrate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3319,7 +3319,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Nitrile-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Nitrate
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Nitrate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3339,7 +3339,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Hydroxyl-and-Nu-Nitrate.png)
 
-##### Nucleophilic-Substitution-Enamine-Lg-Iodine
+### Nucleophilic-Substitution-Enamine-Lg-Iodine
 
 References:   
  [0] [Enamine - Wikipedia](https://en.wikipedia.org/wiki/Enamine)  
@@ -3360,7 +3360,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Substitution-Enamine-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3381,7 +3381,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrile-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Sulfonamide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Sulfonamide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3402,7 +3402,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Sulfonamide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3426,7 +3426,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Bromine
+### Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Bromine
 
 References:   
  [0] [Alkylation of Amines (Sucks!) – Master Organic Chemistry](https://www.masterorganicchemistry.com/2017/05/26/alkylation-of-amines-is-generally-a-crap-reaction/)  
@@ -3448,7 +3448,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Tertiary-Amine-Lg-Bromine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Chlorine
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Chlorine
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3468,7 +3468,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Sulfonate-and-Nu-Chlorine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Hydroxyl
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Hydroxyl
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3487,7 +3487,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Chlorine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3510,7 +3510,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrile-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3532,7 +3532,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Azide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3552,7 +3552,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Bromine-and-Nu-Azide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-O-Carbamate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-O-Carbamate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3573,7 +3573,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Iodine-and-Nu-O-Carbamate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3594,7 +3594,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrate
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrate
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3613,7 +3613,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Nitrate.png)
 
-##### Epoxide-Ring-Opening-Nu-Hydroxyl-basic
+### Epoxide-Ring-Opening-Nu-Hydroxyl-basic
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  
@@ -3634,7 +3634,7 @@ References:
 
 ![image](/notes/images/Epoxide-Ring-Opening-Nu-Hydroxyl-basic.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Hydroxyl
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Hydroxyl
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3653,7 +3653,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Hydroxyl.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3678,7 +3678,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Phosphonate-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Azide
+### Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Azide
 
 References:   
  [0] [Sn2](http://www1.biologie.uni-hamburg.de/b-online/library/newton/Chy251_253/Lectures/Sn2LeavingGroups/Sn2LeavingGroups.html)  
@@ -3698,7 +3698,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Basic-Lg-Bromine-and-Nu-Azide.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3720,7 +3720,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Nitrite-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3744,7 +3744,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carbonyl-and-EWG2-Carbonyl-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3766,7 +3766,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Nitrile-and-EWG2-Nitrite-Lg-Sulfonate.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3791,7 +3791,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Phosphonate-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine
+### Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine
 
 References:   
  [0] [Acetoacetic-Ester Synthesis](https://www.organic-chemistry.org/namedreactions/acetoacetic-ester-synthesis.shtm)  
@@ -3815,7 +3815,7 @@ References:
 
 ![image](/notes/images/Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Carboxyl-and-EWG2-Phosphonate-Lg-Iodine.png)
 
-##### Epoxide-Ring-Opening-Nu-Bromine-acid
+### Epoxide-Ring-Opening-Nu-Bromine-acid
 
 References:   
  [0] [Epoxidation - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkenes/Reactivity_of_Alkenes/Stereoselectivity_in_Addition_Reactions_to_Double_Bonds/Oxidations/Epoxidation)  

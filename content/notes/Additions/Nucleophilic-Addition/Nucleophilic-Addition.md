@@ -4,7 +4,7 @@ tags: ⚙️
 ---
 
 [Additions](/notes/Additions.md)
-#### Riemschneider-Thiocarbamate-Synthesis-Water
+## Riemschneider-Thiocarbamate-Synthesis-Water
 
 References:   
  [0] [Riemschneider thiocarbamate synthesis - Wikipedia](https://en.wikipedia.org/wiki/Riemschneider_thiocarbamate_synthesis)  
@@ -21,7 +21,7 @@ References:
 
 ![image](/notes/images/Riemschneider-Thiocarbamate-Synthesis-Water.png)
 
-#### Amide-Carbonyl-Addition
+## Amide-Carbonyl-Addition
 
 References:   
  [0] [General Mechanism of Amide Reactions - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Amides/Reactivity_of_Amides/General_Mechanism_of_Amide_Reactions)  
@@ -41,7 +41,7 @@ References:
 
 ![image](/notes/images/Amide-Carbonyl-Addition.png)
 
-#### Pinner-Reaction
+## Pinner-Reaction
 
 References:   
  [0] [Pinner Reaction](https://www.organic-chemistry.org/namedreactions/pinner-reaction.shtm)  
@@ -59,7 +59,7 @@ References:
 
 ![image](/notes/images/Pinner-Reaction.png)
 
-#### Nitrile-to-Amide-Acidic
+## Nitrile-to-Amide-Acidic
 
 References:   
  [0] [The Mechanism of Nitrile Hydrolysis To Carboxylic Acid - Chemistry Steps](https://www.chemistrysteps.com/the-mechanism-of-nitrile-hydrolysis-to-carboxylic-acid/)  
@@ -76,7 +76,7 @@ References:
 
 ![image](/notes/images/Nitrile-to-Amide-Acidic.png)
 
-#### Pinner-Reaction-Sulfur
+## Pinner-Reaction-Sulfur
 
 References:   
  [0] [Thionoester synthesis by thionation](https://www.organic-chemistry.org/synthesis/C2S/thionoesters.shtm)  
@@ -94,7 +94,7 @@ References:
 
 ![image](/notes/images/Pinner-Reaction-Sulfur.png)
 
-#### Cannizzaro-Reaction
+## Cannizzaro-Reaction
 
 References:   
  [0] [Cannizzaro reaction - Wikipedia](https://en.wikipedia.org/wiki/Cannizzaro_reaction)  
@@ -112,7 +112,7 @@ References:
 
 ![image](/notes/images/Cannizzaro-Reaction.png)
 
-#### Nitrile-to-Amide-Basic
+## Nitrile-to-Amide-Basic
 
 References:   
  [0] [The Mechanism of Nitrile Hydrolysis To Carboxylic Acid - Chemistry Steps](https://www.chemistrysteps.com/the-mechanism-of-nitrile-hydrolysis-to-carboxylic-acid/)  

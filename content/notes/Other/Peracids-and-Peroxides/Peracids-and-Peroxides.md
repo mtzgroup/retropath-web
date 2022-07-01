@@ -4,7 +4,7 @@ tags: ⚙️
 ---
 
 [Other](/notes/Other/Other.md)
-#### Rubottom-Oxidation
+## Rubottom-Oxidation
 
 References:   
  [0] [Rubottom Oxidation](https://synarchive.com/named-reactions/rubottom-oxidation)  
@@ -27,7 +27,7 @@ References:
 
 ![image](/notes/images/Rubottom-Oxidation.png)
 
-#### Prilezhaev-Epoxidation
+## Prilezhaev-Epoxidation
 
 References:   
  [0] [Prilezhaev Reaction](https://www.organic-chemistry.org/namedreactions/prilezhaev-reaction.shtm)  
@@ -49,7 +49,7 @@ References:
 
 ![image](/notes/images/Prilezhaev-Epoxidation.png)
 
-#### Dakin-Oxidation-Acid
+## Dakin-Oxidation-Acid
 
 References:   
  [0] [Dakin Oxidation](https://synarchive.com/named-reactions/dakin-oxidation)  
@@ -66,7 +66,7 @@ References:
 
 ![image](/notes/images/Dakin-Oxidation-Acid.png)
 
-#### Baeyer-Villiger-Oxidation-Peracid
+## Baeyer-Villiger-Oxidation-Peracid
 
 References:   
  [0] [Baeyer-Villiger Oxidation](https://www.organic-chemistry.org/namedreactions/baeyer-villiger-oxidation.shtm)  
@@ -86,7 +86,7 @@ References:
 
 ![image](/notes/images/Baeyer-Villiger-Oxidation-Peracid.png)
 
-#### Dakin-Oxidation-Basic
+## Dakin-Oxidation-Basic
 
 References:   
  [0] [Dakin Oxidation](https://synarchive.com/named-reactions/dakin-oxidation)  
@@ -103,7 +103,7 @@ References:
 
 ![image](/notes/images/Dakin-Oxidation-Basic.png)
 
-#### Oxaziridine-Synthesis
+## Oxaziridine-Synthesis
 
 References:   
  [0] [Pomeranz–Fritsch reaction - Wikipedia](https://en.wikipedia.org/wiki/Pomeranz%E2%80%93Fritsch_reaction)  

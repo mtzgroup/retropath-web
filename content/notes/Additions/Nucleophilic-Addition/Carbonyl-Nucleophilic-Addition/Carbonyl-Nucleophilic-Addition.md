@@ -6,7 +6,7 @@ tags: ⚙️
 [Additions](/notes/Additions/Nucleophilic-Addition.md)
 
 
-##### Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile
+### Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile
 
 References:   
  [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
@@ -33,7 +33,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile.png)
 
-##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate
+### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate
 
 References:   
  [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
@@ -60,7 +60,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Thiolate.png)
 
-##### Carbonyl-Nucleophilic-Addition-Enols-Acidic
+### Carbonyl-Nucleophilic-Addition-Enols-Acidic
 
 References:   
  [0] [ch17-3-0.html](https://www.chem.ucalgary.ca/courses/351/Carey5th/Ch17/ch17-3-0.html)  
@@ -96,7 +96,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Acidic.png)
 
-##### Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate
+### Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate
 
 References:   
  [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
@@ -124,7 +124,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Thiolate.png)
 
-##### Aldol-Condensation-Basic
+### Aldol-Condensation-Basic
 
 References:   
  [0] [Aldol condensation - Wikipedia](https://en.wikipedia.org/wiki/Aldol_condensation)  
@@ -158,7 +158,7 @@ References:
 
 ![image](/notes/images/Aldol-Condensation-Basic.png)
 
-##### Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide
+### Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide
 
 References:   
  [0] [Leimgruber-Batcho Indole Synthesis](https://synarchive.com/named-reactions/leimgruber-batcho-indole-synthesis)  
@@ -186,7 +186,7 @@ References:
 
 ![image](/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png)
 
-##### Henry-Reaction
+### Henry-Reaction
 
 References:   
  [0] [Henry Reaction](https://www.organic-chemistry.org/namedreactions/henry-reaction.shtm)  
@@ -211,7 +211,7 @@ References:
 
 ![image](/notes/images/Henry-Reaction.png)
 
-##### Aldol-Condensation-Amide-Basic
+### Aldol-Condensation-Amide-Basic
 
 References:   
  [0] [Aldol condensation - Wikipedia](https://en.wikipedia.org/wiki/Aldol_condensation)  
@@ -233,7 +233,7 @@ References:
 
 ![image](/notes/images/Aldol-Condensation-Amide-Basic.png)
 
-##### Prins-Reaction-1
+### Prins-Reaction-1
 
 References:   
  [0] [Prins Reaction](https://www.organic-chemistry.org/namedreactions/prins-reaction.shtm)  
@@ -252,7 +252,7 @@ References:
 
 ![image](/notes/images/Prins-Reaction-1.png)
 
-##### Isocyanate-Carbonyl-Addition-Nu-Nitrite
+### Isocyanate-Carbonyl-Addition-Nu-Nitrite
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -277,7 +277,7 @@ References:
 
 ![image](/notes/images/Isocyanate-Carbonyl-Addition-Nu-Nitrite.png)
 
-##### Conjugated-Thiophilic-Aldol-Reaction
+### Conjugated-Thiophilic-Aldol-Reaction
 
 References:   
  [0] [Carbodithioic Acid Esters | SpringerLink](https://link.springer.com/chapter/10.1007/b101009)  
@@ -299,7 +299,7 @@ References:
 
 ![image](/notes/images/Conjugated-Thiophilic-Aldol-Reaction.png)
 
-##### Aldol-Condensation-Acidic
+### Aldol-Condensation-Acidic
 
 References:   
  [0] [Aldol condensation - Wikipedia](https://en.wikipedia.org/wiki/Aldol_condensation)  
@@ -326,7 +326,7 @@ References:
 
 ![image](/notes/images/Aldol-Condensation-Acidic.png)
 
-##### Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl
+### Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -351,7 +351,7 @@ References:
 
 ![image](/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Hydroxyl.png)
 
-##### Isocyanate-Carbonyl-Addition-Nu-Alkoxide
+### Isocyanate-Carbonyl-Addition-Nu-Alkoxide
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -377,7 +377,7 @@ References:
 
 ![image](/notes/images/Isocyanate-Carbonyl-Addition-Nu-Alkoxide.png)
 
-##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile
+### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile
 
 References:   
  [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
@@ -403,7 +403,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Nitrile.png)
 
-##### Knoevenangel-Condensation
+### Knoevenangel-Condensation
 
 References: 0 
 
@@ -420,7 +420,7 @@ References: 0
 
 ![image](/notes/images/Knoevenangel-Condensation.png)
 
-##### Isothiocyanate-Carbonyl-Addition-Nu-Amino
+### Isothiocyanate-Carbonyl-Addition-Nu-Amino
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -447,7 +447,7 @@ References:
 
 ![image](/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Amino.png)
 
-##### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide
+### Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide
 
 References:   
  [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
@@ -474,7 +474,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Acidic-Nu-Alkoxide.png)
 
-##### Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate
+### Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate
 
 References:   
  [0] [Leimgruber-Batcho Indole Synthesis](https://synarchive.com/named-reactions/leimgruber-batcho-indole-synthesis)  
@@ -502,7 +502,7 @@ References:
 
 ![image](/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Thiolate.png)
 
-##### Iminium-Nucleophilic-Addition-Acidic-Nu-Amino
+### Iminium-Nucleophilic-Addition-Acidic-Nu-Amino
 
 References:   
  [0] [Leimgruber-Batcho Indole Synthesis](https://synarchive.com/named-reactions/leimgruber-batcho-indole-synthesis)  
@@ -531,7 +531,7 @@ References:
 
 ![image](/notes/images/Iminium-Nucleophilic-Addition-Acidic-Nu-Amino.png)
 
-##### Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide
+### Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide
 
 References:   
  [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
@@ -559,7 +559,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Basic-Nu-Alkoxide.png)
 
-##### Cyanomethanide-Carbonyl-Addition
+### Cyanomethanide-Carbonyl-Addition
 
 References:   
  [0] [Thorpe-Ziegler Reaction](https://synarchive.com/named-reactions/thorpe-ziegler-reaction)  
@@ -585,7 +585,7 @@ References:
 
 ![image](/notes/images/Cyanomethanide-Carbonyl-Addition.png)
 
-##### Isocyanate-Carbonyl-Addition-Nu-Amino
+### Isocyanate-Carbonyl-Addition-Nu-Amino
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -612,7 +612,7 @@ References:
 
 ![image](/notes/images/Isocyanate-Carbonyl-Addition-Nu-Amino.png)
 
-##### Carbonyl-Nucleophilic-Addition-Enols-Basic
+### Carbonyl-Nucleophilic-Addition-Enols-Basic
 
 References:   
  [0] [Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2010/05/10/carbonyl-mechanisms-neutral-nucleophiles-part-1/)  
@@ -650,7 +650,7 @@ References:
 
 ![image](/notes/images/Carbonyl-Nucleophilic-Addition-Enols-Basic.png)
 
-##### Thiophilic-Aldol-Reaction
+### Thiophilic-Aldol-Reaction
 
 References:   
  [0] [Carbodithioic Acid Esters | SpringerLink](https://link.springer.com/chapter/10.1007/b101009)  
@@ -670,7 +670,7 @@ References:
 
 ![image](/notes/images/Thiophilic-Aldol-Reaction.png)
 
-##### Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide
+### Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -696,7 +696,7 @@ References:
 
 ![image](/notes/images/Isothiocyanate-Carbonyl-Addition-Nu-Alkoxide.png)
 
-##### Isocyanate-Carbonyl-Addition-Nu-Hydroxyl
+### Isocyanate-Carbonyl-Addition-Nu-Hydroxyl
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -721,7 +721,7 @@ References:
 
 ![image](/notes/images/Isocyanate-Carbonyl-Addition-Nu-Hydroxyl.png)
 
-##### Prins-Reaction-2
+### Prins-Reaction-2
 
 References:   
  [0] [Prins Reaction](https://www.organic-chemistry.org/namedreactions/prins-reaction.shtm)  
@@ -740,7 +740,7 @@ References:
 
 ![image](/notes/images/Prins-Reaction-2.png)
 
-##### Prins-Reaction-3
+### Prins-Reaction-3
 
 References:   
  [0] [Prins Reaction](https://www.organic-chemistry.org/namedreactions/prins-reaction.shtm)  

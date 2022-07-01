@@ -4,7 +4,7 @@ tags: ⚙️
 ---
 
 [Rearrangements](/notes/Rearrangements/Rearrangements.md)
-#### Petasis-Ferrier-Rearrangement
+## Petasis-Ferrier-Rearrangement
 
 References:   
  [0] [Petasis-Ferrier Rearrangement](https://synarchive.com/named-reactions/petasis-ferrier-rearrangement)  
@@ -28,7 +28,7 @@ References:
 
 ![image](/notes/images/Petasis-Ferrier-Rearrangement.png)
 
-#### Oxy-Cope-Rearrangement
+## Oxy-Cope-Rearrangement
 
 References:   
  [0] [Cope rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Cope_rearrangement)  
@@ -51,7 +51,7 @@ References:
 
 ![image](/notes/images/Oxy-Cope-Rearrangement.png)
 
-#### Neber-Rearrangement
+## Neber-Rearrangement
 
 References:   
  [0] [Neber Rearrangement](https://synarchive.com/named-reactions/neber-rearrangement)  
@@ -71,7 +71,7 @@ References:
 
 ![image](/notes/images/Neber-Rearrangement.png)
 
-#### Claisen-Rearrangement
+## Claisen-Rearrangement
 
 References:   
  [0] [Claisen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Claisen_rearrangement)  
@@ -83,7 +83,7 @@ References:
  
 ![image](/notes/images/Claisen-Rearrangement.png)
 
-#### Oxa-Vinylcyclopropane-Rearrangement
+## Oxa-Vinylcyclopropane-Rearrangement
 
 References:   
  [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
@@ -100,7 +100,7 @@ References:
 
 ![image](/notes/images/Oxa-Vinylcyclopropane-Rearrangement.png)
 
-#### Claisen-Rearrangement-Aromatic
+## Claisen-Rearrangement-Aromatic
 
 References:   
  [0] [Claisen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Claisen_rearrangement)  
@@ -112,7 +112,7 @@ References:
  
 ![image](/notes/images/Claisen-Rearrangement-Aromatic.png)
 
-#### Buchner-Ring-Expansion-C
+## Buchner-Ring-Expansion-C
 
 References:   
  [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
@@ -123,7 +123,7 @@ References:
  
 ![image](/notes/images/Buchner-Ring-Expansion-C.png)
 
-#### Diels-Alder-4+2-Nitrogen
+## Diels-Alder-4+2-Nitrogen
 
 References:   
  [0] [diels-alder-reaction](https://www.synarchive.com/named-reactions/diels-alder-reaction)  
@@ -149,7 +149,7 @@ References:
 
 ![image](/notes/images/Diels-Alder-4+2-Nitrogen.png)
 
-#### 1,3-Dipolar-Cycloaddition-Type-I
+## 1,3-Dipolar-Cycloaddition-Type-I
 
 References:   
  [0] [1,3-Dipolar cycloaddition - Wikipedia](https://en.wikipedia.org/wiki/1,3-Dipolar_cycloaddition)  
@@ -160,7 +160,7 @@ References:
  
 ![image](/notes/images/1,3-Dipolar-Cycloaddition-Type-I.png)
 
-#### Overman-Rearrangement-Pt1
+## Overman-Rearrangement-Pt1
 
 References:   
  [0] [Overman Rearrangement](https://www.organic-chemistry.org/namedreactions/overman-rearrangement.shtm)  
@@ -180,7 +180,7 @@ References:
 
 ![image](/notes/images/Overman-Rearrangement-Pt1.png)
 
-#### Ene-Reaction-C=C
+## Ene-Reaction-C=C
 
 References:   
  [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
@@ -206,7 +206,7 @@ References:
 
 ![image](/notes/images/Ene-Reaction-C=C.png)
 
-#### Nazarov-Cyclization
+## Nazarov-Cyclization
 
 References:   
  [0] [Nazarov Cyclization Reaction](https://synarchive.com/named-reactions/nazarov-cyclization-reaction)  
@@ -227,7 +227,7 @@ References:
 
 ![image](/notes/images/Nazarov-Cyclization.png)
 
-#### Diels-Alder-4+2
+## Diels-Alder-4+2
 
 References:   
  [0] [diels-alder-reaction](https://www.synarchive.com/named-reactions/diels-alder-reaction)  
@@ -254,7 +254,7 @@ References:
 
 ![image](/notes/images/Diels-Alder-4+2.png)
 
-#### Vinylcyclopropane-Rearrangement
+## Vinylcyclopropane-Rearrangement
 
 References:   
  [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
@@ -272,7 +272,7 @@ References:
 
 ![image](/notes/images/Vinylcyclopropane-Rearrangement.png)
 
-#### Favorskii-Rearrangement-Cl
+## Favorskii-Rearrangement-Cl
 
 References:   
  [0] [Favorskii rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Favorskii_rearrangement)  
@@ -292,7 +292,7 @@ References:
 
 ![image](/notes/images/Favorskii-Rearrangement-Cl.png)
 
-#### Sommelet-Hauser-Rearrangement
+## Sommelet-Hauser-Rearrangement
 
 References:   
  [0] [Sommelet–Hauser rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Sommelet%E2%80%93Hauser_rearrangement)  
@@ -312,7 +312,7 @@ References:
 
 ![image](/notes/images/Sommelet-Hauser-Rearrangement.png)
 
-#### Irreversable-Azo-Cope-Rearrangement
+## Irreversable-Azo-Cope-Rearrangement
 
 References:   
  [0] [Aza-Cope rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Aza-Cope_rearrangement)  
@@ -337,7 +337,7 @@ References:
 
 ![image](/notes/images/Irreversable-Azo-Cope-Rearrangement.png)
 
-#### Aza-Vinylcyclopropane-Rearrangement
+## Aza-Vinylcyclopropane-Rearrangement
 
 References:   
  [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
@@ -355,7 +355,7 @@ References:
 
 ![image](/notes/images/Aza-Vinylcyclopropane-Rearrangement.png)
 
-#### Ene-Reaction-C=N
+## Ene-Reaction-C=N
 
 References:   
  [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
@@ -380,7 +380,7 @@ References:
 
 ![image](/notes/images/Ene-Reaction-C=N.png)
 
-#### Buchner-Ring-Expansion-N
+## Buchner-Ring-Expansion-N
 
 References:   
  [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
@@ -391,7 +391,7 @@ References:
  
 ![image](/notes/images/Buchner-Ring-Expansion-N.png)
 
-#### Newman-Kwart-Rearrangement
+## Newman-Kwart-Rearrangement
 
 References:   
  [0] [Newman-Kwart Rearrangement](https://www.organic-chemistry.org/namedreactions/newman-kwart-rearrangement.shtm)  
@@ -410,7 +410,7 @@ References:
 
 ![image](/notes/images/Newman-Kwart-Rearrangement.png)
 
-#### Ene-Reaction-C=O
+## Ene-Reaction-C=O
 
 References:   
  [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
@@ -434,7 +434,7 @@ References:
 
 ![image](/notes/images/Ene-Reaction-C=O.png)
 
-#### Buchner-Ring-Expansion-O
+## Buchner-Ring-Expansion-O
 
 References:   
  [0] [Pericyclic reaction - Wikipedia](https://en.wikipedia.org/wiki/Pericyclic_reaction)  
@@ -445,7 +445,7 @@ References:
  
 ![image](/notes/images/Buchner-Ring-Expansion-O.png)
 
-#### Ene-Reaction-C=S
+## Ene-Reaction-C=S
 
 References:   
  [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
@@ -469,7 +469,7 @@ References:
 
 ![image](/notes/images/Ene-Reaction-C=S.png)
 
-#### Thio-Claisen-Rearrangement
+## Thio-Claisen-Rearrangement
 
 References:   
  [0] [Claisen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Claisen_rearrangement)  
@@ -481,7 +481,7 @@ References:
  
 ![image](/notes/images/Thio-Claisen-Rearrangement.png)
 
-#### Ene-Reaction-N=N
+## Ene-Reaction-N=N
 
 References:   
  [0] [Ene reaction - Wikipedia](https://en.wikipedia.org/wiki/Ene_reaction)  
@@ -505,7 +505,7 @@ References:
 
 ![image](/notes/images/Ene-Reaction-N=N.png)
 
-#### 1,3-Dipolar-Cycloaddition-Type-II
+## 1,3-Dipolar-Cycloaddition-Type-II
 
 References:   
  [0] [1,3-Dipolar cycloaddition - Wikipedia](https://en.wikipedia.org/wiki/1,3-Dipolar_cycloaddition)  
@@ -516,7 +516,7 @@ References:
  
 ![image](/notes/images/1,3-Dipolar-Cycloaddition-Type-II.png)
 
-#### Enolate-Claisen-Rearrangement
+## Enolate-Claisen-Rearrangement
 
 References:   
  [0] [Claisen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Claisen_rearrangement)  
@@ -541,7 +541,7 @@ References:
 
 ![image](/notes/images/Enolate-Claisen-Rearrangement.png)
 
-#### Tiffeneau-Demjanov-Rearrangement
+## Tiffeneau-Demjanov-Rearrangement
 
 References:   
  [0] [Tiffeneau-Demjanov Rearrangement](https://synarchive.com/named-reactions/tiffeneau-demjanov-rearrangement)  
@@ -561,7 +561,7 @@ References:
 
 ![image](/notes/images/Tiffeneau-Demjanov-Rearrangement.png)
 
-#### Azo-Vinylcyclopropane-Rearrangement
+## Azo-Vinylcyclopropane-Rearrangement
 
 References:   
  [0] [Vinylcyclopropane rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement)  
@@ -579,7 +579,7 @@ References:
 
 ![image](/notes/images/Azo-Vinylcyclopropane-Rearrangement.png)
 
-#### Diels-Alder-4+2-Oxygen
+## Diels-Alder-4+2-Oxygen
 
 References:   
  [0] [diels-alder-reaction](https://www.synarchive.com/named-reactions/diels-alder-reaction)  
@@ -604,7 +604,7 @@ References:
 
 ![image](/notes/images/Diels-Alder-4+2-Oxygen.png)
 
-#### Azo-Cope
+## Azo-Cope
 
 References:   
  [0] [Aza-Cope/Mannich reaction - Organic Reactions Wiki](http://organicreactions.org/index.php/Aza-Cope/Mannich_reaction)  
@@ -628,7 +628,7 @@ References:
 
 ![image](/notes/images/Azo-Cope.png)
 
-#### Conia-Ene-Reaction
+## Conia-Ene-Reaction
 
 References:   
  [0] [Conia-Ene Reaction](https://www.organic-chemistry.org/namedreactions/conia-ene-reaction.shtm)  
@@ -651,7 +651,7 @@ References:
 
 ![image](/notes/images/Conia-Ene-Reaction.png)
 
-#### Favorskii-Rearrangement-Br
+## Favorskii-Rearrangement-Br
 
 References:   
  [0] [Favorskii rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Favorskii_rearrangement)  
@@ -671,7 +671,7 @@ References:
 
 ![image](/notes/images/Favorskii-Rearrangement-Br.png)
 
-#### Overman-Rearrangement-Pt2
+## Overman-Rearrangement-Pt2
 
 References:   
  [0] [Overman Rearrangement](https://www.organic-chemistry.org/namedreactions/overman-rearrangement.shtm)  

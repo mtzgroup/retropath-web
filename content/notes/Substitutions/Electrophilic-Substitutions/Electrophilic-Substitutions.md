@@ -3,7 +3,7 @@ tags: ⚙️
 ---
 
 [substitutions](/notes/named_reactions/Substitutions/Substitutions.md)
-#### Reimer-Tiemann-Formylation
+## Reimer-Tiemann-Formylation
 
 References:   
  [0] [Reimer-Tiemann Formylation](https://synarchive.com/named-reactions/reimer-tiemann-formylation)  
@@ -14,7 +14,7 @@ References:
  
 ![image](/notes/images/Reimer-Tiemann-Formylation.png)
 
-#### Benzene-Nitration
+## Benzene-Nitration
 
 References:   
  [0] [Nitration of Benzene and Methylbenzene - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Arenes/Reactivity_of_Arenes/Nitration_of_Benzene_and_Methylbenzene)  
@@ -45,7 +45,7 @@ References:
 
 ![image](/notes/images/Benzene-Nitration.png)
 
-#### Bradsher-Cyclization-2
+## Bradsher-Cyclization-2
 
 References:   
  [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
@@ -62,7 +62,7 @@ References:
 
 ![image](/notes/images/Bradsher-Cyclization-2.png)
 
-#### Bradsher-Cyclization-1
+## Bradsher-Cyclization-1
 
 References:   
  [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
@@ -79,7 +79,7 @@ References:
 
 ![image](/notes/images/Bradsher-Cyclization-1.png)
 
-#### Eschweiler-Clarke-Reaction
+## Eschweiler-Clarke-Reaction
 
 References:   
  [0] [Eschweiler-Clarke Reaction](https://www.organic-chemistry.org/namedreactions/eschweiler-clarke-reaction.shtm)  
@@ -98,7 +98,7 @@ References:
 
 ![image](/notes/images/Eschweiler-Clarke-Reaction.png)
 
-#### Duff-Reaction
+## Duff-Reaction
 
 References:   
  [0] [Duff Reaction](https://synarchive.com/named-reactions/duff-reaction)  

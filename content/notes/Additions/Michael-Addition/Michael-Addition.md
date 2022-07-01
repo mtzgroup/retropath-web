@@ -5,7 +5,7 @@ tags: ⚙️
 [Additions](/notes/Additions.md)
 
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester
+## Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -35,7 +35,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Nitrile
+## Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -64,7 +64,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Nitrile.png)
 
-#### Darzens-Condensation-Ketone-X-Chlorine
+## Darzens-Condensation-Ketone-X-Chlorine
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -84,7 +84,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ketone-X-Chlorine.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -112,7 +112,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Carbonyl.png)
 
-#### Pfitzinger-Reaction
+## Pfitzinger-Reaction
 
 References:   
  [0] [Pfitzinger reaction - Wikipedia](https://en.wikipedia.org/wiki/Pfitzinger_reaction)  
@@ -130,7 +130,7 @@ References:
 
 ![image](/notes/images/Pfitzinger-Reaction.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Carbonyl
+## Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -159,7 +159,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Ester
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -189,7 +189,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Nitrile
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -218,7 +218,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -248,7 +248,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Nitrile
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -275,7 +275,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Nitrile
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -304,7 +304,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Nitrile.png)
 
-#### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrite
+## Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrite
 
 References:   
  [0] [Bohlmann-Rahtz Pyridine Synthesis](https://www.organic-chemistry.org/namedreactions/bohlmann-rahtz-pyridine-synthesis.shtm)  
@@ -328,7 +328,7 @@ References:
 
 ![image](/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrite.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Nitrile
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -357,7 +357,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Ester
+## Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -389,7 +389,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Carbonyl
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -416,7 +416,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -444,7 +444,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Carbonyl
+## Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -472,7 +472,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Carbonyl.png)
 
-#### Darzens-Condensation-Ester-X-Chlorine
+## Darzens-Condensation-Ester-X-Chlorine
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -492,7 +492,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ester-X-Chlorine.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -522,7 +522,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Ester
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -551,7 +551,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -580,7 +580,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Carbonyl.png)
 
-#### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrile
+## Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrile
 
 References:   
  [0] [Bohlmann-Rahtz Pyridine Synthesis](https://www.organic-chemistry.org/namedreactions/bohlmann-rahtz-pyridine-synthesis.shtm)  
@@ -604,7 +604,7 @@ References:
 
 ![image](/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Nitrile.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -633,7 +633,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carbonyl-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Ester
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -664,7 +664,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Ester
+## Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -693,7 +693,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Ester.png)
 
-#### Stork-Enamine-Alkylation
+## Stork-Enamine-Alkylation
 
 References:   
  [0] [Stork enamine alkylation - Wikipedia](https://en.wikipedia.org/wiki/Stork_enamine_alkylation)  
@@ -717,7 +717,7 @@ References:
 
 ![image](/notes/images/Stork-Enamine-Alkylation.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Carbonyl
+## Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -747,7 +747,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Carbonyl.png)
 
-#### Stork-Imine-Alkylation
+## Stork-Imine-Alkylation
 
 References:   
  [0] [Reaction with Primary Amines to form Imines - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Aldehydes_and_Ketones/Reactivity_of_Aldehydes_and_Ketones/Reaction_with_Primary_Amines_to_form_Imines)  
@@ -777,7 +777,7 @@ References:
 
 ![image](/notes/images/Stork-Imine-Alkylation.png)
 
-#### Alkoxide-Michael-Addition-EWG-Nitrile
+## Alkoxide-Michael-Addition-EWG-Nitrile
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -805,7 +805,7 @@ References:
 
 ![image](/notes/images/Alkoxide-Michael-Addition-EWG-Nitrile.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Nitrile
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -835,7 +835,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Phosphonate-EWG3-Nitrile.png)
 
-#### Nitrile-Michael-Addition-EWG-Carboxyl
+## Nitrile-Michael-Addition-EWG-Carboxyl
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -863,7 +863,7 @@ References:
 
 ![image](/notes/images/Nitrile-Michael-Addition-EWG-Carboxyl.png)
 
-#### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Phosphonate
+## Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Phosphonate
 
 References:   
  [0] [Bohlmann-Rahtz Pyridine Synthesis](https://www.organic-chemistry.org/namedreactions/bohlmann-rahtz-pyridine-synthesis.shtm)  
@@ -889,7 +889,7 @@ References:
 
 ![image](/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Phosphonate.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Ester
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -918,7 +918,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Ester.png)
 
-#### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carbonyl
+## Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carbonyl
 
 References:   
  [0] [Bohlmann-Rahtz Pyridine Synthesis](https://www.organic-chemistry.org/namedreactions/bohlmann-rahtz-pyridine-synthesis.shtm)  
@@ -943,7 +943,7 @@ References:
 
 ![image](/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Ester
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -973,7 +973,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Carboxyl-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Nitrile
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1000,7 +1000,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Ester
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1028,7 +1028,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Ester.png)
 
-#### Stobbe-Condensation
+## Stobbe-Condensation
 
 References:   
  [0] [Stobbe Condensation](https://synarchive.com/named-reactions/stobbe-condensation)  
@@ -1050,7 +1050,7 @@ References:
 
 ![image](/notes/images/Stobbe-Condensation.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Nitrile
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1078,7 +1078,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Nitrile
+## Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1107,7 +1107,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Nitrile.png)
 
-#### Nitrile-Michael-Addition-EWG-Carbonyl
+## Nitrile-Michael-Addition-EWG-Carbonyl
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -1135,7 +1135,7 @@ References:
 
 ![image](/notes/images/Nitrile-Michael-Addition-EWG-Carbonyl.png)
 
-#### Alkoxide-Michael-Addition-EWG-Carboxyl
+## Alkoxide-Michael-Addition-EWG-Carboxyl
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -1164,7 +1164,7 @@ References:
 
 ![image](/notes/images/Alkoxide-Michael-Addition-EWG-Carboxyl.png)
 
-#### Alkoxide-Michael-Addition-EWG-Nitrite
+## Alkoxide-Michael-Addition-EWG-Nitrite
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -1192,7 +1192,7 @@ References:
 
 ![image](/notes/images/Alkoxide-Michael-Addition-EWG-Nitrite.png)
 
-#### Darzens-Condensation-Ketone-X-Bromine
+## Darzens-Condensation-Ketone-X-Bromine
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -1212,7 +1212,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ketone-X-Bromine.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Ester
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1243,7 +1243,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Carbonyl
+## Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1274,7 +1274,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Carbonyl.png)
 
-#### Azo-Michael-Addition-EWG-Nitrile
+## Azo-Michael-Addition-EWG-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1302,7 +1302,7 @@ References:
 
 ![image](/notes/images/Azo-Michael-Addition-EWG-Nitrile.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Ester
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1332,7 +1332,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Nitrile
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1362,7 +1362,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Phosphonate-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Ester
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1391,7 +1391,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Ester
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1419,7 +1419,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrile-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Nitrile
+## Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1447,7 +1447,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Carbonyl
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1474,7 +1474,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Nitrite-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Carbonyl
+## Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1502,7 +1502,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Carbonyl.png)
 
-#### Thiol-Michael-Addition-EWG-Nitrile
+## Thiol-Michael-Addition-EWG-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1529,7 +1529,7 @@ References:
 
 ![image](/notes/images/Thiol-Michael-Addition-EWG-Nitrile.png)
 
-#### Azo-Michael-Addition-EWG-Phosphonate
+## Azo-Michael-Addition-EWG-Phosphonate
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1559,7 +1559,7 @@ References:
 
 ![image](/notes/images/Azo-Michael-Addition-EWG-Phosphonate.png)
 
-#### Darzens-Condensation-Ester-X-Bromine
+## Darzens-Condensation-Ester-X-Bromine
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -1579,7 +1579,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ester-X-Bromine.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Ester
+## Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1609,7 +1609,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Ester.png)
 
-#### Mukaiyama-Aldol-Addition-X-Alkane
+## Mukaiyama-Aldol-Addition-X-Alkane
 
 References:   
  [0] [Mukaiyama Aldol Addition](https://synarchive.com/named-reactions/mukaiyama-aldol-addition)  
@@ -1633,7 +1633,7 @@ References:
 
 ![image](/notes/images/Mukaiyama-Aldol-Addition-X-Alkane.png)
 
-#### Alkoxide-Michael-Addition-EWG-Carbonyl
+## Alkoxide-Michael-Addition-EWG-Carbonyl
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -1662,7 +1662,7 @@ References:
 
 ![image](/notes/images/Alkoxide-Michael-Addition-EWG-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Nitrile
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1691,7 +1691,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Ester
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1721,7 +1721,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Nitrile
+## Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1752,7 +1752,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Phosphonate-and-EWG2-Phosphonate-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Nitrile
+## Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1779,7 +1779,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Nitrile.png)
 
-#### Thiol-Michael-Addition-EWG-Nitrite
+## Thiol-Michael-Addition-EWG-Nitrite
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1806,7 +1806,7 @@ References:
 
 ![image](/notes/images/Thiol-Michael-Addition-EWG-Nitrite.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1834,7 +1834,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Carbonyl
+## Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1863,7 +1863,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrile-and-EWG2-Phosphonate-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Ester
+## Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1892,7 +1892,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrile-EWG3-Ester.png)
 
-#### Azo-Michael-Addition-EWG-Nitrite
+## Azo-Michael-Addition-EWG-Nitrite
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1920,7 +1920,7 @@ References:
 
 ![image](/notes/images/Azo-Michael-Addition-EWG-Nitrite.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Carbonyl
+## Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1949,7 +1949,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Carbonyl-EWG3-Carbonyl.png)
 
-#### Darzens-Condensation-Ketone-X-Sulfonate
+## Darzens-Condensation-Ketone-X-Sulfonate
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -1970,7 +1970,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ketone-X-Sulfonate.png)
 
-#### Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Ester
+## Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -1998,7 +1998,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2026,7 +2026,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrite-EWG3-Carbonyl.png)
 
-#### Darzens-Condensation-Ester-X-Sulfonate
+## Darzens-Condensation-Ester-X-Sulfonate
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -2047,7 +2047,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ester-X-Sulfonate.png)
 
-#### Azo-Michael-Addition-EWG-Carbonyl
+## Azo-Michael-Addition-EWG-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2076,7 +2076,7 @@ References:
 
 ![image](/notes/images/Azo-Michael-Addition-EWG-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Nitrile
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2104,7 +2104,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Nitrile.png)
 
-#### Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carboxyl
+## Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carboxyl
 
 References:   
  [0] [Bohlmann-Rahtz Pyridine Synthesis](https://www.organic-chemistry.org/namedreactions/bohlmann-rahtz-pyridine-synthesis.shtm)  
@@ -2129,7 +2129,7 @@ References:
 
 ![image](/notes/images/Bohlmann-Rahtz-Pyridine-Synthesis-EWG-Carboxyl.png)
 
-#### Nitrile-Michael-Addition-EWG-Nitrite
+## Nitrile-Michael-Addition-EWG-Nitrite
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -2156,7 +2156,7 @@ References:
 
 ![image](/notes/images/Nitrile-Michael-Addition-EWG-Nitrite.png)
 
-#### Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Nitrile
+## Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2184,7 +2184,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carboxyl-and-EWG2-Nitrile-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Ester
+## Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2215,7 +2215,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Nitrile
+## Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2244,7 +2244,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Carbonyl
+## Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2273,7 +2273,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Carbonyl.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Ester
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2302,7 +2302,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrite-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Nitrile
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2330,7 +2330,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Nitrile-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Nitrile
+## Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2360,7 +2360,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Phosphonate-EWG3-Nitrile.png)
 
-#### Nitrile-Michael-Addition-EWG-Phosphonate
+## Nitrile-Michael-Addition-EWG-Phosphonate
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -2389,7 +2389,7 @@ References:
 
 ![image](/notes/images/Nitrile-Michael-Addition-EWG-Phosphonate.png)
 
-#### Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Ester
+## Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Ester
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2419,7 +2419,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Phosphonate-EWG3-Ester.png)
 
-#### Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Nitrile
+## Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Nitrile
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2447,7 +2447,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Alkane-and-EWG2-Nitrite-EWG3-Nitrile.png)
 
-#### Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Carbonyl
+## Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2476,7 +2476,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Carbonyl-and-EWG2-Carboxyl-EWG3-Carbonyl.png)
 
-#### Alkoxide-Michael-Addition-EWG-Phosphonate
+## Alkoxide-Michael-Addition-EWG-Phosphonate
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -2506,7 +2506,7 @@ References:
 
 ![image](/notes/images/Alkoxide-Michael-Addition-EWG-Phosphonate.png)
 
-#### Azo-Michael-Addition-EWG-Carboxyl
+## Azo-Michael-Addition-EWG-Carboxyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2535,7 +2535,7 @@ References:
 
 ![image](/notes/images/Azo-Michael-Addition-EWG-Carboxyl.png)
 
-#### Darzens-Condensation-Ketone-X-Iodine
+## Darzens-Condensation-Ketone-X-Iodine
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -2555,7 +2555,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ketone-X-Iodine.png)
 
-#### Thiol-Michael-Addition-EWG-Carbonyl
+## Thiol-Michael-Addition-EWG-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2583,7 +2583,7 @@ References:
 
 ![image](/notes/images/Thiol-Michael-Addition-EWG-Carbonyl.png)
 
-#### Darzens-Condensation-Ester-X-Iodine
+## Darzens-Condensation-Ester-X-Iodine
 
 References:   
  [0] [Darzens Condensation](https://synarchive.com/named-reactions/darzens-condensation)  
@@ -2603,7 +2603,7 @@ References:
 
 ![image](/notes/images/Darzens-Condensation-Ester-X-Iodine.png)
 
-#### Nitrile-Michael-Addition-EWG-Nitrile
+## Nitrile-Michael-Addition-EWG-Nitrile
 
 References:   
  [0] [Conjugate Addition – Master Organic Chemistry](https://www.masterorganicchemistry.com/tips/conjugate-addition/)  
@@ -2630,7 +2630,7 @@ References:
 
 ![image](/notes/images/Nitrile-Michael-Addition-EWG-Nitrile.png)
 
-#### Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Carbonyl
+## Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Carbonyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2657,7 +2657,7 @@ References:
 
 ![image](/notes/images/Michael-Addition-EWG1-Nitrite-and-EWG2-Nitrite-EWG3-Carbonyl.png)
 
-#### Mukaiyama-Aldol-Addition-X-Alkoxide
+## Mukaiyama-Aldol-Addition-X-Alkoxide
 
 References:   
  [0] [Mukaiyama Aldol Addition](https://synarchive.com/named-reactions/mukaiyama-aldol-addition)  
@@ -2681,7 +2681,7 @@ References:
 
 ![image](/notes/images/Mukaiyama-Aldol-Addition-X-Alkoxide.png)
 
-#### Thiol-Michael-Addition-EWG-Phosphonate
+## Thiol-Michael-Addition-EWG-Phosphonate
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  
@@ -2710,7 +2710,7 @@ References:
 
 ![image](/notes/images/Thiol-Michael-Addition-EWG-Phosphonate.png)
 
-#### Thiol-Michael-Addition-EWG-Carboxyl
+## Thiol-Michael-Addition-EWG-Carboxyl
 
 References:   
  [0] [Michael Addition](https://www.organic-chemistry.org/namedreactions/michael-addition.shtm)  

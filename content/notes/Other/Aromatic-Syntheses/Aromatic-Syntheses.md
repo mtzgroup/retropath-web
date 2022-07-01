@@ -4,7 +4,7 @@ tags: ⚙️
 ---
 
 [Other](/notes/Other/Other.md)
-#### Isoindolinone-Synthesis-1-X-Fluorine
+## Isoindolinone-Synthesis-1-X-Fluorine
 
 References:   
  [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
@@ -21,7 +21,7 @@ References:
 
 ![image](/notes/images/Isoindolinone-Synthesis-1-X-Fluorine.png)
 
-#### Conrad-Limpach-Synthesis-Thermodynamic
+## Conrad-Limpach-Synthesis-Thermodynamic
 
 References:   
  [0] [Conrad-Limpach Synthesis](https://synarchive.com/named-reactions/conrad-limpach-synthesis)  
@@ -40,7 +40,7 @@ References:
 
 ![image](/notes/images/Conrad-Limpach-Synthesis-Thermodynamic.png)
 
-#### Madelung-Indole-Synthesis
+## Madelung-Indole-Synthesis
 
 References:   
  [0] [Madelung Indole Synthesis](https://synarchive.com/named-reactions/madelung-indole-synthesis)  
@@ -59,7 +59,7 @@ References:
 
 ![image](/notes/images/Madelung-Indole-Synthesis.png)
 
-#### Cyclopropanation-Part-2
+## Cyclopropanation-Part-2
 
 References:   
  [0] [Cyclopropanation - Wikipedia](https://en.wikipedia.org/wiki/Cyclopropanation)  
@@ -81,7 +81,7 @@ References:
 
 ![image](/notes/images/Cyclopropanation-Part-2.png)
 
-#### Pyrazole-Synthesis-OO
+## Pyrazole-Synthesis-OO
 
 References:   
  [0] [Pyrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/pyrazoles.shtm)  
@@ -100,7 +100,7 @@ References:
 
 ![image](/notes/images/Pyrazole-Synthesis-OO.png)
 
-#### Fischer-oxazole-synthesis
+## Fischer-oxazole-synthesis
 
 References:   
  [0] [Fischer oxazole synthesis - Wikipedia](https://en.wikipedia.org/wiki/Fischer_oxazole_synthesis)  
@@ -118,7 +118,7 @@ References:
 
 ![image](/notes/images/Fischer-oxazole-synthesis.png)
 
-#### Hantzsch-Thiazole-Synthesis-X-Chlorine
+## Hantzsch-Thiazole-Synthesis-X-Chlorine
 
 References:   
  [0] [Hantzsch Thiazole Synthesis](https://synarchive.com/named-reactions/hantzsch-thiazole-synthesis)  
@@ -137,7 +137,7 @@ References:
 
 ![image](/notes/images/Hantzsch-Thiazole-Synthesis-X-Chlorine.png)
 
-#### Carbazole-Synthesis
+## Carbazole-Synthesis
 
 References:   
  [0] [Facile Synthesis of Carbazoles via a Tandem Iodocyclization with 1,2-Alkyl Migration and Aromatization](https://www.organic-chemistry.org/abstracts/lit4/998.shtm)  
@@ -155,7 +155,7 @@ References:
 
 ![image](/notes/images/Carbazole-Synthesis.png)
 
-#### Aryl-Bargellini-Reaction
+## Aryl-Bargellini-Reaction
 
 References:   
  [0] [Bargellini Reaction](https://synarchive.com/named-reactions/bargellini-reaction)  
@@ -174,7 +174,7 @@ References:
 
 ![image](/notes/images/Aryl-Bargellini-Reaction.png)
 
-#### Knorr-Quinoline-Synthesis
+## Knorr-Quinoline-Synthesis
 
 References:   
  [0] [Knorr Quinoline Synthesis](https://synarchive.com/named-reactions/knorr-quinoline-synthesis)  
@@ -192,7 +192,7 @@ References:
 
 ![image](/notes/images/Knorr-Quinoline-Synthesis.png)
 
-#### Imidazole-Synthesis
+## Imidazole-Synthesis
 
 References:   
  [0] [A One-Pot, Four-Component Synthesis of N-Substituted 2,4-Diarylimidazoles](https://www.organic-chemistry.org/abstracts/lit2/746.shtm)  
@@ -212,7 +212,7 @@ References:
 
 ![image](/notes/images/Imidazole-Synthesis.png)
 
-#### Guareschi-Thorpe-Condensation
+## Guareschi-Thorpe-Condensation
 
 References:   
  [0] [Guareschi-Thorpe Condensation](https://www.drugfuture.com/OrganicNameReactions/onr167.htm)  
@@ -232,7 +232,7 @@ References:
 
 ![image](/notes/images/Guareschi-Thorpe-Condensation.png)
 
-#### Tetrazole-Formation
+## Tetrazole-Formation
 
 References:   
  [0] [Tetrazole formation by cycloaddition](https://www.chemtube3d.com/tetrazole/)  
@@ -250,7 +250,7 @@ References:
 
 ![image](/notes/images/Tetrazole-Formation.png)
 
-#### Indole-Synthesis-Nenitzescu
+## Indole-Synthesis-Nenitzescu
 
 References:   
  [0] [Nenitzescu Indole Synthesis](https://synarchive.com/named-reactions/nenitzescu-indole-synthesis)  
@@ -274,7 +274,7 @@ References:
 
 ![image](/notes/images/Indole-Synthesis-Nenitzescu.png)
 
-#### Huigsen-Cycloaddition
+## Huigsen-Cycloaddition
 
 References:   
  [0] [Huisgen 1,3-Dipolar Cycloaddition](https://www.organic-chemistry.org/namedreactions/huisgen-1,3-dipolar-cycloaddition.shtm)  
@@ -293,7 +293,7 @@ References:
 
 ![image](/notes/images/Huigsen-Cycloaddition.png)
 
-#### Hantzsch-Pyrrole-Synthesis
+## Hantzsch-Pyrrole-Synthesis
 
 References:   
  [0] [Hantzsch pyrrole synthesis - Wikipedia](https://en.wikipedia.org/wiki/Hantzsch_pyrrole_synthesis)  
@@ -314,7 +314,7 @@ References:
 
 ![image](/notes/images/Hantzsch-Pyrrole-Synthesis.png)
 
-#### Kostaneki-Acylation-2
+## Kostaneki-Acylation-2
 
 References:   
  [0] [Kostanecki acylation - Wikipedia](https://en.wikipedia.org/wiki/Kostanecki_acylation)  
@@ -336,7 +336,7 @@ References:
 
 ![image](/notes/images/Kostaneki-Acylation-2.png)
 
-#### Iodine-Mediated-Cyclization-Indoline-Dihydroquinolone
+## Iodine-Mediated-Cyclization-Indoline-Dihydroquinolone
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/10.1021/ol303109m)  
@@ -353,7 +353,7 @@ References:
 
 ![image](/notes/images/Iodine-Mediated-Cyclization-Indoline-Dihydroquinolone.png)
 
-#### Sandmeyer-Isatin-2
+## Sandmeyer-Isatin-2
 
 References:   
  [0] [Sandmeyer Isatin Synthesis](https://synarchive.com/named-reactions/sandmeyer-isatin-synthesis)  
@@ -364,7 +364,7 @@ References:
  
 ![image](/notes/images/Sandmeyer-Isatin-2.png)
 
-#### Pomeranz-Fritsch-Reaction
+## Pomeranz-Fritsch-Reaction
 
 References:   
  [0] [Pomeranz–Fritsch reaction - Wikipedia](https://en.wikipedia.org/wiki/Pomeranz%E2%80%93Fritsch_reaction)  
@@ -383,7 +383,7 @@ References:
 
 ![image](/notes/images/Pomeranz-Fritsch-Reaction.png)
 
-#### Pyrazole-Synthesis-SO
+## Pyrazole-Synthesis-SO
 
 References:   
  [0] [Pyrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/pyrazoles.shtm)  
@@ -402,7 +402,7 @@ References:
 
 ![image](/notes/images/Pyrazole-Synthesis-SO.png)
 
-#### VanLeusen-oxazole-synthesis
+## VanLeusen-oxazole-synthesis
 
 References:   
  [0] [Van Leusen Imidazole Synthesis](https://www.organic-chemistry.org/namedreactions/van-leusen-imidazole-synthesis.shtm)  
@@ -419,7 +419,7 @@ References:
 
 ![image](/notes/images/VanLeusen-oxazole-synthesis.png)
 
-#### Hemetsberger-Knittel-Indole-Synthesis
+## Hemetsberger-Knittel-Indole-Synthesis
 
 References:   
  [0] [Hemetsberger-Knittel Indole Synthesis](https://synarchive.com/named-reactions/hemetsberger-knittel-indole-synthesis)  
@@ -440,7 +440,7 @@ References:
 
 ![image](/notes/images/Hemetsberger-Knittel-Indole-Synthesis.png)
 
-#### Allan-Robinson-Reaction
+## Allan-Robinson-Reaction
 
 References:   
  [0] [Allan–Robinson reaction - Wikipedia](https://en.wikipedia.org/wiki/Allan%E2%80%93Robinson_reaction)  
@@ -459,7 +459,7 @@ References:
 
 ![image](/notes/images/Allan-Robinson-Reaction.png)
 
-#### Pyrazole-Synthesis-SS
+## Pyrazole-Synthesis-SS
 
 References:   
  [0] [Pyrazole synthesis](https://www.organic-chemistry.org/synthesis/heterocycles/pyrazoles.shtm)  
@@ -478,7 +478,7 @@ References:
 
 ![image](/notes/images/Pyrazole-Synthesis-SS.png)
 
-#### Pyrazole-Synthesis-Beta-Ketoester
+## Pyrazole-Synthesis-Beta-Ketoester
 
 References:   
  [0] [Knorr pyrazole synthesis from a ketoester - laboratory experiment - YouTube](https://www.youtube.com/watch?v=3y83OXIytw4&t=239s)  
@@ -499,7 +499,7 @@ References:
 
 ![image](/notes/images/Pyrazole-Synthesis-Beta-Ketoester.png)
 
-#### Pechmann-Condensation
+## Pechmann-Condensation
 
 References:   
  [0] [Pechmann Condensation](https://synarchive.com/named-reactions/pechmann-condensation)  
@@ -519,7 +519,7 @@ References:
 
 ![image](/notes/images/Pechmann-Condensation.png)
 
-#### Conrad-Limpach-Synthesis-Kinetic
+## Conrad-Limpach-Synthesis-Kinetic
 
 References:   
  [0] [Conrad-Limpach Synthesis](https://synarchive.com/named-reactions/conrad-limpach-synthesis)  
@@ -538,7 +538,7 @@ References:
 
 ![image](/notes/images/Conrad-Limpach-Synthesis-Kinetic.png)
 
-#### Skraup-Quinoline-Synthesis
+## Skraup-Quinoline-Synthesis
 
 References:   
  [0] [Skraup reaction - Wikipedia](https://en.wikipedia.org/wiki/Skraup_reaction)  
@@ -559,7 +559,7 @@ References:
 
 ![image](/notes/images/Skraup-Quinoline-Synthesis.png)
 
-#### Isoindolinone-Synthesis-1-X-Iodine
+## Isoindolinone-Synthesis-1-X-Iodine
 
 References:   
  [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
@@ -576,7 +576,7 @@ References:
 
 ![image](/notes/images/Isoindolinone-Synthesis-1-X-Iodine.png)
 
-#### Hantzsch-Thiazole-Synthesis-X-Bromine
+## Hantzsch-Thiazole-Synthesis-X-Bromine
 
 References:   
  [0] [Hantzsch Thiazole Synthesis](https://synarchive.com/named-reactions/hantzsch-thiazole-synthesis)  
@@ -595,7 +595,7 @@ References:
 
 ![image](/notes/images/Hantzsch-Thiazole-Synthesis-X-Bromine.png)
 
-#### Indole-Synthesis-Hemetsberger-Knittel
+## Indole-Synthesis-Hemetsberger-Knittel
 
 References: 0 
 
@@ -610,7 +610,7 @@ References: 0
 
 ![image](/notes/images/Indole-Synthesis-Hemetsberger-Knittel.png)
 
-#### Feist-Benary-Synthesis-X1-Bromine
+## Feist-Benary-Synthesis-X1-Bromine
 
 References:   
  [0] [Feist-Bénary-Reaktion – Wikipedia](https://de.m.wikipedia.org/wiki/Feist-B%C3%A9nary-Reaktion)  
@@ -630,7 +630,7 @@ References:
 
 ![image](/notes/images/Feist-Benary-Synthesis-X1-Bromine.png)
 
-#### Paal-Knorr-Pyrrole-Synthesis
+## Paal-Knorr-Pyrrole-Synthesis
 
 References:   
  [0] [Paal-Knorr Pyrrole Synthesis](https://www.organic-chemistry.org/namedreactions/paal-knorr-pyrrole-synthesis.shtm)  
@@ -651,7 +651,7 @@ References:
 
 ![image](/notes/images/Paal-Knorr-Pyrrole-Synthesis.png)
 
-#### Gassman-Indole-Synthesis
+## Gassman-Indole-Synthesis
 
 References:   
  [0] [Gassman indole synthesis](https://synarchive.com/named-reactions/gassman-indole-synthesis)  
@@ -671,7 +671,7 @@ References:
 
 ![image](/notes/images/Gassman-Indole-Synthesis.png)
 
-#### Pthalimide-Synthesis-2
+## Pthalimide-Synthesis-2
 
 References:   
  [0] [Phthalimides](https://www.organic-chemistry.org/protectivegroups/amino/phthalimides.htm)  
@@ -682,7 +682,7 @@ References:
  
 ![image](/notes/images/Pthalimide-Synthesis-2.png)
 
-#### VanLeusen-imidazole-synthesis
+## VanLeusen-imidazole-synthesis
 
 References:   
  [0] [Van Leusen Imidazole Synthesis](https://www.organic-chemistry.org/namedreactions/van-leusen-imidazole-synthesis.shtm)  
@@ -701,7 +701,7 @@ References:
 
 ![image](/notes/images/VanLeusen-imidazole-synthesis.png)
 
-#### Hantzsch-Thiazole-Synthesis-X-Sulfonate
+## Hantzsch-Thiazole-Synthesis-X-Sulfonate
 
 References:   
  [0] [Hantzsch Thiazole Synthesis](https://synarchive.com/named-reactions/hantzsch-thiazole-synthesis)  
@@ -721,7 +721,7 @@ References:
 
 ![image](/notes/images/Hantzsch-Thiazole-Synthesis-X-Sulfonate.png)
 
-#### Hanztch-Pyridine-Synthesis
+## Hanztch-Pyridine-Synthesis
 
 References:   
  [0] [Hantzsch Dihydropyridine (Pyridine) Synthesis](https://www.organic-chemistry.org/namedreactions/hantzsch-dihydropyridine-synthesis.shtm)  
@@ -742,7 +742,7 @@ References:
 
 ![image](/notes/images/Hanztch-Pyridine-Synthesis.png)
 
-#### Staudinger-Synthesis
+## Staudinger-Synthesis
 
 References:   
  [0] [Staudinger Synthesis](https://www.organic-chemistry.org/namedreactions/staudinger-synthesis.shtm)  
@@ -762,7 +762,7 @@ References:
 
 ![image](/notes/images/Staudinger-Synthesis.png)
 
-#### VanLeusen-Reaction
+## VanLeusen-Reaction
 
 References:   
  [0] [Van Leusen Reaction](https://synarchive.com/named-reactions/van-leusen-reaction)  
@@ -782,7 +782,7 @@ References:
 
 ![image](/notes/images/VanLeusen-Reaction.png)
 
-#### Isoindolinone-Synthesis-1-X-Bromine
+## Isoindolinone-Synthesis-1-X-Bromine
 
 References:   
  [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
@@ -799,7 +799,7 @@ References:
 
 ![image](/notes/images/Isoindolinone-Synthesis-1-X-Bromine.png)
 
-#### Paal-Knorr-Furan-Synthesis
+## Paal-Knorr-Furan-Synthesis
 
 References:   
  [0] [Paal-Knorr Furan Synthesis](https://www.organic-chemistry.org/namedreactions/paal-knorr-furan-synthesis.shtm)  
@@ -819,7 +819,7 @@ References:
 
 ![image](/notes/images/Paal-Knorr-Furan-Synthesis.png)
 
-#### Kostaneki-Acylation-1
+## Kostaneki-Acylation-1
 
 References:   
  [0] [Kostanecki acylation - Wikipedia](https://en.wikipedia.org/wiki/Kostanecki_acylation)  
@@ -841,7 +841,7 @@ References:
 
 ![image](/notes/images/Kostaneki-Acylation-1.png)
 
-#### Freidlander-Synthesis
+## Freidlander-Synthesis
 
 References:   
  [0] [Friedländer synthesis](https://synarchive.com/named-reactions/friedlaumlnder-synthesis)  
@@ -859,7 +859,7 @@ References:
 
 ![image](/notes/images/Freidlander-Synthesis.png)
 
-#### Bischler-Napieralski
+## Bischler-Napieralski
 
 References:   
  [0] [Bischler–Napieralski reaction - Wikipedia](https://en.wikipedia.org/wiki/Bischler%E2%80%93Napieralski_reaction)  
@@ -878,7 +878,7 @@ References:
 
 ![image](/notes/images/Bischler-Napieralski.png)
 
-#### Pellizzari-Reacion
+## Pellizzari-Reacion
 
 References:   
  [0] [Pellizzari reaction - Wikipedia](https://en.wikipedia.org/wiki/Pellizzari_reaction)  
@@ -898,7 +898,7 @@ References:
 
 ![image](/notes/images/Pellizzari-Reacion.png)
 
-#### Indole-Synthesis-1
+## Indole-Synthesis-1
 
 References:   
  [0] [Potassium tert-Butoxide Promoted Intramolecular Amination of 1-Aryl-2- (2-nitrobenzylidene)hydrazines: Efficient Synthesis of 1-Aryl-1H-indazoles](https://www.organic-chemistry.org/abstracts/lit4/717.shtm)  
@@ -909,7 +909,7 @@ References:
  
 ![image](/notes/images/Indole-Synthesis-1.png)
 
-#### Niementowski-Quinazoline-Synthesis
+## Niementowski-Quinazoline-Synthesis
 
 References:   
  [0] [Niementowski quinazoline synthesis - Wikipedia](https://en.wikipedia.org/wiki/Niementowski_quinazoline_synthesis)  
@@ -928,7 +928,7 @@ References:
 
 ![image](/notes/images/Niementowski-Quinazoline-Synthesis.png)
 
-#### Azaindole-Synthesis
+## Azaindole-Synthesis
 
 References:   
  [0] [Two-Step Synthesis of Aza- and Diazaindoles from Chloroamino-N-heterocycles Using Ethoxyvinylborolane](https://www.organic-chemistry.org/abstracts/lit2/772.shtm)  
@@ -949,7 +949,7 @@ References:
 
 ![image](/notes/images/Azaindole-Synthesis.png)
 
-#### Aziridine-1-3-Dipole-Formation
+## Aziridine-1-3-Dipole-Formation
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -970,7 +970,7 @@ References:
 
 ![image](/notes/images/Aziridine-1-3-Dipole-Formation.png)
 
-#### Nitrone-Formation
+## Nitrone-Formation
 
 References:   
  [0] [Nitrone - Wikipedia](https://en.wikipedia.org/wiki/Nitrone)  
@@ -989,7 +989,7 @@ References:
 
 ![image](/notes/images/Nitrone-Formation.png)
 
-#### Feist-Benary-Synthesis-X1-Chlorine
+## Feist-Benary-Synthesis-X1-Chlorine
 
 References:   
  [0] [Feist-Bénary-Reaktion – Wikipedia](https://de.m.wikipedia.org/wiki/Feist-B%C3%A9nary-Reaktion)  
@@ -1009,7 +1009,7 @@ References:
 
 ![image](/notes/images/Feist-Benary-Synthesis-X1-Chlorine.png)
 
-#### Iodine-Mediated-Cyclization-Indoline-1
+## Iodine-Mediated-Cyclization-Indoline-1
 
 References:   
  [0] [Iodine-Mediated Synthesis of 3H-Indoles via Intramolecular Cyclization of Enamines](https://www.organic-chemistry.org/abstracts/lit2/954.shtm)  
@@ -1027,7 +1027,7 @@ References:
 
 ![image](/notes/images/Iodine-Mediated-Cyclization-Indoline-1.png)
 
-#### Aliphatic-Bargellini-Reaction-O
+## Aliphatic-Bargellini-Reaction-O
 
 References:   
  [0] [Bargellini Reaction](https://synarchive.com/named-reactions/bargellini-reaction)  
@@ -1050,7 +1050,7 @@ References:
 
 ![image](/notes/images/Aliphatic-Bargellini-Reaction-O.png)
 
-#### Isoindolinone-Synthesis-1-X-Chlorine
+## Isoindolinone-Synthesis-1-X-Chlorine
 
 References:   
  [0] [Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones](https://www.organic-chemistry.org/abstracts/lit6/030.shtm)  
@@ -1067,7 +1067,7 @@ References:
 
 ![image](/notes/images/Isoindolinone-Synthesis-1-X-Chlorine.png)
 
-#### Pictet-Gams-Reaction
+## Pictet-Gams-Reaction
 
 References:   
  [0] [Bischler–Napieralski reaction - Wikipedia](https://en.wikipedia.org/wiki/Bischler%E2%80%93Napieralski_reaction#Pictet%E2%80%93Gams_reaction)  
@@ -1088,7 +1088,7 @@ References:
 
 ![image](/notes/images/Pictet-Gams-Reaction.png)
 
-#### Sandmeyer-Isatin-1
+## Sandmeyer-Isatin-1
 
 References:   
  [0] [Sandmeyer Isatin Synthesis](https://synarchive.com/named-reactions/sandmeyer-isatin-synthesis)  
@@ -1099,7 +1099,7 @@ References:
  
 ![image](/notes/images/Sandmeyer-Isatin-1.png)
 
-#### Doebner-Miller
+## Doebner-Miller
 
 References:   
  [0] [Doebner-Miller Reaction](https://synarchive.com/named-reactions/doebner-miller-reaction)  
@@ -1122,7 +1122,7 @@ References:
 
 ![image](/notes/images/Doebner-Miller.png)
 
-#### Aliphatic-Bargellini-Reaction-N
+## Aliphatic-Bargellini-Reaction-N
 
 References:   
  [0] [Bargellini Reaction](https://synarchive.com/named-reactions/bargellini-reaction)  

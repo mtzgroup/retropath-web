@@ -5,7 +5,7 @@ tags: ⚙️
 [substitutions](/notes/Substitutions/Substitutions.md)
 
 
-#### Aziridine-Ring-Opening-Nu-Chlorine-acid
+## Aziridine-Ring-Opening-Nu-Chlorine-acid
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -24,7 +24,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Chlorine-acid.png)
 
-#### Aziridine-Ring-Opening-Nu-Hydroxyl-basic
+## Aziridine-Ring-Opening-Nu-Hydroxyl-basic
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -43,7 +43,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Hydroxyl-basic.png)
 
-#### Amide-Hydrolysis
+## Amide-Hydrolysis
 
 References:   
  [0] [Amide Hydrolysis Using Acid Or Base – Master Organic Chemistry](https://www.masterorganicchemistry.com/2019/10/07/amide-hydrolysis/)  
@@ -62,7 +62,7 @@ References:
 
 ![image](/notes/images/Amide-Hydrolysis.png)
 
-#### Aziridine-Ring-Opening-Nu-Thiolate-acid
+## Aziridine-Ring-Opening-Nu-Thiolate-acid
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -82,7 +82,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Thiolate-acid.png)
 
-#### Thiourea-Substitution-X-Chlorine
+## Thiourea-Substitution-X-Chlorine
 
 References:   
  [0] [15.12: Thioethers (Sulfides) and Silyl Ethers - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)/15%3A_Ethers_Epoxides_and_Thioethers/15.12%3A_Thioethers_(Sulfides)_and_Silyl_Ethers)  
@@ -103,7 +103,7 @@ References:
 
 ![image](/notes/images/Thiourea-Substitution-X-Chlorine.png)
 
-#### Haloform-X1-Chlorine-and-X2-Chlorine-and-X3-Chlorine
+## Haloform-X1-Chlorine-and-X2-Chlorine-and-X3-Chlorine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -123,7 +123,7 @@ References:
 
 ![image](/notes/images/Haloform-X1-Chlorine-and-X2-Chlorine-and-X3-Chlorine.png)
 
-#### Aziridine-Ring-Opening-Nu-Nitrile-basic
+## Aziridine-Ring-Opening-Nu-Nitrile-basic
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -142,7 +142,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Nitrile-basic.png)
 
-#### Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine
+## Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -164,7 +164,7 @@ References:
 
 ![image](/notes/images/Alpha-Halogenation-Basic-X1-Iodine-and-X2-Iodine.png)
 
-#### Aziridine-Ring-Opening-Nu-Alkoxide-basic
+## Aziridine-Ring-Opening-Nu-Alkoxide-basic
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -184,7 +184,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Alkoxide-basic.png)
 
-#### Sulfonamide-Formation
+## Sulfonamide-Formation
 
 References:   
  [0] [Sulfonamide - Wikipedia](https://en.wikipedia.org/wiki/Sulfonamide)  
@@ -203,7 +203,7 @@ References:
 
 ![image](/notes/images/Sulfonamide-Formation.png)
 
-#### Aziridine-Ring-Opening-Nu-Carboxyl-H-basic
+## Aziridine-Ring-Opening-Nu-Carboxyl-H-basic
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -223,7 +223,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Carboxyl-H-basic.png)
 
-#### Thiourea-Substitution-X-Bromine
+## Thiourea-Substitution-X-Bromine
 
 References:   
  [0] [15.12: Thioethers (Sulfides) and Silyl Ethers - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)/15%3A_Ethers_Epoxides_and_Thioethers/15.12%3A_Thioethers_(Sulfides)_and_Silyl_Ethers)  
@@ -244,7 +244,7 @@ References:
 
 ![image](/notes/images/Thiourea-Substitution-X-Bromine.png)
 
-#### Alcohol-Bromination
+## Alcohol-Bromination
 
 References:   
  [0] [PBr3 and SOCl2 – Master Organic Chemistry](https://www.masterorganicchemistry.com/2015/03/20/pbr3-and-socl2/)  
@@ -263,7 +263,7 @@ References:
 
 ![image](/notes/images/Alcohol-Bromination.png)
 
-#### Haloform-X1-Iodine-and-X2-Iodine-and-X3-Iodine
+## Haloform-X1-Iodine-and-X2-Iodine-and-X3-Iodine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -283,7 +283,7 @@ References:
 
 ![image](/notes/images/Haloform-X1-Iodine-and-X2-Iodine-and-X3-Iodine.png)
 
-#### Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine
+## Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -305,7 +305,7 @@ References:
 
 ![image](/notes/images/Alpha-Halogenation-Basic-X1-Bromine-and-X2-Bromine.png)
 
-#### Aziridine-Ring-Opening-Nu-Hydroxyl-acid
+## Aziridine-Ring-Opening-Nu-Hydroxyl-acid
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -324,7 +324,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Hydroxyl-acid.png)
 
-#### Aziridine-Ring-Opening-Nu-Iodine-acid
+## Aziridine-Ring-Opening-Nu-Iodine-acid
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -343,7 +343,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Iodine-acid.png)
 
-#### β-Lactam-Ring-Opening
+## β-Lactam-Ring-Opening
 
 References:   
  [0] [Beta-lactam - Wikipedia](https://en.wikipedia.org/wiki/Beta-lactam)  
@@ -363,7 +363,7 @@ References:
 
 ![image](/notes/images/β-Lactam-Ring-Opening.png)
 
-#### Sulfonate-Formation
+## Sulfonate-Formation
 
 References:   
  [0] [ch8-10-1.html](https://www.chem.ucalgary.ca/courses/353/Carey5th/Ch08/ch8-10-1.html)  
@@ -381,7 +381,7 @@ References:
 
 ![image](/notes/images/Sulfonate-Formation.png)
 
-#### Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine
+## Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -403,7 +403,7 @@ References:
 
 ![image](/notes/images/Alpha-Halogenation-Basic-X1-Chlorine-and-X2-Chlorine.png)
 
-#### Aziridine-Ring-Opening-Nu-Amino-basic
+## Aziridine-Ring-Opening-Nu-Amino-basic
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -424,7 +424,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Amino-basic.png)
 
-#### Gabriel-Synthesis
+## Gabriel-Synthesis
 
 References:   
  [0] [The Gabriel Synthesis – Master Organic Chemistry](https://www.masterorganicchemistry.com/2018/01/31/the-gabriel-synthesis/)  
@@ -442,7 +442,7 @@ References:
 
 ![image](/notes/images/Gabriel-Synthesis.png)
 
-#### Thiourea-Substitution-X-Sulfonate
+## Thiourea-Substitution-X-Sulfonate
 
 References:   
  [0] [15.12: Thioethers (Sulfides) and Silyl Ethers - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)/15%3A_Ethers_Epoxides_and_Thioethers/15.12%3A_Thioethers_(Sulfides)_and_Silyl_Ethers)  
@@ -464,7 +464,7 @@ References:
 
 ![image](/notes/images/Thiourea-Substitution-X-Sulfonate.png)
 
-#### Aziridine-Ring-Opening-Nu-Thiolate-basic
+## Aziridine-Ring-Opening-Nu-Thiolate-basic
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -484,7 +484,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Thiolate-basic.png)
 
-#### Aziridine-Ring-Opening-Nu-Azide-basic
+## Aziridine-Ring-Opening-Nu-Azide-basic
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -503,7 +503,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Azide-basic.png)
 
-#### Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine
+## Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine
 
 References:   
  [0] [Carboxylic acid reactions overview (article) | Khan Academy](https://www.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids/a/carboxylic-acid-reactions-overview)  
@@ -521,7 +521,7 @@ References:
 
 ![image](/notes/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Bromine-and-Xg2-Bromine.png)
 
-#### Thiourea-Substitution-X-Iodine
+## Thiourea-Substitution-X-Iodine
 
 References:   
  [0] [15.12: Thioethers (Sulfides) and Silyl Ethers - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)/15%3A_Ethers_Epoxides_and_Thioethers/15.12%3A_Thioethers_(Sulfides)_and_Silyl_Ethers)  
@@ -542,7 +542,7 @@ References:
 
 ![image](/notes/images/Thiourea-Substitution-X-Iodine.png)
 
-#### Cyclopropane-Ring-Opening-X-Iodine
+## Cyclopropane-Ring-Opening-X-Iodine
 
 References:   
  [0] [Cyclopropane - Wikipedia](https://en.wikipedia.org/wiki/Cyclopropane#Organic_reactions)  
@@ -562,7 +562,7 @@ References:
 
 ![image](/notes/images/Cyclopropane-Ring-Opening-X-Iodine.png)
 
-#### Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine
+## Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -582,7 +582,7 @@ References:
 
 ![image](/notes/images/Alpha-Halogenation-Acid-X1-Bromine-and-X2-Bromine.png)
 
-#### Haloform-X1-Bromine-and-X2-Bromine-and-X3-Bromine
+## Haloform-X1-Bromine-and-X2-Bromine-and-X3-Bromine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -602,7 +602,7 @@ References:
 
 ![image](/notes/images/Haloform-X1-Bromine-and-X2-Bromine-and-X3-Bromine.png)
 
-#### Aziridine-Ring-Opening-Nu-Alkoxide-acid
+## Aziridine-Ring-Opening-Nu-Alkoxide-acid
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -622,7 +622,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Alkoxide-acid.png)
 
-#### Wolff-Kishner-Reduction
+## Wolff-Kishner-Reduction
 
 References:   
  [0] [19.9: Nucleophilic Addition of Hydrazine - The Wolff-Kishner Reaction - Chemistry LibreTexts](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(McMurry)/19%3A_Aldehydes_and_Ketones-_Nucleophilic_Addition_Reactions/19.09%3A_Nucleophilic_Addition_of_Hydrazine_-_The_Wolff-Kishner_Reaction)  
@@ -640,7 +640,7 @@ References:
 
 ![image](/notes/images/Wolff-Kishner-Reduction.png)
 
-#### Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine
+## Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -660,7 +660,7 @@ References:
 
 ![image](/notes/images/Alpha-Halogenation-Acid-X1-Chlorine-and-X2-Chlorine.png)
 
-#### Aziridine-Ring-Opening-Nu-Azide-acid
+## Aziridine-Ring-Opening-Nu-Azide-acid
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  
@@ -679,7 +679,7 @@ References:
 
 ![image](/notes/images/Aziridine-Ring-Opening-Nu-Azide-acid.png)
 
-#### Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine
+## Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine
 
 References:   
  [0] [Ketone halogenation - Wikipedia](https://en.wikipedia.org/wiki/Ketone_halogenation)  
@@ -699,7 +699,7 @@ References:
 
 ![image](/notes/images/Alpha-Halogenation-Acid-X1-Iodine-and-X2-Iodine.png)
 
-#### Cyclopropane-Ring-Opening-X-Bromine
+## Cyclopropane-Ring-Opening-X-Bromine
 
 References:   
  [0] [Cyclopropane - Wikipedia](https://en.wikipedia.org/wiki/Cyclopropane#Organic_reactions)  
@@ -719,7 +719,7 @@ References:
 
 ![image](/notes/images/Cyclopropane-Ring-Opening-X-Bromine.png)
 
-#### Cyclopropane-Ring-Opening-X-Chlorine
+## Cyclopropane-Ring-Opening-X-Chlorine
 
 References:   
  [0] [Cyclopropane - Wikipedia](https://en.wikipedia.org/wiki/Cyclopropane#Organic_reactions)  
@@ -739,7 +739,7 @@ References:
 
 ![image](/notes/images/Cyclopropane-Ring-Opening-X-Chlorine.png)
 
-#### Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine
+## Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine
 
 References:   
  [0] [Carboxylic acid reactions overview (article) | Khan Academy](https://www.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids/a/carboxylic-acid-reactions-overview)  
@@ -757,7 +757,7 @@ References:
 
 ![image](/notes/images/Carboxylic-Acid-to-Acid-Halide-Xg1-Chlorine-and-Xg2-Chlorine.png)
 
-#### Aziridine-Ring-Opening-Nu-Bromine-acid
+## Aziridine-Ring-Opening-Nu-Bromine-acid
 
 References:   
  [0] [Aziridines - Wikipedia](https://en.wikipedia.org/wiki/Aziridines#Reactions)  

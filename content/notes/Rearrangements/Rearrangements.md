@@ -7,7 +7,7 @@ tags: ⚙️
 
 
 
-### Lossen-Rearrangement
+## Lossen-Rearrangement
 
 References:   
  [0] [Lossen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Lossen_rearrangement)  
@@ -25,7 +25,7 @@ References:
 
 ![image](/notes/images/Lossen-Rearrangement.png)
 
-### Hofmann-Rearrangement-Cl
+## Hofmann-Rearrangement-Cl
 
 References:   
  [0] [Hofmann Rearrangement](https://synarchive.com/named-reactions/hofmann-rearrangement)  
@@ -44,7 +44,7 @@ References:
 
 ![image](/notes/images/Hofmann-Rearrangement-Cl.png)
 
-### Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile
+## Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile
 
 References:   
  [0] [9.4.2. Tautomers - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue_Chem_26100%3A_Organic_Chemistry_I_(Wenthold)/Chapter_09%3A_Alkynes/9.4_Electrophilic_Addition_to_Alkynes/9.4.2._Tautomers)  
@@ -64,7 +64,7 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile.png)
 
-### Benzilic-Acid-Rearrangement
+## Benzilic-Acid-Rearrangement
 
 References:   
  [0] [Benzilic Acid Rearrangement](https://www.organic-chemistry.org/namedreactions/benzilic-acid-rearrengement.shtm)  
@@ -82,7 +82,7 @@ References:
 
 ![image](/notes/images/Benzilic-Acid-Rearrangement.png)
 
-### Fritsch-Buttenberg-Wiechell-Rearrangement
+## Fritsch-Buttenberg-Wiechell-Rearrangement
 
 References:   
  [0] [Fritsch–Buttenberg–Wiechell rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Fritsch%E2%80%93Buttenberg%E2%80%93Wiechell_rearrangement)  
@@ -100,7 +100,7 @@ References:
 
 ![image](/notes/images/Fritsch-Buttenberg-Wiechell-Rearrangement.png)
 
-### Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile
+## Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile
 
 References:   
  [0] [9.4.2. Tautomers - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue_Chem_26100%3A_Organic_Chemistry_I_(Wenthold)/Chapter_09%3A_Alkynes/9.4_Electrophilic_Addition_to_Alkynes/9.4.2._Tautomers)  
@@ -121,7 +121,7 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile.png)
 
-### Semi-Pinacol-Rearrangement-Alkene
+## Semi-Pinacol-Rearrangement-Alkene
 
 References:   
  [0] [Semi-Pinacol Rearrangement](https://synarchive.com/named-reactions/semi-pinacol-rearrangement)  
@@ -142,7 +142,7 @@ References:
 
 ![image](/notes/images/Semi-Pinacol-Rearrangement-Alkene.png)
 
-### Fries-Rearrangement-ortho
+## Fries-Rearrangement-ortho
 
 References:   
  [0] [Fries Rearrangement](https://www.organic-chemistry.org/namedreactions/fries-rearrangement.shtm)  
@@ -159,7 +159,7 @@ References:
 
 ![image](/notes/images/Fries-Rearrangement-ortho.png)
 
-### Chan-Rearrangement
+## Chan-Rearrangement
 
 References:   
  [0] [Chan Rearrangement](https://synarchive.com/named-reactions/chan-rearrangement)  
@@ -178,7 +178,7 @@ References:
 
 ![image](/notes/images/Chan-Rearrangement.png)
 
-### Eschenmoser-Claisen-Rearrangement
+## Eschenmoser-Claisen-Rearrangement
 
 References:   
  [0] [Eschenmoser-Claisen Rearrangement](https://synarchive.com/named-reactions/eschenmoser-claisen-rearrangement)  
@@ -203,7 +203,7 @@ References:
 
 ![image](/notes/images/Eschenmoser-Claisen-Rearrangement.png)
 
-### Curtius-Rearrangement
+## Curtius-Rearrangement
 
 References:   
  [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
@@ -222,7 +222,7 @@ References:
 
 ![image](/notes/images/Curtius-Rearrangement.png)
 
-### Lobry-de-Bruyn-Van-Ekenstein-Transformation-Acid
+## Lobry-de-Bruyn-Van-Ekenstein-Transformation-Acid
 
 References:   
  [0] [Lobry de Bruyn–Van Ekenstein transformation - Wikipedia](https://en.wikipedia.org/wiki/Lobry_de_Bruyn%E2%80%93Van_Ekenstein_transformation)  
@@ -240,7 +240,7 @@ References:
 
 ![image](/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-Acid.png)
 
-### Hofmann-Rearrangement-Br
+## Hofmann-Rearrangement-Br
 
 References:   
  [0] [Hofmann Rearrangement](https://synarchive.com/named-reactions/hofmann-rearrangement)  
@@ -259,7 +259,7 @@ References:
 
 ![image](/notes/images/Hofmann-Rearrangement-Br.png)
 
-### Criegee-Rearrangement
+## Criegee-Rearrangement
 
 References:   
  [0] [Criegee rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Criegee_rearrangement)  
@@ -279,7 +279,7 @@ References:
 
 ![image](/notes/images/Criegee-Rearrangement.png)
 
-### Meisenheimer-Rearrangement
+## Meisenheimer-Rearrangement
 
 References:   
  [0] [Meisenheimer Rearrangement](https://synarchive.com/named-reactions/meisenheimer-rearrangement)  
@@ -298,7 +298,7 @@ References:
 
 ![image](/notes/images/Meisenheimer-Rearrangement.png)
 
-### Pinacol-Rearrangement
+## Pinacol-Rearrangement
 
 References:   
  [0] [Pinacol Rearrangement](https://www.organic-chemistry.org/namedreactions/pinacol-rearrangement.shtm)  
@@ -318,7 +318,7 @@ References:
 
 ![image](/notes/images/Pinacol-Rearrangement.png)
 
-### Meyer-Schuster-Rearrangement
+## Meyer-Schuster-Rearrangement
 
 References:   
  [0] [Meyer-Schuster Rearrangement](https://synarchive.com/named-reactions/meyer-schuster-rearrangement)  
@@ -337,7 +337,7 @@ References:
 
 ![image](/notes/images/Meyer-Schuster-Rearrangement.png)
 
-### Imine-Tautomerization-EWG-Nitrite-EWG3-Nitrile
+## Imine-Tautomerization-EWG-Nitrite-EWG3-Nitrile
 
 References:   
  [0] [9.4.2. Tautomers - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue_Chem_26100%3A_Organic_Chemistry_I_(Wenthold)/Chapter_09%3A_Alkynes/9.4_Electrophilic_Addition_to_Alkynes/9.4.2._Tautomers)  
@@ -356,7 +356,7 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Nitrite-EWG3-Nitrile.png)
 
-### Baker-Venkataraman-Rearrangement
+## Baker-Venkataraman-Rearrangement
 
 References:   
  [0] [Baker-Venkataraman Rearrangement](https://www.organic-chemistry.org/namedreactions/baker-venkataraman-rearrangement.shtm)  
@@ -380,7 +380,7 @@ References:
 
 ![image](/notes/images/Baker-Venkataraman-Rearrangement.png)
 
-### Barton-Zard-Reaction-NO2
+## Barton-Zard-Reaction-NO2
 
 References:   
  [0] [Barton-Zard Reaction](https://synarchive.com/named-reactions/barton-zard-reaction)  
@@ -398,7 +398,7 @@ References:
 
 ![image](/notes/images/Barton-Zard-Reaction-NO2.png)
 
-### Rupe-Rearrangement
+## Rupe-Rearrangement
 
 References:   
  [0] [Rupe Rearrangement](https://synarchive.com/named-reactions/rupe-rearrangement)  
@@ -417,7 +417,7 @@ References:
 
 ![image](/notes/images/Rupe-Rearrangement.png)
 
-### Semi-Pinacol-Rearrangement-Nu-Iodine
+## Semi-Pinacol-Rearrangement-Nu-Iodine
 
 References:   
  [0] [Semi-Pinacol Rearrangement](https://synarchive.com/named-reactions/semi-pinacol-rearrangement)  
@@ -437,7 +437,7 @@ References:
 
 ![image](/notes/images/Semi-Pinacol-Rearrangement-Nu-Iodine.png)
 
-### Barton-Zard-Reaction-SO2Ar
+## Barton-Zard-Reaction-SO2Ar
 
 References:   
  [0] [Barton-Zard Reaction](https://synarchive.com/named-reactions/barton-zard-reaction)  
@@ -456,7 +456,7 @@ References:
 
 ![image](/notes/images/Barton-Zard-Reaction-SO2Ar.png)
 
-### Imine-Tautomerization-EWG-Carboxyl-EWG3-Nitrile
+## Imine-Tautomerization-EWG-Carboxyl-EWG3-Nitrile
 
 References:   
  [0] [9.4.2. Tautomers - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue_Chem_26100%3A_Organic_Chemistry_I_(Wenthold)/Chapter_09%3A_Alkynes/9.4_Electrophilic_Addition_to_Alkynes/9.4.2._Tautomers)  
@@ -476,7 +476,7 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Carboxyl-EWG3-Nitrile.png)
 
-### Fries-Rearrangement-para
+## Fries-Rearrangement-para
 
 References:   
  [0] [Fries Rearrangement](https://www.organic-chemistry.org/namedreactions/fries-rearrangement.shtm)  
@@ -493,7 +493,7 @@ References:
 
 ![image](/notes/images/Fries-Rearrangement-para.png)
 
-### Amadori-Rearrangement
+## Amadori-Rearrangement
 
 References:   
  [0] [Amadori rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Amadori_rearrangement)  
@@ -511,7 +511,7 @@ References:
 
 ![image](/notes/images/Amadori-Rearrangement.png)
 
-### Meisenheimer-Rearrangement-Conjugated
+## Meisenheimer-Rearrangement-Conjugated
 
 References:   
  [0] [Meisenheimer Rearrangement](https://synarchive.com/named-reactions/meisenheimer-rearrangement)  
@@ -534,7 +534,7 @@ References:
 
 ![image](/notes/images/Meisenheimer-Rearrangement-Conjugated.png)
 
-### Semi-Pinacol-Rearrangement-Nu-Sulfonate
+## Semi-Pinacol-Rearrangement-Nu-Sulfonate
 
 References:   
  [0] [Semi-Pinacol Rearrangement](https://synarchive.com/named-reactions/semi-pinacol-rearrangement)  
@@ -555,7 +555,7 @@ References:
 
 ![image](/notes/images/Semi-Pinacol-Rearrangement-Nu-Sulfonate.png)
 
-### Pummerer-Rearrangement
+## Pummerer-Rearrangement
 
 References:   
  [0] [Pummerer Rearrangement](https://synarchive.com/named-reactions/pummerer-rearrangement)  
@@ -576,7 +576,7 @@ References:
 
 ![image](/notes/images/Pummerer-Rearrangement.png)
 
-### Semi-Pinacol-Rearrangement-Nu-Bromine
+## Semi-Pinacol-Rearrangement-Nu-Bromine
 
 References:   
  [0] [Semi-Pinacol Rearrangement](https://synarchive.com/named-reactions/semi-pinacol-rearrangement)  
@@ -596,7 +596,7 @@ References:
 
 ![image](/notes/images/Semi-Pinacol-Rearrangement-Nu-Bromine.png)
 
-### Piancatelli-Rearrangement
+## Piancatelli-Rearrangement
 
 References:   
  [0] [Page not available - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6270237/)  
@@ -618,7 +618,7 @@ References:
 
 ![image](/notes/images/Piancatelli-Rearrangement.png)
 
-### Achmatowicz-Reaction
+## Achmatowicz-Reaction
 
 References:   
  [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
@@ -640,7 +640,7 @@ References:
 
 ![image](/notes/images/Achmatowicz-Reaction.png)
 
-### Semi-Pinacol-Rearrangement-Nu-Chlorine
+## Semi-Pinacol-Rearrangement-Nu-Chlorine
 
 References:   
  [0] [Semi-Pinacol Rearrangement](https://synarchive.com/named-reactions/semi-pinacol-rearrangement)  
@@ -660,7 +660,7 @@ References:
 
 ![image](/notes/images/Semi-Pinacol-Rearrangement-Nu-Chlorine.png)
 
-### Imine-Tautomerization-EWG-Nitrile-EWG3-Nitrile
+## Imine-Tautomerization-EWG-Nitrile-EWG3-Nitrile
 
 References:   
  [0] [9.4.2. Tautomers - Chemistry LibreTexts](https://chem.libretexts.org/Courses/Purdue/Purdue_Chem_26100%3A_Organic_Chemistry_I_(Wenthold)/Chapter_09%3A_Alkynes/9.4_Electrophilic_Addition_to_Alkynes/9.4.2._Tautomers)  
@@ -679,7 +679,7 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Nitrile-EWG3-Nitrile.png)
 
-### Thiocarbamate-Resonance
+## Thiocarbamate-Resonance
 
 References:   
  [0] [Thiocarbamate - Wikipedia](https://en.wikipedia.org/wiki/Thiocarbamate)  
@@ -696,7 +696,7 @@ References:
 
 ![image](/notes/images/Thiocarbamate-Resonance.png)
 
-### Lobry-de-Bruyn-Van-Ekenstein-Transformation-Base
+## Lobry-de-Bruyn-Van-Ekenstein-Transformation-Base
 
 References:   
  [0] [Lobry de Bruyn–Van Ekenstein transformation - Wikipedia](https://en.wikipedia.org/wiki/Lobry_de_Bruyn%E2%80%93Van_Ekenstein_transformation)  
@@ -714,7 +714,7 @@ References:
 
 ![image](/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-Base.png)
 
-### Beckmann-Rearrangement
+## Beckmann-Rearrangement
 
 References:   
  [0] [Beckmann Rearrangement](https://synarchive.com/named-reactions/beckmann-rearrangement)  
