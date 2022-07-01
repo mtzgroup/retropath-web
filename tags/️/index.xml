@@ -1,22 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>⚙️ on</title><link>https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/</link><description>Recent content in ⚙️ on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</guid><description>[[named_reactions]]
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>⚙️ on</title><link>https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/</link><description>Recent content in ⚙️ on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</guid><description>named_reactions
 Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl References:
 [0] Just a moment&amp;hellip;
 Condition to enforce:
 R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
-R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkene-Addition/Alkene-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkene-Addition/Alkene-Addition/</guid><description>[[Electrophilic-Addition]]
-Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Chlorine References:
-[0] Alkene Reactivity
-Condition to enforce:
-R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group
-R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkyne-Addition/Alkyne-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkyne-Addition/Alkyne-Addition/</guid><description>[[Other]]
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkene-Addition/Alkene-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkene-Addition/Alkene-Addition/</guid><description>Electrophilic-Addition
+Alkene-Addition-Acidification-with-Rearrangement-Bromine References:
+[0] Introduction to Rearrangement Reactions – Master Organic Chemistry
+Special Conditions : SIDE REACTION Condition to enforce:</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkyne-Addition/Alkyne-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Alkyne-Addition/Alkyne-Addition/</guid><description>Electrophilic-Addition
 Alkyne-Addition-El-Chlorine-and-Nu-Chlorine References:
 [0] Synthesis (5) - Reactions of Alkynes – Master Organic Chemistry
 Condition to enforce:
-R1 = H, A-Aliphatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</guid><description>[[Additions]]
+R1 = H, A-Aliphatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</guid><description>Additions
 Halogenation-Allylic-Succinimides-X-Bromine References:
 [0] N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry
 Condition to enforce:
-R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</guid><description>[[Additions]]
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</guid><description>Additions
 Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester References:
 [0] Michael Addition
 [1] JSCT_v11-6.pdf
@@ -25,64 +23,64 @@ R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
 R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</guid><description>[[Nucleophilic-Addition]]
 Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile References:
 [0] Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry
-[1] 19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Nucleophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Nucleophilic-Addition/</guid><description>[[Additions]]
+[1] 19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Nucleophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Nucleophilic-Addition/</guid><description>Additions
 Riemschneider-Thiocarbamate-Synthesis-Water References:
 [0] Riemschneider thiocarbamate synthesis - Wikipedia
 Condition to enforce:
 R1 = L-A
-Amide-Carbonyl-Addition References:</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</guid><description>[[named_reactions]]
+Pinner-Reaction-Sulfur References:</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</guid><description>named_reactions
 Krapcho-Decarboxylation-GWE-Carboxyl References:
 [0] Krapcho Decarboxylation
 Condition to enforce:
 R1 = L-A
 R2 = L-A
-R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</guid><description>[[Other]]
-Indole-Synthesis-(1) References:
-[0] Potassium tert-Butoxide Promoted Intramolecular Amination of 1-Aryl-2- (2-nitrobenzylidene)hydrazines: Efficient Synthesis of 1-Aryl-1H-indazoles
-Indole-Synthesis-(Nenitzescu) References:
-[0] Nenitzescu Indole Synthesis</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</guid><description>[[named_reactions]]
+R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</guid><description>Other
+Isoindolinone-Synthesis-1-X-Fluorine References:
+[0] Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones
+Condition to enforce:
+R5 = H, A-Aliphatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</guid><description>named_reactions
 Formylation-Alpha-Bromo References:
 [0] Haloform Reaction
 Condition to enforce:
 R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A
-R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</guid><description>[[Other]]
-ozonolysis-alkyne References:
+R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</guid><description>Other
+Ozonolysis-Alkyne References:
 [0] Ozonolysis - Criegee Mechanism
 [1] Alkene Reactions: Ozonolysis – Master Organic Chemistry
-[2] Alkene Reactions: Ozonolysis – Master Organic Chemistry</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</guid><description>[[Other]]
+[2] Alkene Reactions: Ozonolysis – Master Organic Chemistry</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</guid><description>Other
 Rubottom-Oxidation References:
 [0] Rubottom Oxidation
 Condition to enforce:
 R1 = L-A, A-Aromatic-Carbon
 R2 = L-A, A-Aromatic-Carbon
-R3 = L-A, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</guid><description>[[Rearrangements]]
-Buchner-Ring-Expansion-(O) References:
-[0] Pericyclic reaction - Wikipedia
-Special Conditions : SIDE REACTION
-Oxy-Cope-Rearrangement References:
-[0] Cope rearrangement - Wikipedia</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Rearrangements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Rearrangements/</guid><description>[[named_reactions]]
-Lossen-Rearrangement References:
-[0] Lossen rearrangement - Wikipedia
+R3 = L-A, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</guid><description>Rearrangements
+Neber-Rearrangement References:
+[0] Neber Rearrangement
+Special Conditions : SIDE REACTION Condition to enforce:
+R1 = L-A
+R2 = L-A, Vinyl-Group</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Rearrangements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Rearrangements/</guid><description>named_reactions
+Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile References:
+[0] 9.4.2. Tautomers - Chemistry LibreTexts
 Condition to enforce:
-R1 = L-A, A-Aromatic-Carbon
-R2 = L-A, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>[[Substitutions]]
-Reimer-Tiemann-Formylation References:
-[0] Reimer-Tiemann Formylation
-Benzene-Nitration References:
-[0] Nitration of Benzene and Methylbenzene - Chemistry LibreTexts
-[1] Nitration - Wikipedia</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</guid><description>[[Nucleophilic-Substitutions]]
-Nucleophilic Acyl Substitution is a reaction that carboxylic acid derivatives undergo. It is a 2-step mechanism that involves nucleophilic addition and leaving group removal.</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</guid><description>[[Nucleophilic-Substitutions]]
-Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine References:
-[0] Acetoacetic-Ester Synthesis
-[1] Substituted carbonyl compound synthesis by alkylation or condensation
-[2] Malonic Ester Synthesis
-[3] Carbonyl alpha-substitution reactions - Wikipedia</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</guid><description>[[Nucleophilic-Substitutions]]
-A nucleophile (Nu-) attack an electron poor aromatic molecule, resulting in the substitution of a leaving group Works well with electron withdrawing groups (EWG), such as NO2, since it activates the ring The EWGs work well in the ortho or para positions since the Nu- puts a negative charge on the ring and the EWG can help stabilize it https://www.</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</guid><description>[[Substitutions]]
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group-No-Oxygen, A-Alkoxide, Hydroxyl, A-Aliphatic-Nitrogen</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>substitutions
+Bradsher-Cyclization-2 References:
+[0] Bradsher Cyclization
+Condition to enforce:
+R10 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
+Reimer-Tiemann-Formylation References:</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Acyl-Substitution/Nucleophilic-Acyl-Substitution/</guid><description>nucleophilic-substitutions
+Nucleophilic Acyl Substitution is a reaction that carboxylic acid derivatives undergo. It is a 2-step mechanism that involves nucleophilic addition and leaving group removal.</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</guid><description>nucleophilic-substitutions
+Nucleophilic-Aliphatic-Substitution-Acidic-Lg-Alkoxide-and-Nu-Iodine References:
+[0] Sn2
+[1] 1.24: Nucleophilic Substitution, SN2, SN1 - Chemistry LibreTexts
+[2] Sn2
+[3] Acidic cleavage of ethers (SN2) – Master Organic Chemistry</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</guid><description>nucleophilic-substitutions
+A nucleophile (Nu-) attack an electron poor aromatic molecule, resulting in the substitution of a leaving group Works well with electron withdrawing groups (EWG), such as NO2, since it activates the ring The EWGs work well in the ortho or para positions since the Nu- puts a negative charge on the ring and the EWG can help stabilize it !</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</guid><description>substitutions
 Aziridine-Ring-Opening-Nu-Chlorine-acid References:
 [0] Aziridines - Wikipedia
 Condition to enforce:
 R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
-R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Substitutions/</guid><description>[[named_reactions]]
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Substitutions/</guid><description>named_reactions
 Horner-Wadsworth-Emmons-Reaction-EWG-Carboxyl References:
 [0] Horner–Wadsworth–Emmons reaction - Wikipedia
 Condition to enforce:
