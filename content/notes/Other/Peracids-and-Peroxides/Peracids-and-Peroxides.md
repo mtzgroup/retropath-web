@@ -2,7 +2,7 @@
 tags: ⚙️
 ---
 
-[Other](/notes/Other.md)
+[Other](/notes/named_reactions/Other.md)
 #### Rubottom-Oxidation
 
 References:   
@@ -26,23 +26,6 @@ References:
 
 ![image](/notes/images/Rubottom-Oxidation.png)
 
-#### Dakin-Oxidation-Acid
-
-References:   
- [0] [Dakin Oxidation](https://synarchive.com/named-reactions/dakin-oxidation)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Dakin-Oxidation-Acid.png)
-
 #### Prilezhaev-Epoxidation
 
 References:   
@@ -64,6 +47,23 @@ References:
 
 
 ![image](/notes/images/Prilezhaev-Epoxidation.png)
+
+#### Dakin-Oxidation-Acid
+
+References:   
+ [0] [Dakin Oxidation](https://synarchive.com/named-reactions/dakin-oxidation)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Dakin-Oxidation-Acid.png)
 
 #### Baeyer-Villiger-Oxidation-Peracid
 

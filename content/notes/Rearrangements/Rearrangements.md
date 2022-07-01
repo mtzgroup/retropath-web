@@ -1,9 +1,48 @@
 ---
+title: Rearrangements
 tags: ⚙️
 ---
+
 [named_reactions](/notes/named_reactions.md)
 
 
+
+### Lossen-Rearrangement
+
+References:   
+ [0] [Lossen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Lossen_rearrangement)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Lossen-Rearrangement.png)
+
+### Hofmann-Rearrangement-Cl
+
+References:   
+ [0] [Hofmann Rearrangement](https://synarchive.com/named-reactions/hofmann-rearrangement)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Hofmann-Rearrangement-Cl.png)
 
 ### Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile
 
@@ -25,42 +64,6 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Carbonyl-EWG3-Nitrile.png)
 
-### Fritsch-Buttenberg-Wiechell-Rearrangement
-
-References:   
- [0] [Fritsch–Buttenberg–Wiechell rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Fritsch%E2%80%93Buttenberg%E2%80%93Wiechell_rearrangement)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aromatic-Carbon  
-> R2 = A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Fritsch-Buttenberg-Wiechell-Rearrangement.png)
-
-### Lossen-Rearrangement
-
-References:   
- [0] [Lossen rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Lossen_rearrangement)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Lossen-Rearrangement.png)
-
 ### Benzilic-Acid-Rearrangement
 
 References:   
@@ -79,45 +82,23 @@ References:
 
 ![image](/notes/images/Benzilic-Acid-Rearrangement.png)
 
-### Semi-Pinacol-Rearrangement-Alkene
+### Fritsch-Buttenberg-Wiechell-Rearrangement
 
 References:   
- [0] [Semi-Pinacol Rearrangement](https://synarchive.com/named-reactions/semi-pinacol-rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Semi-Pinacol-Rearrangement-Alkene.png)
-
-### Hofmann-Rearrangement-Cl
-
-References:   
- [0] [Hofmann Rearrangement](https://synarchive.com/named-reactions/hofmann-rearrangement)  
+ [0] [Fritsch–Buttenberg–Wiechell rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Fritsch%E2%80%93Buttenberg%E2%80%93Wiechell_rearrangement)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = A-Aromatic-Carbon  
+> R2 = A-Aromatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Hofmann-Rearrangement-Cl.png)
+![image](/notes/images/Fritsch-Buttenberg-Wiechell-Rearrangement.png)
 
 ### Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile
 
@@ -140,24 +121,26 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Phosphonate-EWG3-Nitrile.png)
 
-### Curtius-Rearrangement
+### Semi-Pinacol-Rearrangement-Alkene
 
 References:   
- [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
- [1] [Curtius Rearrangement](https://www.organic-chemistry.org/namedreactions/curtius-rearrangement.shtm)  
- [2] [1](https://www.poliuretanos.net/Ingles/Chapter1/131Isocyanates.htm)  
+ [0] [Semi-Pinacol Rearrangement](https://synarchive.com/named-reactions/semi-pinacol-rearrangement)  
  
 
 
- 
+ Special Conditions : SIDE REACTION 
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Curtius-Rearrangement.png)
+![image](/notes/images/Semi-Pinacol-Rearrangement-Alkene.png)
 
 ### Fries-Rearrangement-ortho
 
@@ -195,43 +178,6 @@ References:
 
 ![image](/notes/images/Chan-Rearrangement.png)
 
-### Lobry-de-Bruyn-Van-Ekenstein-Transformation-Acid
-
-References:   
- [0] [Lobry de Bruyn–Van Ekenstein transformation - Wikipedia](https://en.wikipedia.org/wiki/Lobry_de_Bruyn%E2%80%93Van_Ekenstein_transformation)  
- [1] [Lobry-de Bruyn-van Ekenstein Rearrangement](https://synarchive.com/named-reactions/lobry-de-bruyn-van-ekenstein-rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-Acid.png)
-
-### Meisenheimer-Rearrangement
-
-References:   
- [0] [Meisenheimer Rearrangement](https://synarchive.com/named-reactions/meisenheimer-rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Meisenheimer-Rearrangement.png)
-
 ### Eschenmoser-Claisen-Rearrangement
 
 References:   
@@ -256,6 +202,43 @@ References:
 
 
 ![image](/notes/images/Eschenmoser-Claisen-Rearrangement.png)
+
+### Curtius-Rearrangement
+
+References:   
+ [0] [curtius-rearrangement](https://www.synarchive.com/named-reactions/curtius-rearrangement)  
+ [1] [Curtius Rearrangement](https://www.organic-chemistry.org/namedreactions/curtius-rearrangement.shtm)  
+ [2] [1](https://www.poliuretanos.net/Ingles/Chapter1/131Isocyanates.htm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Curtius-Rearrangement.png)
+
+### Lobry-de-Bruyn-Van-Ekenstein-Transformation-Acid
+
+References:   
+ [0] [Lobry de Bruyn–Van Ekenstein transformation - Wikipedia](https://en.wikipedia.org/wiki/Lobry_de_Bruyn%E2%80%93Van_Ekenstein_transformation)  
+ [1] [Lobry-de Bruyn-van Ekenstein Rearrangement](https://synarchive.com/named-reactions/lobry-de-bruyn-van-ekenstein-rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-Acid.png)
 
 ### Hofmann-Rearrangement-Br
 
@@ -296,43 +279,24 @@ References:
 
 ![image](/notes/images/Criegee-Rearrangement.png)
 
-### Rupe-Rearrangement
+### Meisenheimer-Rearrangement
 
 References:   
- [0] [Rupe Rearrangement](https://synarchive.com/named-reactions/rupe-rearrangement)  
+ [0] [Meisenheimer Rearrangement](https://synarchive.com/named-reactions/meisenheimer-rearrangement)  
  
 
 
  Special Conditions : SIDE REACTION 
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = H, A-Aliphatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Rupe-Rearrangement.png)
-
-### Meyer-Schuster-Rearrangement
-
-References:   
- [0] [Meyer-Schuster Rearrangement](https://synarchive.com/named-reactions/meyer-schuster-rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Meyer-Schuster-Rearrangement.png)
+![image](/notes/images/Meisenheimer-Rearrangement.png)
 
 ### Pinacol-Rearrangement
 
@@ -353,6 +317,25 @@ References:
 
 
 ![image](/notes/images/Pinacol-Rearrangement.png)
+
+### Meyer-Schuster-Rearrangement
+
+References:   
+ [0] [Meyer-Schuster Rearrangement](https://synarchive.com/named-reactions/meyer-schuster-rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Meyer-Schuster-Rearrangement.png)
 
 ### Imine-Tautomerization-EWG-Nitrite-EWG3-Nitrile
 
@@ -415,22 +398,24 @@ References:
 
 ![image](/notes/images/Barton-Zard-Reaction-NO2.png)
 
-### Fries-Rearrangement-para
+### Rupe-Rearrangement
 
 References:   
- [0] [Fries Rearrangement](https://www.organic-chemistry.org/namedreactions/fries-rearrangement.shtm)  
+ [0] [Rupe Rearrangement](https://synarchive.com/named-reactions/rupe-rearrangement)  
  
 
 
  Special Conditions : SIDE REACTION 
-  Avoid formation of: 
-> fragment = 4-membered-ring, A-Cyclobutene-Aromatic, 4-Bridged Benzene, 3-Bridged Benzene, 4-Bridged Benzene  
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Fries-Rearrangement-para.png)
+![image](/notes/images/Rupe-Rearrangement.png)
 
 ### Semi-Pinacol-Rearrangement-Nu-Iodine
 
@@ -491,6 +476,41 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Carboxyl-EWG3-Nitrile.png)
 
+### Fries-Rearrangement-para
+
+References:   
+ [0] [Fries Rearrangement](https://www.organic-chemistry.org/namedreactions/fries-rearrangement.shtm)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Avoid formation of: 
+> fragment = 4-membered-ring, A-Cyclobutene-Aromatic, 4-Bridged Benzene, 3-Bridged Benzene, 4-Bridged Benzene  
+> 
+
+
+
+
+![image](/notes/images/Fries-Rearrangement-para.png)
+
+### Amadori-Rearrangement
+
+References:   
+ [0] [Amadori rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Amadori_rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Amadori-Rearrangement.png)
+
 ### Meisenheimer-Rearrangement-Conjugated
 
 References:   
@@ -513,46 +533,6 @@ References:
 
 
 ![image](/notes/images/Meisenheimer-Rearrangement-Conjugated.png)
-
-### Amadori-Rearrangement
-
-References:   
- [0] [Amadori rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Amadori_rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Amadori-Rearrangement.png)
-
-### Piancatelli-Rearrangement
-
-References:   
- [0] [Page not available - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6270237/)  
- [1] [Piancatelli Rearrangement](https://synarchive.com/named-reactions/piancatelli-rearrangement)  
- [2] [Piancatelli rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Piancatelli_rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Piancatelli-Rearrangement.png)
 
 ### Semi-Pinacol-Rearrangement-Nu-Sulfonate
 
@@ -616,6 +596,50 @@ References:
 
 ![image](/notes/images/Semi-Pinacol-Rearrangement-Nu-Bromine.png)
 
+### Piancatelli-Rearrangement
+
+References:   
+ [0] [Page not available - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6270237/)  
+ [1] [Piancatelli Rearrangement](https://synarchive.com/named-reactions/piancatelli-rearrangement)  
+ [2] [Piancatelli rearrangement - Wikipedia](https://en.wikipedia.org/wiki/Piancatelli_rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Piancatelli-Rearrangement.png)
+
+### Achmatowicz-Reaction
+
+References:   
+ [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Achmatowicz-Reaction.png)
+
 ### Semi-Pinacol-Rearrangement-Nu-Chlorine
 
 References:   
@@ -655,28 +679,6 @@ References:
 
 ![image](/notes/images/Imine-Tautomerization-EWG-Nitrile-EWG3-Nitrile.png)
 
-### Achmatowicz-Reaction
-
-References:   
- [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Achmatowicz-Reaction.png)
-
 ### Thiocarbamate-Resonance
 
 References:   
@@ -693,6 +695,24 @@ References:
 
 
 ![image](/notes/images/Thiocarbamate-Resonance.png)
+
+### Lobry-de-Bruyn-Van-Ekenstein-Transformation-Base
+
+References:   
+ [0] [Lobry de Bruyn–Van Ekenstein transformation - Wikipedia](https://en.wikipedia.org/wiki/Lobry_de_Bruyn%E2%80%93Van_Ekenstein_transformation)  
+ [1] [Lobry-de Bruyn-van Ekenstein Rearrangement](https://synarchive.com/named-reactions/lobry-de-bruyn-van-ekenstein-rearrangement)  
+ 
+
+
+ Special Conditions : SIDE REACTION 
+  Condition to enforce: 
+> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-Base.png)
 
 ### Beckmann-Rearrangement
 
@@ -713,22 +733,4 @@ References:
 
 
 ![image](/notes/images/Beckmann-Rearrangement.png)
-
-### Lobry-de-Bruyn-Van-Ekenstein-Transformation-Base
-
-References:   
- [0] [Lobry de Bruyn–Van Ekenstein transformation - Wikipedia](https://en.wikipedia.org/wiki/Lobry_de_Bruyn%E2%80%93Van_Ekenstein_transformation)  
- [1] [Lobry-de Bruyn-van Ekenstein Rearrangement](https://synarchive.com/named-reactions/lobry-de-bruyn-van-ekenstein-rearrangement)  
- 
-
-
- Special Conditions : SIDE REACTION 
-  Condition to enforce: 
-> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Lobry-de-Bruyn-Van-Ekenstein-Transformation-Base.png)
 

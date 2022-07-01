@@ -1,8 +1,9 @@
 ---
+title: Nucleophilic-Addition
 tags: ⚙️
 ---
 
-[Additions](/notes/Additions)
+[Additions](/notes/Additions.md)
 #### Riemschneider-Thiocarbamate-Synthesis-Water
 
 References:   
@@ -19,42 +20,6 @@ References:
 
 
 ![image](/notes/images/Riemschneider-Thiocarbamate-Synthesis-Water.png)
-
-#### Pinner-Reaction-Sulfur
-
-References:   
- [0] [Thionoester synthesis by thionation](https://www.organic-chemistry.org/synthesis/C2S/thionoesters.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Pinner-Reaction-Sulfur.png)
-
-#### Pinner-Reaction
-
-References:   
- [0] [Pinner Reaction](https://www.organic-chemistry.org/namedreactions/pinner-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Pinner-Reaction.png)
 
 #### Amide-Carbonyl-Addition
 
@@ -76,23 +41,23 @@ References:
 
 ![image](/notes/images/Amide-Carbonyl-Addition.png)
 
-#### Cannizzaro-Reaction
+#### Pinner-Reaction
 
 References:   
- [0] [Cannizzaro reaction - Wikipedia](https://en.wikipedia.org/wiki/Cannizzaro_reaction)  
+ [0] [Pinner Reaction](https://www.organic-chemistry.org/namedreactions/pinner-reaction.shtm)  
  
 
 
- Special Conditions : REACT WITH ITSELF 
+ 
   Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Cannizzaro-Reaction.png)
+![image](/notes/images/Pinner-Reaction.png)
 
 #### Nitrile-to-Amide-Acidic
 
@@ -110,6 +75,42 @@ References:
 
 
 ![image](/notes/images/Nitrile-to-Amide-Acidic.png)
+
+#### Pinner-Reaction-Sulfur
+
+References:   
+ [0] [Thionoester synthesis by thionation](https://www.organic-chemistry.org/synthesis/C2S/thionoesters.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Pinner-Reaction-Sulfur.png)
+
+#### Cannizzaro-Reaction
+
+References:   
+ [0] [Cannizzaro reaction - Wikipedia](https://en.wikipedia.org/wiki/Cannizzaro_reaction)  
+ 
+
+
+ Special Conditions : REACT WITH ITSELF 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Cannizzaro-Reaction.png)
 
 #### Nitrile-to-Amide-Basic
 

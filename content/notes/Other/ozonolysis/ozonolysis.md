@@ -2,7 +2,7 @@
 tags: ⚙️
 ---
 
-[Other](/notes/Other.md)
+[Other](/notes/named_reactions/Other.md)
 
 #### Ozonolysis-Alkyne
 
@@ -26,6 +26,26 @@ References:
 
 
 ![image](/notes/images/Ozonolysis-Alkyne.png)
+
+#### Wharton-Reaction
+
+References:   
+ [0] [Wharton Reaction](https://synarchive.com/named-reactions/wharton-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Wharton-Reaction.png)
 
 #### Ozonolysis-Alkene-Oxidative
 
@@ -70,24 +90,4 @@ References:
 
 
 ![image](/notes/images/Ozonolysis-Alkyne-Terminal.png)
-
-#### Wharton-Reaction
-
-References:   
- [0] [Wharton Reaction](https://synarchive.com/named-reactions/wharton-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Wharton-Reaction.png)
 

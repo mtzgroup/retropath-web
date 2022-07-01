@@ -1,4 +1,5 @@
 ---
+title: Additions
 tags: ⚙️
 ---
 [named_reactions](/notes/named_reactions.md)
@@ -22,26 +23,6 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl
-
-References:   
- [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
-> R4 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
-> 
-
-
-
-
-![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl.png)
-
 ### Thorpe-Ziegler-Reaction
 
 References:   
@@ -59,6 +40,25 @@ References:
 
 
 ![image](/notes/images/Thorpe-Ziegler-Reaction.png)
+
+### Ketene-Nu-Carboxyl-H
+
+References:   
+ [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> 
+
+
+
+
+![image](/notes/images/Ketene-Nu-Carboxyl-H.png)
 
 ### Favorskii-Reaction
 
@@ -81,10 +81,10 @@ References:
 
 ![image](/notes/images/Favorskii-Reaction.png)
 
-### Ketene-Nu-Carboxyl-H
+### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl
 
 References:   
- [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
+ [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
  
 
 
@@ -93,12 +93,13 @@ References:
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> R4 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
 > 
 
 
 
 
-![image](/notes/images/Ketene-Nu-Carboxyl-H.png)
+![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carbonyl.png)
 
 ### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Phosphonate
 
@@ -144,25 +145,6 @@ References:
 
 ![image](/notes/images/Ketene-Cycloaddition-3+2.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile
-
-References:   
- [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
-> 
-
-
-
-
-![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile.png)
-
 ### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl
 
 References:   
@@ -182,6 +164,43 @@ References:
 
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Carboxyl.png)
+
+### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile
+
+References:   
+ [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> 
+
+
+
+
+![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrile.png)
+
+### Ketene-Nu-Hydroxyl
+
+References:   
+ [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Ketene-Nu-Hydroxyl.png)
 
 ### Piperidine-Ring-Synthesis-N-Nu-Carboxyl-H
 
@@ -210,6 +229,49 @@ References:
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Carboxyl-H.png)
 
+### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate
+
+References:   
+ [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate.png)
+
+### Ketene-Cycloaddition-4+2
+
+References:   
+ [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Ketene-Cycloaddition-4+2.png)
+
 ### Piperidine-Ring-Synthesis-N-Nu-Alkoxide
 
 References:   
@@ -237,28 +299,7 @@ References:
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Alkoxide.png)
 
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate
-
-References:   
- [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Phosphonate.png)
-
-### Thiane-Ring-Synthesis-S-Nu-Hydroxyl
+### Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl
 
 References:   
  [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
@@ -282,29 +323,7 @@ References:
 
 
 
-![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Hydroxyl.png)
-
-### Ketene-Cycloaddition-4+2
-
-References:   
- [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Ketene-Cycloaddition-4+2.png)
+![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl.png)
 
 ### Piperidine-Ring-Synthesis-N-Nu-Amino
 
@@ -334,10 +353,36 @@ References:
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Amino.png)
 
-### Ketene-Nu-Hydroxyl
+### Thiane-Ring-Synthesis-S-Nu-Hydroxyl
 
 References:   
- [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
+ [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
+ [1] [EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01532161/file/EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> R7 = L-A, A-Aromatic-Carbon  
+> R8 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Hydroxyl.png)
+
+### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite
+
+References:   
+ [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
  
 
 
@@ -345,12 +390,32 @@ References:
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
 > 
 
 
 
 
-![image](/notes/images/Ketene-Nu-Hydroxyl.png)
+![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite.png)
+
+### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite
+
+References:   
+ [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite.png)
 
 ### Nef-Isocyanide-Reaction
 
@@ -390,31 +455,23 @@ References:
 
 ![image](/notes/images/Nitrone-Olefin-3+2-Cycloaddition.png)
 
-### Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl
+### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile
 
 References:   
- [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
- [1] [EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01532161/file/EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf)  
+ [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
  
 
 
  
   Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> R7 = L-A, A-Aromatic-Carbon  
-> R8 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Hydroxyl.png)
+![image](/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile.png)
 
 ### Pictet-Spengler
 
@@ -456,7 +513,7 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrite.png)
 
-### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite
+### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -473,26 +530,7 @@ References:
 
 
 
-![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrite.png)
-
-### Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite
-
-References:   
- [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
-> 
-
-
-
-
-![image](/notes/images/Amidine-Condensation-EWG1-Carbonyl-and-EWG2-Nitrite.png)
+![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile.png)
 
 ### Sulfide-Oxidation-H2O2
 
@@ -505,7 +543,7 @@ References:
  
 ![image](/notes/images/Sulfide-Oxidation-H2O2.png)
 
-### Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile
+### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate
 
 References:   
  [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
@@ -516,12 +554,14 @@ References:
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Amidine-Condensation-EWG1-Nitrile-and-EWG2-Nitrile.png)
+![image](/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate.png)
 
 ### Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H
 
@@ -549,74 +589,6 @@ References:
 
 
 ![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Carboxyl-H.png)
-
-### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile
-
-References:   
- [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Nitrile.png)
-
-### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate
-
-References:   
- [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Phosphonate.png)
-
-### Pyridine-N-Oxide-Synthesis-mCPBA
-
-References:   
- [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
- 
-
-
- 
- 
-![image](/notes/images/Pyridine-N-Oxide-Synthesis-mCPBA.png)
-
-### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite
-
-References:   
- [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite.png)
 
 ### Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Phosphonate
 
@@ -659,55 +631,6 @@ References:
 
 ![image](/notes/images/Ketene-Nu-Amino.png)
 
-### Thiane-Ring-Synthesis-S-Nu-Alkoxide
-
-References:   
- [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
- [1] [EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01532161/file/EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> R7 = L-A, A-Aromatic-Carbon  
-> R8 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R10 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Alkoxide.png)
-
-### Ketene-Cycloaddition-2+2
-
-References:   
- [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Ketene-Cycloaddition-2+2.png)
-
 ### Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate
 
 References:   
@@ -730,43 +653,56 @@ References:
 
 ![image](/notes/images/Amidine-Condensation-EWG1-Phosphonate-and-EWG2-Phosphonate.png)
 
-### Sulfoxide-Oxidation-H2O2
+### Pyridine-N-Oxide-Synthesis-mCPBA
 
 References:   
- [0] [Oxidation of Sulfides - YouTube](https://www.youtube.com/watch?v=-Dyoxm_MKXs&ab_channel=ClutchPrep)  
+ [0] [Weickgenannt\_Jun\_12.pdf](https://www.scripps.edu/baran/images/grpmtgpdf/Weickgenannt_Jun_12.pdf)  
  
 
 
  
  
-![image](/notes/images/Sulfoxide-Oxidation-H2O2.png)
+![image](/notes/images/Pyridine-N-Oxide-Synthesis-mCPBA.png)
 
-### Thiane-Ring-Synthesis-S-Nu-Carboxyl-H
+### Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite
 
 References:   
- [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
- [1] [EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01532161/file/EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf)  
+ [0] [Just a moment...](https://pubs.acs.org/doi/pdf/10.1021/ja01940a010)  
  
 
 
  
   Condition to enforce: 
-> R1 = L-A, A-Aromatic-Carbon  
-> R2 = L-A, A-Aromatic-Carbon  
-> R3 = L-A, A-Aromatic-Carbon  
-> R4 = L-A, A-Aromatic-Carbon  
-> R5 = L-A, A-Aromatic-Carbon  
-> R6 = L-A, A-Aromatic-Carbon  
-> R7 = L-A, A-Aromatic-Carbon  
-> R8 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R10 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Carboxyl-H.png)
+![image](/notes/images/Amidine-Condensation-EWG1-Nitrite-and-EWG2-Nitrite.png)
+
+### Ketene-Cycloaddition-2+2
+
+References:   
+ [0] [Achmatowicz Reaction](https://synarchive.com/named-reactions/achmatowicz-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R5 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R6 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Ketene-Cycloaddition-2+2.png)
 
 ### Piperidine-Ring-Synthesis-N-Nu-Hydroxyl
 
@@ -793,6 +729,33 @@ References:
 
 
 ![image](/notes/images/Piperidine-Ring-Synthesis-N-Nu-Hydroxyl.png)
+
+### Thiane-Ring-Synthesis-S-Nu-Alkoxide
+
+References:   
+ [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
+ [1] [EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01532161/file/EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> R7 = L-A, A-Aromatic-Carbon  
+> R8 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R10 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Alkoxide.png)
 
 ### Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide
 
@@ -821,24 +784,43 @@ References:
 
 ![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Alkoxide.png)
 
-### Ketene-Nu-Alkoxide
+### Thiane-Ring-Synthesis-S-Nu-Carboxyl-H
 
 References:   
- [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
+ [0] [Prins%20reactions%20and%20Applications\_Haye%20Min%20Ko.pdf](http://gbdong.cm.utexas.edu/seminar/old/Prins%20reactions%20and%20Applications_Haye%20Min%20Ko.pdf)  
+ [1] [EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf](https://hal-univ-rennes1.archives-ouvertes.fr/hal-01532161/file/EJOC%20MS%20aza%20Prins%20minirev%20CL-%20revised%20et%20RG%2016-12.pdf)  
  
 
 
  
   Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R1 = L-A, A-Aromatic-Carbon  
+> R2 = L-A, A-Aromatic-Carbon  
+> R3 = L-A, A-Aromatic-Carbon  
+> R4 = L-A, A-Aromatic-Carbon  
+> R5 = L-A, A-Aromatic-Carbon  
+> R6 = L-A, A-Aromatic-Carbon  
+> R7 = L-A, A-Aromatic-Carbon  
+> R8 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R9 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R10 = H, A-Aromatic-Carbon, A-Aliphatic-Carbon, Vinyl-Group  
 > 
 
 
 
 
-![image](/notes/images/Ketene-Nu-Alkoxide.png)
+![image](/notes/images/Thiane-Ring-Synthesis-S-Nu-Carboxyl-H.png)
+
+### Sulfoxide-Oxidation-H2O2
+
+References:   
+ [0] [Oxidation of Sulfides - YouTube](https://www.youtube.com/watch?v=-Dyoxm_MKXs&ab_channel=ClutchPrep)  
+ 
+
+
+ 
+ 
+![image](/notes/images/Sulfoxide-Oxidation-H2O2.png)
 
 ### Tetrahydropyran-Ring-Synthesis-Nu-Amino
 
@@ -867,6 +849,25 @@ References:
 
 
 ![image](/notes/images/Tetrahydropyran-Ring-Synthesis-Nu-Amino.png)
+
+### Ketene-Nu-Alkoxide
+
+References:   
+ [0] [Ketene - Wikipedia](https://en.wikipedia.org/wiki/Ketene)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Ketene-Nu-Alkoxide.png)
 
 ### Thiane-Ring-Synthesis-S-Nu-Amino
 

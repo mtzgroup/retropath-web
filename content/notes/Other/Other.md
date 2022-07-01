@@ -1,7 +1,7 @@
 ---
 tags: ⚙️
 ---
-[named_reactions](/notes/named_reactions.md)
+[named_reactions](/notes/named_reactions/named_reactions.md)
 
 
 ### Formylation-Alpha-Bromo
@@ -23,6 +23,25 @@ References:
 
 ![image](/notes/images/Formylation-Alpha-Bromo.png)
 
+### Dakin-West-Reaction
+
+References:   
+ [0] [Dakin-West Reaction](https://synarchive.com/named-reactions/dakin-west-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Dakin-West-Reaction.png)
+
 ### Ganem-Oxidation-X-Chlorine
 
 References:   
@@ -43,25 +62,6 @@ References:
 
 
 ![image](/notes/images/Ganem-Oxidation-X-Chlorine.png)
-
-### Dakin-West-Reaction
-
-References:   
- [0] [Dakin-West Reaction](https://synarchive.com/named-reactions/dakin-west-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Dakin-West-Reaction.png)
 
 ### Ganem-Oxidation-X-Sulfonate
 
@@ -124,6 +124,17 @@ References:
 
 ![image](/notes/images/Formylation-Alpha-Iodo.png)
 
+### Azo-Coupling
+
+References:   
+ [0] [Azo Coupling](https://www.organic-chemistry.org/namedreactions/azo-coupling.shtm)  
+ 
+
+
+ 
+ 
+![image](/notes/images/Azo-Coupling.png)
+
 ### Hoffmann-Chloramide-Reaction
 
 References:   
@@ -140,17 +151,6 @@ References:
 
 
 ![image](/notes/images/Hoffmann-Chloramide-Reaction.png)
-
-### Azo-Coupling
-
-References:   
- [0] [Azo Coupling](https://www.organic-chemistry.org/namedreactions/azo-coupling.shtm)  
- 
-
-
- 
- 
-![image](/notes/images/Azo-Coupling.png)
 
 ### Hydrolysis-Isocyanide
 
@@ -200,6 +200,23 @@ References:
 
 ![image](/notes/images/Buchner-Curtius-Schlotterbeck-Reaction.png)
 
+### Hoffmann-Bromamide-Reaction
+
+References:   
+ [0] [Hoffmann Bromamide Reaction Mechanism - Explanation of Hoffmann Degradation with Examples](https://byjus.com/chemistry/hoffmann-bromamide-reaction-mechanism/)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Hoffmann-Bromamide-Reaction.png)
+
 ### Ganem-Oxidation-X-Bromine
 
 References:   
@@ -221,23 +238,6 @@ References:
 
 ![image](/notes/images/Ganem-Oxidation-X-Bromine.png)
 
-### Hoffmann-Bromamide-Reaction
-
-References:   
- [0] [Hoffmann Bromamide Reaction Mechanism - Explanation of Hoffmann Degradation with Examples](https://byjus.com/chemistry/hoffmann-bromamide-reaction-mechanism/)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Hoffmann-Bromamide-Reaction.png)
-
 ### Perkin-Reaction
 
 References:   
@@ -257,23 +257,23 @@ References:
 
 ![image](/notes/images/Perkin-Reaction.png)
 
-### Isocyanide-Formation
+### Amine-Deprotection
 
 References:   
- [0] [organic chemistry - Conversion of formamide to isocyanide - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/60290/conversion-of-formamide-to-isocyanide)  
+ [0] [Amine Protection / Deprotection](https://www.fishersci.co.uk/gb/en/scientific-products/lab-reporter-europe/chemicals/amine-protection-deprotection.html)  
  
 
 
  
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
 > 
 
 
 
 
-![image](/notes/images/Isocyanide-Formation.png)
+![image](/notes/images/Amine-Deprotection.png)
 
 ### Passerini-Reaction
 
@@ -316,23 +316,23 @@ References:
 
 ![image](/notes/images/Ramberg-Backlund-Reaction.png)
 
-### Amine-Deprotection
+### Isocyanide-Formation
 
 References:   
- [0] [Amine Protection / Deprotection](https://www.fishersci.co.uk/gb/en/scientific-products/lab-reporter-europe/chemicals/amine-protection-deprotection.html)  
+ [0] [organic chemistry - Conversion of formamide to isocyanide - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/60290/conversion-of-formamide-to-isocyanide)  
  
 
 
  
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > 
 
 
 
 
-![image](/notes/images/Amine-Deprotection.png)
+![image](/notes/images/Isocyanide-Formation.png)
 
 ### Mannich-Reaction
 
@@ -382,27 +382,6 @@ References:
 
 ![image](/notes/images/Formylation-Alpha-Chloral.png)
 
-### Eschenmoser-Fragmentation
-
-References:   
- [0] [Eschenmoser Fragmentation](https://synarchive.com/named-reactions/eschenmoser-fragmentation)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = L-A  
-> R2 = L-A  
-> R3 = L-A  
-> R4 = L-A  
-> R5 = L-A  
-> 
-
-
-
-
-![image](/notes/images/Eschenmoser-Fragmentation.png)
-
 ### Ganem-Oxidation-X-Iodine
 
 References:   
@@ -423,6 +402,27 @@ References:
 
 
 ![image](/notes/images/Ganem-Oxidation-X-Iodine.png)
+
+### Eschenmoser-Fragmentation
+
+References:   
+ [0] [Eschenmoser Fragmentation](https://synarchive.com/named-reactions/eschenmoser-fragmentation)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = L-A  
+> R2 = L-A  
+> R3 = L-A  
+> R4 = L-A  
+> R5 = L-A  
+> 
+
+
+
+
+![image](/notes/images/Eschenmoser-Fragmentation.png)
 
 ### Polonovski-Reaction
 
