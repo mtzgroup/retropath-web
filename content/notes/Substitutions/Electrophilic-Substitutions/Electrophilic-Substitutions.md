@@ -1,7 +1,24 @@
 ---
 tags: ⚙️
 ---
-[[Substitutions]]
+
+[substitutions](/notes/Substitutions/Substitutions.md)
+#### Bradsher-Cyclization-2
+
+References:   
+ [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R10 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Bradsher-Cyclization-2.png)
 
 #### Reimer-Tiemann-Formylation
 
@@ -13,6 +30,25 @@ References:
  
  
 ![image](/notes/images/Reimer-Tiemann-Formylation.png)
+
+#### Eschweiler-Clarke-Reaction
+
+References:   
+ [0] [Eschweiler-Clarke Reaction](https://www.organic-chemistry.org/namedreactions/eschweiler-clarke-reaction.shtm)  
+ [1] [Eschweiler-Clarke Reaction](https://synarchive.com/named-reactions/eschweiler-clarke-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Eschweiler-Clarke-Reaction.png)
 
 #### Benzene-Nitration
 
@@ -45,24 +81,7 @@ References:
 
 ![image](/notes/images/Benzene-Nitration.png)
 
-#### Bradsher-Cyclization-(2)
-
-References:   
- [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
- 
-
-
- 
-  Condition to enforce: 
-> R10 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Bradsher-Cyclization-(2).png)
-
-#### Bradsher-Cyclization-(1)
+#### Bradsher-Cyclization-1
 
 References:   
  [0] [Bradsher Cyclization](https://synarchive.com/named-reactions/bradsher-cyclization)  
@@ -77,7 +96,7 @@ References:
 
 
 
-![image](/notes/images/Bradsher-Cyclization-(1).png)
+![image](/notes/images/Bradsher-Cyclization-1.png)
 
 #### Duff-Reaction
 
@@ -89,23 +108,4 @@ References:
  
  
 ![image](/notes/images/Duff-Reaction.png)
-
-#### Eschweiler-Clarke-Reaction
-
-References:   
- [0] [Eschweiler-Clarke Reaction](https://www.organic-chemistry.org/namedreactions/eschweiler-clarke-reaction.shtm)  
- [1] [Eschweiler-Clarke Reaction](https://synarchive.com/named-reactions/eschweiler-clarke-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Eschweiler-Clarke-Reaction.png)
 

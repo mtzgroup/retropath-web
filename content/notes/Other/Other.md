@@ -1,7 +1,7 @@
 ---
 tags: ⚙️
 ---
-[[named_reactions]]
+[named_reactions](/notes/named_reactions.md)
 
 
 ### Formylation-Alpha-Bromo
@@ -63,25 +63,6 @@ References:
 
 ![image](/notes/images/Dakin-West-Reaction.png)
 
-### Formylation-Alpha-Iodo
-
-References:   
- [0] [Haloform Reaction](https://www.organic-chemistry.org/namedreactions/haloform-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
-> 
-
-
-
-
-![image](/notes/images/Formylation-Alpha-Iodo.png)
-
 ### Ganem-Oxidation-X-Sulfonate
 
 References:   
@@ -124,16 +105,24 @@ References:
 
 ![image](/notes/images/Ugi-Reaction.png)
 
-### Azo-Coupling
+### Formylation-Alpha-Iodo
 
 References:   
- [0] [Azo Coupling](https://www.organic-chemistry.org/namedreactions/azo-coupling.shtm)  
+ [0] [Haloform Reaction](https://www.organic-chemistry.org/namedreactions/haloform-reaction.shtm)  
  
 
 
  
- 
-![image](/notes/images/Azo-Coupling.png)
+  Condition to enforce: 
+> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A  
+> 
+
+
+
+
+![image](/notes/images/Formylation-Alpha-Iodo.png)
 
 ### Hoffmann-Chloramide-Reaction
 
@@ -151,6 +140,17 @@ References:
 
 
 ![image](/notes/images/Hoffmann-Chloramide-Reaction.png)
+
+### Azo-Coupling
+
+References:   
+ [0] [Azo Coupling](https://www.organic-chemistry.org/namedreactions/azo-coupling.shtm)  
+ 
+
+
+ 
+ 
+![image](/notes/images/Azo-Coupling.png)
 
 ### Hydrolysis-Isocyanide
 
@@ -179,6 +179,26 @@ References:
 
 
 ![image](/notes/images/Carbylamine-Reaction.png)
+
+### Buchner-Curtius-Schlotterbeck-Reaction
+
+References:   
+ [0] [Büchner-Curtius-Schlotterbeck Reaction](https://synarchive.com/named-reactions/buechner-curtius-schlotterbeck-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H  
+> R4 = H  
+> 
+
+
+
+
+![image](/notes/images/Buchner-Curtius-Schlotterbeck-Reaction.png)
 
 ### Ganem-Oxidation-X-Bromine
 
@@ -237,10 +257,10 @@ References:
 
 ![image](/notes/images/Perkin-Reaction.png)
 
-### Buchner-Curtius-Schlotterbeck-Reaction
+### Isocyanide-Formation
 
 References:   
- [0] [Büchner-Curtius-Schlotterbeck Reaction](https://synarchive.com/named-reactions/buechner-curtius-schlotterbeck-reaction)  
+ [0] [organic chemistry - Conversion of formamide to isocyanide - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/60290/conversion-of-formamide-to-isocyanide)  
  
 
 
@@ -248,14 +268,32 @@ References:
   Condition to enforce: 
 > R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
 > R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H  
-> R4 = H  
 > 
 
 
 
 
-![image](/notes/images/Buchner-Curtius-Schlotterbeck-Reaction.png)
+![image](/notes/images/Isocyanide-Formation.png)
+
+### Passerini-Reaction
+
+References:   
+ [0] [Passerini reaction - Wikipedia](https://en.wikipedia.org/wiki/Passerini_reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Passerini-Reaction.png)
 
 ### Ramberg-Backlund-Reaction
 
@@ -296,24 +334,6 @@ References:
 
 ![image](/notes/images/Amine-Deprotection.png)
 
-### Isocyanide-Formation
-
-References:   
- [0] [organic chemistry - Conversion of formamide to isocyanide - Chemistry Stack Exchange](https://chemistry.stackexchange.com/questions/60290/conversion-of-formamide-to-isocyanide)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Isocyanide-Formation.png)
-
 ### Mannich-Reaction
 
 References:   
@@ -342,26 +362,6 @@ References:
 
 
 ![image](/notes/images/Mannich-Reaction.png)
-
-### Passerini-Reaction
-
-References:   
- [0] [Passerini reaction - Wikipedia](https://en.wikipedia.org/wiki/Passerini_reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Passerini-Reaction.png)
 
 ### Formylation-Alpha-Chloral
 

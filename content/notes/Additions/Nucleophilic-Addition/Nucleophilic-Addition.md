@@ -1,8 +1,8 @@
 ---
 tags: ⚙️
 ---
-[[Additions]]
 
+[Additions](/notes/Additions)
 #### Riemschneider-Thiocarbamate-Synthesis-Water
 
 References:   
@@ -19,6 +19,42 @@ References:
 
 
 ![image](/notes/images/Riemschneider-Thiocarbamate-Synthesis-Water.png)
+
+#### Pinner-Reaction-Sulfur
+
+References:   
+ [0] [Thionoester synthesis by thionation](https://www.organic-chemistry.org/synthesis/C2S/thionoesters.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Pinner-Reaction-Sulfur.png)
+
+#### Pinner-Reaction
+
+References:   
+ [0] [Pinner Reaction](https://www.organic-chemistry.org/namedreactions/pinner-reaction.shtm)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Pinner-Reaction.png)
 
 #### Amide-Carbonyl-Addition
 
@@ -74,42 +110,6 @@ References:
 
 
 ![image](/notes/images/Nitrile-to-Amide-Acidic.png)
-
-#### Pinner-Reaction-Sulfur
-
-References:   
- [0] [Thionoester synthesis by thionation](https://www.organic-chemistry.org/synthesis/C2S/thionoesters.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Pinner-Reaction-Sulfur.png)
-
-#### Pinner-Reaction
-
-References:   
- [0] [Pinner Reaction](https://www.organic-chemistry.org/namedreactions/pinner-reaction.shtm)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Pinner-Reaction.png)
 
 #### Nitrile-to-Amide-Basic
 

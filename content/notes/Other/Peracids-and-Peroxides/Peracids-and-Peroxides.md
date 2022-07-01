@@ -1,8 +1,8 @@
 ---
 tags: ⚙️
 ---
-[[Other]]
 
+[Other](/notes/Other.md)
 #### Rubottom-Oxidation
 
 References:   
@@ -25,26 +25,6 @@ References:
 
 
 ![image](/notes/images/Rubottom-Oxidation.png)
-
-#### Baeyer-Villiger-Oxidation-(Peracid)
-
-References:   
- [0] [Baeyer-Villiger Oxidation](https://www.organic-chemistry.org/namedreactions/baeyer-villiger-oxidation.shtm)  
- [1] [Baeyer–Villiger oxidation - Wikipedia](https://en.wikipedia.org/wiki/Baeyer–Villiger_oxidation)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Baeyer-Villiger-Oxidation-(Peracid).png)
 
 #### Dakin-Oxidation-Acid
 
@@ -84,6 +64,26 @@ References:
 
 
 ![image](/notes/images/Prilezhaev-Epoxidation.png)
+
+#### Baeyer-Villiger-Oxidation-Peracid
+
+References:   
+ [0] [Baeyer-Villiger Oxidation](https://www.organic-chemistry.org/namedreactions/baeyer-villiger-oxidation.shtm)  
+ [1] [Baeyer–Villiger oxidation - Wikipedia](https://en.wikipedia.org/wiki/Baeyer–Villiger_oxidation)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Baeyer-Villiger-Oxidation-Peracid.png)
 
 #### Dakin-Oxidation-Basic
 

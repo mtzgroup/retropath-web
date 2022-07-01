@@ -1,10 +1,10 @@
 ---
 tags: ⚙️
 ---
-[[Other]]
 
+[Other](/notes/Other.md)
 
-#### ozonolysis-alkyne
+#### Ozonolysis-Alkyne
 
 References:   
  [0] [Ozonolysis - Criegee Mechanism](https://www.organic-chemistry.org/namedreactions/ozonolysis-criegee-mechanism.shtm)  
@@ -25,9 +25,9 @@ References:
 
 
 
-![image](/notes/images/ozonolysis-alkyne.png)
+![image](/notes/images/Ozonolysis-Alkyne.png)
 
-#### ozonolysis-alkene-oxidative
+#### Ozonolysis-Alkene-Oxidative
 
 References:   
  [0] [Ozonolysis - Criegee Mechanism](https://www.organic-chemistry.org/namedreactions/ozonolysis-criegee-mechanism.shtm)  
@@ -48,27 +48,7 @@ References:
 
 
 
-![image](/notes/images/ozonolysis-alkene-oxidative.png)
-
-#### Wharton-Reaction
-
-References:   
- [0] [Wharton Reaction](https://synarchive.com/named-reactions/wharton-reaction)  
- 
-
-
- 
-  Condition to enforce: 
-> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
-> 
-
-
-
-
-![image](/notes/images/Wharton-Reaction.png)
+![image](/notes/images/Ozonolysis-Alkene-Oxidative.png)
 
 #### Ozonolysis-Alkyne-Terminal
 
@@ -90,4 +70,24 @@ References:
 
 
 ![image](/notes/images/Ozonolysis-Alkyne-Terminal.png)
+
+#### Wharton-Reaction
+
+References:   
+ [0] [Wharton Reaction](https://synarchive.com/named-reactions/wharton-reaction)  
+ 
+
+
+ 
+  Condition to enforce: 
+> R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> R4 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon  
+> 
+
+
+
+
+![image](/notes/images/Wharton-Reaction.png)
 
