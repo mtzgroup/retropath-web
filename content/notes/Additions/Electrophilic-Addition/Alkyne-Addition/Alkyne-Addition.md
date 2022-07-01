@@ -3,7 +3,7 @@ title: Alkyne-Additions
 tags: ⚙️
 ---
 
-[Electrophilic-Addition](/notes/Additions/Electrophilic-Addition.md)
+[Electrophilic-Addition](/notes/Additions/Electrophilic-Addition/Electrophilic-Addition.md)
  
 ##### Alkyne-Addition-El-Chlorine-and-Nu-Chlorine
 

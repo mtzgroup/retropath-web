@@ -2,7 +2,7 @@
 title: Alkene-Additions
 tags: ⚙️
 ---
-[Electrophilic-Addition](/notes/Additions/Electrophilic-Addition.md)
+[Electrophilic-Addition](/notes/Additions/Electrophilic-Addition/Electrophilic-Addition.md)
 
 ##### Alkene-with-Halogen-Addition-Acidification-Nu-Iodine-and-Hal-Chlorine
 

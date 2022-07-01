@@ -2,7 +2,7 @@
 title: Nucleophilic-Substitutions
 tags: ⚙️
 ---
-[substitutions](/notes/named_reactions/Substitutions/Substitutions.md)
+[substitutions](/notes/Substitutions/Substitutions.md)
 
 
 #### Aziridine-Ring-Opening-Nu-Chlorine-acid

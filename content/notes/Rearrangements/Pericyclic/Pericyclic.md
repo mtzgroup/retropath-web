@@ -3,7 +3,7 @@ title: Pericyclic
 tags: ⚙️
 ---
 
-[Rearrangements](/notes/Rearrangements.md)
+[Rearrangements](/notes/Rearrangements/Rearrangements.md)
 #### Petasis-Ferrier-Rearrangement
 
 References:   

@@ -2,7 +2,7 @@
 tags: ⚙️
 ---
 
-[Other](/notes/named_reactions/Other.md)
+[Other](/notes/Other/Other.md)
 #### Rubottom-Oxidation
 
 References:   

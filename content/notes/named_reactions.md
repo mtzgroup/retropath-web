@@ -1,7 +1,5 @@
 ---
 title: Named Reactions
-tags: 🚧, 🧪, cody, alessio, samuel, 📁
-
 ---
 
 
@@ -14,9 +12,6 @@ These steps can be grouped into clusters corresponding to the mechanism for a pa
 
 This simplifies the discussion of any chemical reaction because because it can simply be said what the overall important sequences are, rather than all the small details that might have happened from point A to point B.  For example, in this following picture we can see how the orange arrow simplify the complex network of elementary steps
 
-![diff](Reaction-vs-Elementary-Reaction.png)
+![diff](notes/images/Reaction-vs-Elementary-Reaction.png)
 
 
-```dataview 
-list from [[#this.file.name]] and !outgoing([[# this.file.name]]) 
-```

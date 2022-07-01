@@ -3,7 +3,7 @@ title: Electrophilic-Additions
 tags: ⚙️
 ---
 
-[Additions](/notes/Additions.md)
+[Additions](/notes/Additions/Additions.md)
 #### Halogenation-Allylic-Succinimides-X-Bromine
 
 References:   
