@@ -4,26 +4,7 @@ Krapcho-Decarboxylation-GWE-Carboxyl References:
 Condition to enforce:
 R1 = L-A
 R2 = L-A
-R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</guid><description>Other
-Isoindolinone-Synthesis-1-X-Fluorine References:
-[0] Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones
-Condition to enforce:
-R5 = H, A-Aliphatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</guid><description>named_reactions
-Formylation-Alpha-Bromo References:
-[0] Haloform Reaction
-Condition to enforce:
-R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A
-R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</guid><description>Other
-Ozonolysis-Alkyne References:
-[0] Ozonolysis - Criegee Mechanism
-[1] Alkene Reactions: Ozonolysis – Master Organic Chemistry
-[2] Alkene Reactions: Ozonolysis – Master Organic Chemistry</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</guid><description>Other
-Rubottom-Oxidation References:
-[0] Rubottom Oxidation
-Condition to enforce:
-R1 = L-A, A-Aromatic-Carbon
-R2 = L-A, A-Aromatic-Carbon
-R3 = L-A, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>substitutions
+R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>substitutions
 Reimer-Tiemann-Formylation References:
 [0] Reimer-Tiemann Formylation
 Benzene-Nitration References:
@@ -46,7 +27,11 @@ R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group</description></item><
 Alkyne-Addition-El-Chlorine-and-Nu-Chlorine References:
 [0] Synthesis (5) - Reactions of Alkynes – Master Organic Chemistry
 Condition to enforce:
-R1 = H, A-Aliphatic-Carbon</description></item><item><title>Carbonyl-Nucleophilic-Addition</title><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</guid><description>Additions
+R1 = H, A-Aliphatic-Carbon</description></item><item><title>Aromatic Syntheses</title><link>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Aromatic-Syntheses/Aromatic-Syntheses/</guid><description>Other
+Isoindolinone-Synthesis-1-X-Fluorine References:
+[0] Base-Promoted Cascade C-C Coupling/N-α-sp3C-H Hydroxylation for the Regiospecific Synthesis of 3-Hydroxyisoindolinones
+Condition to enforce:
+R5 = H, A-Aliphatic-Carbon</description></item><item><title>Carbonyl-Nucleophilic-Addition</title><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/Carbonyl-Nucleophilic-Addition/</guid><description>Additions
 Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile References:
 [0] Carbonyl Mechanisms: Neutral Nucleophiles, Part 1 – Master Organic Chemistry
 [1] 19.4 Nucleophilic Addition Reactions of Aldehydes and Ketones - Chemistry LibreTexts</description></item><item><title>Electrophilic-Additions</title><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Electrophilic-Addition/Electrophilic-Addition/</guid><description>Additions
@@ -71,7 +56,22 @@ Aziridine-Ring-Opening-Nu-Chlorine-acid References:
 [0] Aziridines - Wikipedia
 Condition to enforce:
 R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon
-R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title>Pericyclic</title><link>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</guid><description>Rearrangements
+R2 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title>Other</title><link>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Other/</guid><description>named_reactions
+Formylation-Alpha-Bromo References:
+[0] Haloform Reaction
+Condition to enforce:
+R1 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A
+R2 = A-Aliphatic-Carbon, A-Aromatic-Carbon, L-A</description></item><item><title>ozonolysis</title><link>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/ozonolysis/ozonolysis/</guid><description>Other
+Ozonolysis-Alkyne References:
+[0] Ozonolysis - Criegee Mechanism
+[1] Alkene Reactions: Ozonolysis – Master Organic Chemistry
+[2] Alkene Reactions: Ozonolysis – Master Organic Chemistry</description></item><item><title>Peracids-and-Peroxides</title><link>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Other/Peracids-and-Peroxides/Peracids-and-Peroxides/</guid><description>Other
+Rubottom-Oxidation References:
+[0] Rubottom Oxidation
+Condition to enforce:
+R1 = L-A, A-Aromatic-Carbon
+R2 = L-A, A-Aromatic-Carbon
+R3 = L-A, A-Aromatic-Carbon</description></item><item><title>Pericyclic</title><link>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Rearrangements/Pericyclic/Pericyclic/</guid><description>Rearrangements
 Petasis-Ferrier-Rearrangement References:
 [0] Petasis-Ferrier Rearrangement
 Special Conditions : SIDE REACTION Condition to enforce:
