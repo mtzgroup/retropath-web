@@ -2,7 +2,7 @@
 tags: ⚙️
 ---
 
-[substitutions](/notes/named_reactions/Substitutions/Substitutions.md)
+[substitutions](/notes/Substitutions/Substitutions.md)
 ## Reimer-Tiemann-Formylation
 
 References:   

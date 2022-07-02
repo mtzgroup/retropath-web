@@ -3,7 +3,7 @@ title: Nucleophilic-Addition
 tags: ⚙️
 ---
 
-[Additions](/notes/Additions.md)
+[Additions](/notes/Additions/Additions.md)
 ## Riemschneider-Thiocarbamate-Synthesis-Water
 
 References:   

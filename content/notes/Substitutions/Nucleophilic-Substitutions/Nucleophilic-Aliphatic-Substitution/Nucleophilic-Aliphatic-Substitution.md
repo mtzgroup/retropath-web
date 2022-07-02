@@ -1,7 +1,7 @@
 ---
 tags: ⚙️
 ---
-[nucleophilic-substitutions](/notes/named_reactions/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions.md)
+[nucleophilic-substitutions](/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions.md)
 
 
 

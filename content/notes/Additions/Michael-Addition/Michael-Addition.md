@@ -2,7 +2,7 @@
 title: Michael-Additions
 tags: ⚙️
 ---
-[Additions](/notes/Additions.md)
+[Additions](/notes/Additions/Additions.md)
 
 
 ## Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester
