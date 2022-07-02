@@ -1,4 +1,5 @@
 ---
+title: Nucleophilic-Aliphatic-Substitutions
 tags: ⚙️
 ---
 [nucleophilic-substitutions](/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions.md)
