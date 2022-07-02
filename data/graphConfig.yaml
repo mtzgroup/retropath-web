@@ -9,7 +9,7 @@ localGraph:
     enableLegend: false
     enableDrag: true
     enableZoom: true
-    depth: 1 # set to -1 to show full graph
+    depth: 2 # set to -1 to show full graph
     scale: 1.2
     repelForce: 2
     centerForce: 1
@@ -25,9 +25,9 @@ globalGraph:
     enableZoom: true
     depth: -1 # set to -1 to show full graph
     scale: 1.4
-    repelForce: 1
+    repelForce: .7  # default 1 
     centerForce: 1
-    linkDistance: 1
+    linkDistance: 0.7  # default 1
     fontSize: 0.5
     opacityScale: 3
 
