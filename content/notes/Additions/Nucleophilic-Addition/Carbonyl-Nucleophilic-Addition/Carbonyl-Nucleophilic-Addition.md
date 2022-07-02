@@ -3,7 +3,7 @@ title: Carbonyl-Nucleophilic-Addition
 tags: ⚙️
 ---
 
-[Additions](/notes/Additions/Nucleophilic-Addition.md)
+[Additions](/notes/Additions/Nucleophilic-Addition/Nucleophilic-Addition.md)
 
 
 ### Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile
