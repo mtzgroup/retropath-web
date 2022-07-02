@@ -1,19 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>⚙️ on</title><link>https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/</link><description>Recent content in ⚙️ on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</guid><description>named_reactions
-Krapcho-Decarboxylation-GWE-Carboxyl References:
-[0] Krapcho Decarboxylation
-Condition to enforce:
-R1 = L-A
-R2 = L-A
-R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>substitutions
-Reimer-Tiemann-Formylation References:
-[0] Reimer-Tiemann Formylation
-Benzene-Nitration References:
-[0] Nitration of Benzene and Methylbenzene - Chemistry LibreTexts
-[1] Nitration - Wikipedia</description></item><item><title/><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</guid><description>nucleophilic-substitutions
-Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine References:
-[0] Acetoacetic-Ester Synthesis
-[1] Substituted carbonyl compound synthesis by alkylation or condensation
-[2] Malonic Ester Synthesis</description></item><item><title>Additions</title><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</guid><description>named_reactions
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>⚙️ on</title><link>https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/</link><description>Recent content in ⚙️ on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://mtzgroup.github.io/retropath-web/tags/%EF%B8%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>Additions</title><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Additions/</guid><description>named_reactions
 Amidine-Condensation-EWG1-Carboxyl-and-EWG2-Carboxyl References:
 [0] Just a moment&amp;hellip;
 Condition to enforce:
@@ -38,7 +23,18 @@ Carbonyl-Nucleophilic-Addition-Basic-Nu-Nitrile References:
 Halogenation-Allylic-Succinimides-X-Bromine References:
 [0] N-BromoSuccinimide (NBS) As A Reagent In Organic Chemistry
 Condition to enforce:
-R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide</description></item><item><title>Michael-Additions</title><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</guid><description>Additions
+R1 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon, Vinyl-Group, A-Alkoxide</description></item><item><title>Electrophilic-Substitutions</title><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Electrophilic-Substitutions/Electrophilic-Substitutions/</guid><description>substitutions
+Reimer-Tiemann-Formylation References:
+[0] Reimer-Tiemann Formylation
+Benzene-Nitration References:
+[0] Nitration of Benzene and Methylbenzene - Chemistry LibreTexts
+[1] Nitration - Wikipedia</description></item><item><title>Eliminations</title><link>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Eliminations/Eliminations/</guid><description>named_reactions
+Krapcho-Decarboxylation-GWE-Carboxyl References:
+[0] Krapcho Decarboxylation
+Condition to enforce:
+R1 = L-A
+R2 = L-A
+R3 = H, A-Aliphatic-Carbon, A-Aromatic-Carbon</description></item><item><title>Michael-Additions</title><link>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Additions/Michael-Addition/Michael-Addition/</guid><description>Additions
 Michael-Addition-EWG1-Alkane-and-EWG2-Carboxyl-EWG3-Ester References:
 [0] Michael Addition
 [1] JSCT_v11-6.pdf
@@ -50,7 +46,11 @@ Riemschneider-Thiocarbamate-Synthesis-Water References:
 [0] Riemschneider thiocarbamate synthesis - Wikipedia
 Condition to enforce:
 R1 = L-A
-Amide-Carbonyl-Addition References:</description></item><item><title>Nucleophilic-Aromatic-Substitutions</title><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</guid><description>nucleophilic-substitutions
+Amide-Carbonyl-Addition References:</description></item><item><title>Nucleophilic-Aliphatic-Substitutions</title><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aliphatic-Substitution/Nucleophilic-Aliphatic-Substitution/</guid><description>nucleophilic-substitutions
+Nucleophilic-Aliphatic-Substitution-Beta-acid-EWG1-Alkane-and-EWG2-Carbonyl-Lg-Chlorine References:
+[0] Acetoacetic-Ester Synthesis
+[1] Substituted carbonyl compound synthesis by alkylation or condensation
+[2] Malonic Ester Synthesis</description></item><item><title>Nucleophilic-Aromatic-Substitutions</title><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Aromatic-Substitution/Nucleophilic-Aromatic-Substitution/</guid><description>nucleophilic-substitutions
 A nucleophile (Nu-) attack an electron poor aromatic molecule, resulting in the substitution of a leaving group Works well with electron withdrawing groups (EWG), such as NO2, since it activates the ring The EWGs work well in the ortho or para positions since the Nu- puts a negative charge on the ring and the EWG can help stabilize it https://www.</description></item><item><title>Nucleophilic-Substitutions</title><link>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtzgroup.github.io/retropath-web/notes/Substitutions/Nucleophilic-Substitutions/Nucleophilic-Substitutions/</guid><description>substitutions
 Aziridine-Ring-Opening-Nu-Chlorine-acid References:
 [0] Aziridines - Wikipedia
